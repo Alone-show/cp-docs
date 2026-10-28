@@ -1,0 +1,99 @@
+{
+ "no": "1.17",
+ "model": "SPRING 7",
+ "family": "SPRING",
+ "intro": "坚固型车载平板，支持2路RS-232 1路RS-485，2路CAN (支持J1939, CANopen, ISO15765)，支持2路INPUT，2路OUTPUT,支持CVBS摄像头 480p*2，广泛应用于精准农业，工程机械，智慧交通，智慧矿山，仓库管理等。",
+ "size_mm": "194*127*29",
+ "weight_kg": 0.7,
+ "params_flat": {
+  "cpu": "4核, 1.2GHz",
+  "ram": "2G",
+  "rom": "16G",
+  "os": "Android 6.0.1 / Linux 3.10",
+  "screen_inch": "7",
+  "resolution": "1024*600",
+  "brightness": "750cd/m2",
+  "touch": "电容触摸显示屏，支持5指触控",
+  "cellular": "4G",
+  "wifi": "WiFi 2.4G",
+  "bluetooth": "BT 4.2 BLE",
+  "gnss": "（可选配米级）",
+  "can": "CAN*2",
+  "rs232": "RS232*2",
+  "rs485": "RS485*1",
+  "dc_output": "12V 直流对外供电*2",
+  "usb": "USB 2.0*1",
+  "ethernet": "以太网*1（可选）",
+  "camera_in": "CVBS 摄像头 480p*2",
+  "mic": "内置麦克风*1（可选）",
+  "speaker": "内置扬声器*1",
+  "io_input": "支持INPUT*2",
+  "power_input": "电源 9-36V 直流输入",
+  "acc_detect": "开机点火 ACC 状态检测",
+  "protection": "IP65",
+  "vibration": "震动标准（工作中）：MIL-STD-810",
+  "connector": "标准工业级防水连接器\nSMA 母头*2\nUSB 2.0 接口*1",
+  "buttons": "电源开关键*1，自定义功能按键*2",
+  "temp_operating": "-30℃~+70℃",
+  "temp_storage": "-40℃~+85℃",
+  "humidity": "95%，无冷凝"
+ },
+ "tables": [
+  {
+   "sha256": "4f9ead55656b041911215a36b861fa20a02ca3fd5e76fa99a9e1dd87273c0095",
+   "file": "images/store/4f9ead55656b041911215a36b861fa20a02ca3fd5e76fa99a9e1dd87273c0095.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%207.png",
+   "section": "3.1 产品参数",
+   "caption": "图3.1 配置信息",
+   "kind": "param",
+   "is_table": true,
+   "header": [
+    "分类",
+    "内容"
+   ],
+   "rows": [
+    [
+     "系统",
+     "4核, 1.2GHz\n2G RAM\n16G ROM\nAndroid 6.0.1\nLinux 3.10"
+    ],
+    [
+     "通讯和接口",
+     "4G\nWiFi 2.4G\nBT 4.2 BLE\nGNSS（可选配米级）\nRS232*2\nRS485*1\nCAN*2\nUSB 2.0*1\n12V 直流对外供电*2\n以太网*1（可选）\n支持 CP ISOBUS VT\n支持INPUT*2"
+    ],
+    [
+     "环境参数",
+     "防护等级IP65\n震动标准（工作中）：MIL-STD-810\n冲击标准（工作中）：ISO16750\n湿度95%，无冷凝\n工作温度：-30℃~+70℃\n仓储温度：-40℃~+85℃"
+    ],
+    [
+     "显示",
+     "7” 电容触摸显示屏，支持5指触控\n亮度：750cd/m2\n分辨率：1024*600px"
+    ],
+    [
+     "影音和传感",
+     "CVBS 摄像头 480p*2\n内置麦克风*1（可选）\n内置扬声器*1"
+    ],
+    [
+     "电源管理",
+     "电源 9-36V 直流输入\n开机点火 ACC 状态检测"
+    ],
+    [
+     "连接器",
+     "标准工业级防水连接器\nSMA 母头*2\nUSB 2.0 接口*1"
+    ],
+    [
+     "规格",
+     "尺寸(W*H*D)：194*127*29mm\n重量：0.70kg"
+    ],
+    [
+     "功能按键/指示灯",
+     "电源开关键*1，自定义功能按键*2"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "原图版式为「分类|内容|分类|内容」4 列并排：左栏（系统、通讯和接口、环境参数）自上而下，再右栏（显示、影音和传感、电源管理、连接器、规格、功能按键/指示灯）自上而下折叠为 2 列。表中未单列 gpu/npu/cert 等项，未强行补键。"
+  }
+ ],
+ "skipped": [],
+ "warnings": [],
+ "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring-7/content.html"
+}

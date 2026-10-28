@@ -1,0 +1,108 @@
+{
+ "no": "1.14",
+ "model": "APOLLO 12 PRO 特别版",
+ "family": "APOLLO 二代",
+ "intro": "全能大屏坚固型车载智能平板，12.1 英寸高亮显示屏幕，行业首创防眩晕全面屏，支持4路SocketCAN，最大支持2路RS232，或者1路RS232&1路RS485，支持2路ADC_IN电压检测和2路ADC_IN电流检测，支持4路DC_OUPUT 12V输出，支持4路IO_INPUT输入，最大支持AHD摄像头6路1080P或8路720P或4路1080P+4路720P，广泛应用于农业机械自动化，工程机械自动化，人机交互等。",
+ "size_mm": "199.7*297.6*34.8",
+ "weight_kg": 1.49,
+ "params_flat": {
+  "cpu": "4核, 2.0GHz",
+  "ram": "2G RAM, 支持最高8G",
+  "rom": "16G ROM, 支持最高256G",
+  "os": "Android 11.0\nLinux 5.10, Qt 5.15",
+  "screen_inch": "12.1",
+  "resolution": "1280*800px",
+  "brightness": "750cd/m²",
+  "touch": "12.1″ 电容触摸显示屏，支持5指触控\n强光下防眩晕显示屏",
+  "cellular": "4G / 5G",
+  "wifi": "WiFi 2.4G / 5G",
+  "bluetooth": "BT 4.2",
+  "gnss": "（可选配米级 / 亚米级 / 厘米级定位板卡）",
+  "can": "SocketCAN*4",
+  "rs232": "最大支持 RS232*2 / RS232*1 & RS485*1\nDebug RS232（仅调试用）",
+  "rs485": "最大支持 RS232*1 & RS485*1",
+  "dc_output": "DC_OUPUT 12V 输出*4",
+  "io_input": "IO_INPUT 输入*4",
+  "adc_input": "ADC_IN 电压检测*2，最大输入电压12V\nADC_IN 电流检测*2，4~20mA",
+  "usb": "USB 2.0*1",
+  "ethernet": "千兆以太网*1",
+  "camera_in": "最高支持AHD摄像头1080P*6或720*8或720*4+1080*4",
+  "speaker": "内置扬声器*1或外置扬声器*2或外置双声道音源输出",
+  "power_input": "电源 5-36V 直流输入",
+  "acc_detect": "开机打火 ACC 状态检测",
+  "protection": "IP67",
+  "vibration": "震动：MIL-STD-810",
+  "temp_operating": "-30℃~+70℃",
+  "temp_storage": "-40℃~+85℃",
+  "humidity": "0% - 90%RH",
+  "salt_spray": "整机盐雾48小时",
+  "connector": "26PIN 连接器*2\nM12 X-code 航插*1\nSMA 接头*1\nTNC 接头*2\nUSB 2.0 接口*1",
+  "buttons": "电源开关键*1，自定义功能按键*1"
+ },
+ "tables": [
+  {
+   "sha256": "89802771687cd3ca945faaaf315606bfd27ff224720635b70225869317bde8bd",
+   "file": "images/store/89802771687cd3ca945faaaf315606bfd27ff224720635b70225869317bde8bd.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/APOLLO2%2012PRO%E7%89%B9%E5%88%AB%E7%89%88%20%E5%8F%82%E6%95%B0%E8%A1%A8.png",
+   "section": "3.1 产品参数",
+   "caption": "图3.1 配置信息",
+   "kind": "param",
+   "is_table": true,
+   "header": [
+    "分类",
+    "内容"
+   ],
+   "rows": [
+    [
+     "系统",
+     "4核, 2.0GHz\n2G RAM, 支持最高8G\n16G ROM, 支持最高256G\nAndroid 11.0\nLinux 5.10, Qt 5.15"
+    ],
+    [
+     "通讯和接口",
+     "4G / 5G\nWiFi 2.4G / 5G\nBT 4.2\nGNSS（可选配米级 / 亚米级 / 厘米级定位板卡）\nSocketCAN*4\n最大支持 RS232*2 / RS232*1 & RS485*1\nDebug RS232（仅调试用）\nADC_IN 电压检测*2，最大输入电压12V\nADC_IN 电流检测*2，4~20mA\nDC_OUPUT 12V 输出*4\nIO_INPUT 输入*4\nUSB 2.0*1\n千兆以太网*1\n支持 CP ISOBUS VT"
+    ],
+    [
+     "环境参数",
+     "防护等级：IP67\n震动：MIL-STD-810\n道路车辆标准：ISO16750\n工作温度：-30℃~+70℃，湿度：0% - 90%RH\n存储温度：-40℃~+85℃\n盐雾：整机盐雾48小时"
+    ],
+    [
+     "功能按键/指示灯",
+     "电源开关键*1，自定义功能按键*1"
+    ],
+    [
+     "显示",
+     "12.1″ 电容触摸显示屏，支持5指触控\n分辨率：1280*800px\n亮度：750cd/m²\n强光下防眩晕显示屏"
+    ],
+    [
+     "影音和传感",
+     "最高支持AHD摄像头1080P*6或720*8或720*4+1080*4\n支持 CP AVM 360° 环视影像\n内置扬声器*1或外置扬声器*2或外置双声道音源输出\nG-Sensor*1"
+    ],
+    [
+     "电源管理",
+     "电源 5-36V 直流输入\n开机打火 ACC 状态检测\n供电电源电压检测\n过流过压欠压，防反接保护"
+    ],
+    [
+     "连接器",
+     "26PIN 连接器*2\nM12 X-code 航插*1\nSMA 接头*1\nTNC 接头*2\nUSB 2.0 接口*1"
+    ],
+    [
+     "规格",
+     "尺寸(W*H*D)：199.7*297.6*34.8mm\n重量：1.49kg"
+    ],
+    [
+     "客制功能",
+     "支持1路灯靶，16个 LED（可选）"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "原表为「分类|内容|分类|内容」4列并排，已按左栏自上而下→右栏自上而下折叠为2列。与 1.13（APOLLO 12 PRO）参数表尺寸相同但内容有差异：本表「影音和传感」无「麦克风*1」，且规格尺寸/重量不同；两图 sha256 不同，分别独立转写。"
+  }
+ ],
+ "skipped": [],
+ "warnings": [
+  "尺寸：参数表「尺寸(W*H*D)：199.7*297.6*34.8mm」，任务/页面文字为 297.6x199.7x34.8mm（同样三个数值，W/H 顺序不同）；size_mm 已按图取 199.7*297.6*34.8。",
+  "重量：参数表 1.49kg 与任务文字 1.49 kg 一致。",
+  "1.14 参数表与 1.13 参数表画布尺寸同为 1109x1031 但 sha256 不同；经逐格比对，「影音和传感」行本表缺少「麦克风*1」，其余内容一致。"
+ ],
+ "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Apollo2-12PRO%E7%89%B9%E5%88%AB%E7%89%88/content.html"
+}

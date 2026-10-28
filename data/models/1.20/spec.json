@@ -1,0 +1,97 @@
+{
+ "no": "1.20",
+ "model": "SPRING 10 电台",
+ "family": "SPRING",
+ "intro": "坚固型车载平板，10.1英寸高亮显示屏，支持RS-232*1,RS-485*1，CAN*1/2 ，支持12V 直流对外供电*2，支持 CP ISOBUS VT，支持IP65防护等级，支持多种协议下的电台通讯，一台设备适配所有带VT的农机具，广泛应用于精准农业，工程机械，智慧交通，智慧矿山，仓库管理等。",
+ "size_mm": "281*181*42",
+ "weight_kg": 1.5,
+ "params_flat": {
+  "cpu": "4核, 1.2GHz",
+  "ram": "2G",
+  "rom": "16G",
+  "os": "Android 6.0.1 / Linux 3.10",
+  "screen_inch": "10.1",
+  "resolution": "1024*600",
+  "brightness": "750cd/m2",
+  "touch": "电容触摸显示屏，支持5指触控",
+  "cellular": "4G",
+  "wifi": "WiFi 2.4G",
+  "bluetooth": "BT 4.2 BLE",
+  "gnss": "（可选配米级 / 厘米级定位板卡）",
+  "can": "CAN*1/2",
+  "rs232": "RS232*1",
+  "rs485": "RS485*1",
+  "dc_output": "12V 直流对外供电*2",
+  "usb": "USB 2.0*1",
+  "ethernet": "以太网*1（可选）",
+  "mic": "内置麦克风*1（可选）",
+  "speaker": "内置扬声器*1",
+  "power_input": "电源 9-36V 直流输入",
+  "acc_detect": "开机点火 ACC 状态检测",
+  "protection": "IP65",
+  "vibration": "震动标准（工作中）：MIL-STD-810",
+  "connector": "标准工业级防水连接器\nSMA 母头*1\nTNC 母头*3\nUSB 2.0 接口*1",
+  "buttons": "电源开关键*1，自定义功能按键*2",
+  "temp_operating": "-30℃~+70℃",
+  "temp_storage": "-40℃~+85℃",
+  "humidity": "95%，无冷凝"
+ },
+ "tables": [
+  {
+   "sha256": "bc64816519ccee63dfcda60f7603ebf5e5e9855415c6823d9d3292eeb453e694",
+   "file": "images/store/bc64816519ccee63dfcda60f7603ebf5e5e9855415c6823d9d3292eeb453e694.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%2010%E7%94%B5%E5%8F%B0%E7%89%88.png",
+   "section": "3.1 产品参数",
+   "caption": "图3.1 配置信息",
+   "kind": "param",
+   "is_table": true,
+   "header": [
+    "分类",
+    "内容"
+   ],
+   "rows": [
+    [
+     "系统",
+     "4核, 1.2GHz\n2G RAM\n16G ROM\nAndroid 6.0.1\nLinux 3.10"
+    ],
+    [
+     "通讯和接口",
+     "4G\nWiFi 2.4G\nBT 4.2 BLE\n电台通讯（兼容Harxon1018D Pin脚定义：\n空中波特率： 9600/19200；\n串口波特率： 9600/19200/38400/57600/115200；\n多协议兼容： SOUTH/Trimtalk450s/High-Target/HUACE/Satel/Farlink）\nGNSS（可选配米级 / 厘米级定位板卡）\nRS232*1\nRS485*1\nCAN*1/2\nUSB 2.0*1\n12V 直流对外供电*2\n以太网*1（可选）\n支持 CP ISOBUS VT"
+    ],
+    [
+     "功能按键",
+     "电源开关键*1，自定义功能按键*2"
+    ],
+    [
+     "环境参数",
+     "防护等级IP65\n震动标准（工作中）：MIL-STD-810\n冲击标准（工作中）：ISO16750\n湿度95%，无冷凝\n工作温度：-30℃~+70℃\n仓储温度：-40℃~+85℃"
+    ],
+    [
+     "显示",
+     "10.1” 电容触摸显示屏，支持5指触控\n亮度：750cd/m2\n分辨率：1024*600px"
+    ],
+    [
+     "影音和传感",
+     "内置麦克风*1（可选）\n内置扬声器*1"
+    ],
+    [
+     "电源管理",
+     "电源 9-36V 直流输入\n开机点火 ACC 状态检测"
+    ],
+    [
+     "连接器",
+     "标准工业级防水连接器\nSMA 母头*1\nTNC 母头*3\nUSB 2.0 接口*1"
+    ],
+    [
+     "规格",
+     "尺寸（W*H*D）：281*181*42mm\n重量：1.5kg"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "本机型 4 列并排版式与同系列不同：左栏为 系统/通讯和接口/功能按键，右栏为 环境参数/显示/影音和传感/电源管理/连接器/规格，已按「左栏自上而下 → 右栏自上而下」折叠为 2 列。电台多协议清单已放大复核（HUACE，非 HIACE）。该图「影音和传感」栏无 CVBS 摄像头行。"
+  }
+ ],
+ "skipped": [],
+ "warnings": [],
+ "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring-10-radio/content.html"
+}

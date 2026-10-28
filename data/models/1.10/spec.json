@@ -1,0 +1,107 @@
+{
+ "no": "1.10",
+ "model": "APOLLO 12 二代 特别版",
+ "family": "APOLLO 二代",
+ "intro": "高端坚固型车载平板，12.1 英寸高亮显示屏幕，行业首创防眩晕全面屏，支持3路CAN，支持2路RS232，支持1路调试串口或者1路RS485（选配），支持2路ADC_IN检测，最大输入电压12V，支持2路DC_OUPUT 12V输出，支持2路IO_INPUT输入最大支持AHD摄像头*4，广泛应用于农业机械自动化，工程机械自动化，人机交互等。",
+ "size_mm": "199.7*297.6*34.8",
+ "weight_kg": 1.49,
+ "params_flat": {
+  "cpu": "4核，2.0GHz",
+  "ram": "2G RAM，支持最高8G",
+  "rom": "16G ROM，支持最高256G",
+  "os": "Android 11.0\nLinux 5.10，Qt 5.15",
+  "screen_inch": "12.1",
+  "resolution": "1280*800px",
+  "brightness": "750cd/m²",
+  "touch": "电容触摸显示屏，支持5指触控",
+  "cellular": "4G / 5G",
+  "wifi": "WiFi 2.4G / 5G",
+  "bluetooth": "BT 4.2",
+  "gnss": "（可选配米级 / 亚米级 / 厘米级定位板卡）",
+  "can": "CAN*3（CAN *2，CAN FD *1）",
+  "rs232": "最大支持 RS232*2",
+  "rs485": "RS485*1 / Debug RS232*1",
+  "adc_input": "ADC_IN 检测*2，最大输入电压12V",
+  "dc_output": "DC_OUPUT 12V 输出*2",
+  "io_input": "IO_INPUT 输入*2",
+  "usb": "USB2.0*1",
+  "ethernet": "千兆以太网*1",
+  "camera_in": "AHD 摄像头 720p*4 / 1080p*2",
+  "speaker": "内置扬声器*1",
+  "power_input": "电源 5-36V 直流输入",
+  "acc_detect": "开机打火 ACC 状态检测",
+  "protection": "IP67",
+  "vibration": "MIL-STD-810",
+  "cert": "道路车辆标准：ISO16750",
+  "salt_spray": "整机盐雾48小时",
+  "temp_operating": "-30℃~+70℃",
+  "humidity": "0% - 90%RH",
+  "temp_storage": "-40℃~ +85℃",
+  "connector": "26PIN 连接器*1\nM12 X-code 航插*1\nSMA 接头*1\nTNC 接头*1\nUSB2.0接口*1",
+  "buttons": "电源开关键*1，自定义功能按键*1"
+ },
+ "tables": [
+  {
+   "sha256": "8e236ce2b3a6754b3b9a383c0dd72d3a4bcbccc20f3682a6d616b0bac42c7d11",
+   "file": "images/store/8e236ce2b3a6754b3b9a383c0dd72d3a4bcbccc20f3682a6d616b0bac42c7d11.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/APOLLO2%2012%E7%89%B9%E5%88%AB%E7%89%88%E5%8F%82%E6%95%B0.png",
+   "section": "3.1 产品参数",
+   "caption": "图3.1 配置信息",
+   "kind": "param",
+   "is_table": true,
+   "header": [
+    "分类",
+    "内容"
+   ],
+   "rows": [
+    [
+     "系统",
+     "4核，2.0GHz\n2G RAM，支持最高8G\n16G ROM，支持最高256G\nAndroid 11.0\nLinux 5.10，Qt 5.15"
+    ],
+    [
+     "通讯和接口",
+     "4G / 5G\nWiFi 2.4G / 5G\nBT 4.2\nGNSS（可选配米级 / 亚米级 / 厘米级定位板卡）\nCAN*3（CAN *2，CAN FD *1）\n最大支持 RS232*2\nRS485*1 / Debug RS232*1\nADC_IN 检测*2，最大输入电压12V\nDC_OUPUT 12V 输出*2\nIO_INPUT 输入*2\nUSB2.0*1\n千兆以太网*1\n支持 CP ISOBUS VT"
+    ],
+    [
+     "环境参数",
+     "防护等级：IP67\n震动：MIL-STD-810\n道路车辆标准：ISO16750\n工作温度：-30℃~+70℃，湿度：0% - 90%RH\n存储温度：-40℃~ +85℃\n盐雾：整机盐雾48小时"
+    ],
+    [
+     "功能按键",
+     "电源开关键*1，自定义功能按键*1"
+    ],
+    [
+     "显示",
+     "12.1\" 电容触摸显示屏，支持5指触控\n分辨率：1280*800px\n亮度：750cd/m²\n强光下防眩晕显示屏"
+    ],
+    [
+     "影音和传感",
+     "AHD 摄像头 720p*4 / 1080p*2\n支持 CP AVM 360° 环视影像\n内置扬声器*1\nG-Sensor*1"
+    ],
+    [
+     "电源管理",
+     "电源 5-36V 直流输入\n开机打火 ACC 状态检测\n供电电源电压检测\n过流过压欠压，防反接保护"
+    ],
+    [
+     "连接器",
+     "26PIN 连接器*1\nM12 X-code 航插*1\nSMA 接头*1\nTNC 接头*1\nUSB2.0接口*1"
+    ],
+    [
+     "规格",
+     "尺寸(W*H*D) ： 199.7*297.6*34.8mm\n重量：1.49kg"
+    ],
+    [
+     "灯靶",
+     "支持1路灯靶，16个 LED （12.1\" 可选）"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "原图为「分类|内容|分类|内容」4 列并排，已按左栏自上而下→右栏自上而下折叠为 2 列。与 1.9 图片尺寸相同但内容不同：本图「影音和传感」无「麦克风*1」一行，且「规格」为 199.7*297.6*34.8mm / 1.49kg（1.9 为 317.8*219.6*34.5mm / 1.75kg），已按本图独立转写。"
+  }
+ ],
+ "skipped": [],
+ "warnings": [
+  "参数表「规格」与任务字段一致：尺寸 199.7*297.6*34.8mm、重量 1.49kg，无差异。"
+ ],
+ "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Apollo2-12%E7%89%B9%E5%88%AB%E7%89%88/content.html"
+}
