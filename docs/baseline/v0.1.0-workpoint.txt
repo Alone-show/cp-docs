@@ -1,0 +1,15 @@
+# 基线 v0.1.0 · 问题：CP023 的 INPUT1 接到哪个 GPIO
+
+== 命令返回 ==
+ 命中 1.25 SPRING 10 PLUS 二代 等机型（该字段取值相同），正在生成回答…
+== followup 报文（629 字符） ==
+【cp-docs 检索结果 · 请只依据以下事实回答，不要补充未列出的数值】
+用户问题：CP023 的 INPUT1 接到哪个 GPIO
+命中机型：1.25 SPRING 10 PLUS 二代（系列 SPRING）
+同机型写法：SPRING 10 PLUS 二代 / SPRING2-10PLUS / SP2-10PLUS / SPRING2 10PLUS / CP023-SPRING2 10PLUS
+硬件工作点：
+- INPUT1 → [MCU] PC0（CP023-SPRING2 10PLUS）
+数据提示：
+- 问题里的机型写法「CP023」对应多个机型，它们的该字段取值相同：SPRING 10 PLUS 二代 / SPRING 10 PRO 二代
+来源：文档页 https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring2Plus-10/content.html；参数表原图 https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%2010PLUS%20%E4%BA%8C%E4%BB%A3.png
+以上数值必须原样使用，不要改写、不要补充未列出的参数；资料未收录的字段请直接回答“文档未收录”，不要推测。

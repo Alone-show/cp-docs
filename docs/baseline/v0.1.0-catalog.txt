@@ -1,0 +1,47 @@
+# 基线 v0.1.0 · 问题：支持哪些机型
+
+== 命令返回 ==
+ 已列出 28 款机型，正在生成回答…
+== followup 报文（681 字符） ==
+【cp-docs 检索结果 · 机型清单】
+用户问题：支持哪些机型
+共 28 款机型：
+
+【APOLLO PRO】
+- 1.1 APOLLO 7 PRO
+- 1.2 APOLLO 8 PRO
+- 1.3 APOLLO 10 PRO
+- 1.4 APOLLO 10 PRO 电台
+- 1.5 APOLLO X
+
+【APOLLO 二代】
+- 1.6 APOLLO 7 二代
+- 1.7 APOLLO 7A 二代
+- 1.8 APOLLO 10 二代
+- 1.9 APOLLO 12 二代
+- 1.10 APOLLO 12 二代 特别版
+- 1.11 APOLLO 12A 二代
+- 1.12 APOLLO 12A 二代 特别版
+- 1.13 APOLLO 12 PRO
+- 1.14 APOLLO 12 PRO 特别版
+- 1.15 APOLLO 12 PLUS
+- 1.16 APOLLO 12 X
+
+【SPRING】
+- 1.17 SPRING 7
+- 1.18 SPRING 8
+- 1.19 SPRING 10
+- 1.20 SPRING 10 电台
+- 1.21 SPRING 10 二代
+- 1.22 SPRING 10 二代 特别版
+- 1.23 SPRING 10 PRO 二代
+- 1.24 SPRING 10 PRO 二代 特别版
+- 1.25 SPRING 10 PLUS 二代
+
+【TANK】
+- 1.26 TANK 1
+- 1.27 TANK 2
+
+【MEGA】
+- 1.28 MEGA1
+请基于以上清单回答用户（不要补充清单之外的机型）。

@@ -1,0 +1,14 @@
+# 基线 v0.1.0 · 问题：SPRING2 屏幕尺寸
+
+== 命令返回 ==
+ 机型「SPRING2」不唯一，请用更精确的写法重发 /cp-docs：
+ 
+ - 1.21 SPRING 10 二代（SPRING 10 二代 / SPRING2 10）
+ - 1.22 SPRING 10 二代 特别版（SPRING 10 二代 特别版 / SPRING2 10 特别版）
+ - 1.25 SPRING 10 PLUS 二代（SPRING 10 PLUS 二代 / SPRING2-10PLUS）
+ - 1.23 SPRING 10 PRO 二代（SPRING 10 PRO 二代 / SPRING2-10PRO）
+ - 1.24 SPRING 10 PRO 二代 特别版（SPRING 10 PRO 二代 特别版 / SPRING2-10PRO 特别版）
+ 
+ 例：/cp-docs SPRING 10 PRO 二代 的屏幕尺寸
+== followup 报文（0 字符） ==
+（未触发模型）

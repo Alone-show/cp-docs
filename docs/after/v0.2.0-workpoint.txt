@@ -1,0 +1,11 @@
+# 改造后 v0.2.0 · 问题：CP023 的 INPUT1 接到哪个 GPIO
+
+== 命令返回 ==
+ 机型「CP023」不唯一，请用更精确的写法重发 /cp-docs：
+ 
+ - 1.25 SPRING 10 PLUS 二代（SPRING 10 PLUS 二代 / SPRING2-10PLUS）
+ - 1.23 SPRING 10 PRO 二代（SPRING 10 PRO 二代 / SPRING2-10PRO）
+ 
+ 例：/cp-docs SPRING 10 PRO 二代 的屏幕尺寸
+== followup 报文（0 字符） ==
+（未触发模型）

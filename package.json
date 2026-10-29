@@ -1,9 +1,9 @@
 {
   "name": "@local/cp-docs",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "private": true,
   "type": "module",
-  "description": "DSH 插件：/cp-docs + 自然语言按机型检索本地产品资料（参数/接口/线束/编程节点/工作点），把事实交给模型作答",
+  "description": "DSH 插件：/cp-docs + 自然语言按机型返回全部本地产品资料（参数/接口/线束/编程节点/工作点），由模型定位作答",
   "exports": {
     ".": "./index.js",
     "./locale/*.json": "./locale/*.json",

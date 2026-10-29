@@ -1,0 +1,38 @@
+[
+ {
+  "slug": "rs232-pin",
+  "q": "SPRING2PRO 的RS232的引脚在哪个位置",
+  "chars": 11574,
+  "ret": "已命中 1.23 SPRING 10 PRO 二代：全量资料 5 张表 / 33 项参数 / 2 页编程节点 / 4 组工作点，正在生成回答…"
+ },
+ {
+  "slug": "pin24",
+  "q": "SPRING2PRO 26PIN 第24脚是什么",
+  "chars": 11568,
+  "ret": "已命中 1.23 SPRING 10 PRO 二代：全量资料 5 张表 / 33 项参数 / 2 页编程节点 / 4 组工作点，正在生成回答…"
+ },
+ {
+  "slug": "screen",
+  "q": "SPRING2PRO 的屏幕尺寸是多少",
+  "chars": 11568,
+  "ret": "已命中 1.23 SPRING 10 PRO 二代：全量资料 5 张表 / 33 项参数 / 2 页编程节点 / 4 组工作点，正在生成回答…"
+ },
+ {
+  "slug": "ambiguous",
+  "q": "SPRING2 屏幕尺寸",
+  "chars": 0,
+  "ret": "机型「SPRING2」不唯一，请用更精确的写法重发 /cp-docs：\n\n- 1.21 SPRING 10 二代（SPRING 10 二代 / SPRING2 10）\n- 1.22 SPRING 10 二代 特别版（SPRING 10 二代 特别版 / SPRING2 10 特别版）\n- 1.25 SPRING 10 PLUS 二代（SPRING 10 PLUS 二代 / SPRING2-10PLUS）\n- 1.23 SPRING 10 PRO 二代（SPRING 10 PRO 二代 / SPRING2-10PRO）\n- 1.24 SPRING 10 PRO 二代 特别版（SPRING 10 PRO 二代 特别版 / SPRING2-10PRO 特别版）\n\n例：/cp-docs SPRING 10 PRO 二代 的屏幕尺寸"
+ },
+ {
+  "slug": "workpoint",
+  "q": "CP023 的 INPUT1 接到哪个 GPIO",
+  "chars": 0,
+  "ret": "机型「CP023」不唯一，请用更精确的写法重发 /cp-docs：\n\n- 1.25 SPRING 10 PLUS 二代（SPRING 10 PLUS 二代 / SPRING2-10PLUS）\n- 1.23 SPRING 10 PRO 二代（SPRING 10 PRO 二代 / SPRING2-10PRO）\n\n例：/cp-docs SPRING 10 PRO 二代 的屏幕尺寸"
+ },
+ {
+  "slug": "catalog",
+  "q": "支持哪些机型",
+  "chars": 681,
+  "ret": "已列出 28 款机型，正在生成回答…"
+ }
+]

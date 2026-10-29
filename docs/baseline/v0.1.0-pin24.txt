@@ -1,0 +1,21 @@
+# 基线 v0.1.0 · 问题：SPRING2PRO 26PIN 第24脚是什么
+
+== 命令返回 ==
+ 已检索：1.23 SPRING 10 PRO 二代（pin），正在生成回答…
+== followup 报文（2047 字符） ==
+【cp-docs 检索结果 · 请只依据以下事实回答，不要补充未列出的数值】
+用户问题：SPRING2PRO 26PIN 第24脚是什么
+命中机型：1.23 SPRING 10 PRO 二代（系列 SPRING）
+同机型写法：SPRING 10 PRO 二代 / SPRING2-10PRO / SP2-10PRO / SPRING2 10PRO / SPRING 10PRO 二代 / SPRING 10 PRO 2代 / CP023-SPRING2 10PRO / CP023-SPRING2 10PRO 雷沃
+表格定义：
+- 3.2 接口定义 / 图3.2.2 26PIN连接器接口定义表：安费诺-26P=11 | PIN定义=CAN2_H | 安费诺-26P=24 | PIN定义=RS232_B_TX/OUTPUT4/PHY_MDI_3+
+- 3.2 接口定义 / 图3.2.3 SPRING2 10PRO 摄像头标准版接口定义：V1-PIN=4 | V1-Definition=NC | V2-PIN=4 | V2-Definition=NC | V3-PIN=4 | V3-Definition=AHD2 | V4-PIN=4 | V4-Definition=AHD3
+- 3.2 接口定义 / 图3.2.4 SPRING2 10PRO 摄像头定制版接口定义：V1-PIN=4 | V1-Definition=AHD_0 | V2-PIN=4 | V2-Definition=AHD_1 | V3-PIN=4 | V3-Definition=AHD2 | V4-PIN=4 | V4-Definition=AHD3
+- 4.1.2 摄像头航空插座1拖2线束定义 / 图4.1.4 像头航空座1拖2线束接线图：M12 4P=1 | definition=12V | M12 4P(AHD_IN1)=1 | M12 4P(AHD_IN2)=1
+- 4.1.2 摄像头航空插座1拖2线束定义 / 图4.1.4 像头航空座1拖2线束接线图：M12 4P=2 | definition=GND | M12 4P(AHD_IN1)=2 | M12 4P(AHD_IN2)=2
+- 4.1.2 摄像头航空插座1拖2线束定义 / 图4.1.4 像头航空座1拖2线束接线图：M12 4P=3 | definition=AHD_IN2 | M12 4P(AHD_IN1)= | M12 4P(AHD_IN2)=4
+- 4.1.2 摄像头航空插座1拖2线束定义 / 图4.1.4 像头航空座1拖2线束接线图：M12 4P=4 | definition=AHD_IN1 | M12 4P(AHD_IN1)=4 | M12 4P(AHD_IN2)=
+数据提示：
+- 本机型 6 张候选图（参数表、26PIN 接口定义、摄像头标准版/定制版接口定义、M12 4P 线束定义表、摄像头接线方法示意图）与 1.24 SPRING 10 PRO 二代 特别版 共用，1.24 的 candidates 为空（share_note：仅面壳不同）。
+来源：文档页 https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring2Pro-10/content.html；原图 https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10PRO%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png；原图 https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/SPRING2%2010PRO%20%E6%91%84%E5%83%8F%E5%A4%B4%E6%A0%87%E5%87%86%E7%89%88%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png；原图 https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/SPRING2%2010PRO%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%AE%9A%E5%88%B6%E7%89%88%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
+以上数值必须原样使用，不要改写、不要补充未列出的参数；资料未收录的字段请直接回答“文档未收录”，不要推测。
