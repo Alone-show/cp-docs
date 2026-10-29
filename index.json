@@ -21,8 +21,8 @@
         "zh": "产品资料检索"
       },
       "description": {
-        "en": "Type /cp-docs plus a natural-language question to look up local product specs by model and let the model answer.",
-        "zh": "输入 /cp-docs + 自然语言，按机型检索本地产品资料（参数/接口/线束/编程节点/工作点），把事实交给模型作答。"
+        "en": "Type /cp-docs plus a natural-language question: the plugin resolves the model and injects that model's complete local documentation as a collapsed context card, letting the model locate the answer.",
+        "zh": "输入 /cp-docs + 自然语言：命中机型后整包返回该机型全部本地资料（参数/接口/线束/编程节点/工作点），以折叠卡片注入对话，由模型定位作答。"
       },
       "icon": "icon.svg",
       "author": "Alone-show",
@@ -47,6 +47,16 @@
             "type": "git",
             "url": "https://github.com/Alone-show/cp-docs",
             "commit": "4147591ae3df2b41a0844148df414ca1486fa416"
+          },
+          "engines": {}
+        },
+        {
+          "version": "0.2.1",
+          "publishTimestamp": 1793238899,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Alone-show/cp-docs",
+            "commit": "4cbda97774d7b9be27c89e76fc98837dbb6e3026"
           },
           "engines": {}
         }
