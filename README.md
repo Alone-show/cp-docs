@@ -175,7 +175,7 @@ link 安装指向源码目录，`git pull` 或改代码后**重启 DSH Web** 生
 | `manifest.json` | 页面图清单（360 条引用 / 177 张唯一图） |
 | `issues.md` / `CONTRACT.md` | 待核对清单与转写契约 |
 
-含 177 张原图和离线页面的完整压缩包见 GitHub Release 资产 `从平产品文档-AI可读版-20261028.zip`。
+含 177 张原图和离线页面的完整压缩包见 [Release v0.2.3](https://github.com/Alone-show/cp-docs/releases/tag/v0.2.3) 资产 `cp-device-docs-ai-readable-20261028.zip`。
 
 ## 开发
 
