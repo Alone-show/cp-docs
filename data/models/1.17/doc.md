@@ -187,71 +187,13 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
 
-### 图内文字（6 张）
+### 图内文字（2 张）
 
 #### 图3.2.3 SPRING 7B接口图（3.2 接口定义）
 
 接口/针脚：1 2 3 4 5 6 7 8 9 10 11 12（左侧一组）；1 2 3 4 5 6 7 8 9 10 11 12（右侧一组）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500 ± 30；150 ± 15  
-接口/针脚：M1-12PIN接口（针脚 1 2 3 4 5 6 7 8 9 10 11 12）；M12 圆形接头 1 2；圆形 4PIN 接头 1 2 3 4；DB9 A 母头；DB9 B 母头  
-线缆标识：POWER、12V OUT、DB9 A、DB9 B  
-备注：接头丝印 ALTW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ 绿色序号标注  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30、150±15  
-接口/针脚：M2-10PIN接口（1、2、3、4、5、6、7、8、9、10）；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；CAN2 485（DB9）  
-线缆标号：① 插头　②③④ 分线盒　⑤⑦ 线缆　⑥ CAN2 485　②⑧ CAMERA A / CAMERA B　②③⑨⑩ CAN2 485  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.1.1 PROT1线束外观图（4.2.1.1）
-
-M1-12PIN接口  
-500±30  
-150±15  
-30±5  
-100±10  
-20±5  
-POWER  
-AUDIO LINEOUT  
-DB9 A  
-INPUT IO  
-接口/针脚：M1-12PIN接口，外圈 2、11、3、1、4、9、10、8、5、7、12、6  
-备注：5（沾锡）；红色 AUDIO LINEOUT(24AWG)；黑色 GND(24AWG)；红色 INPUT 1(24AWG)；黄色 INPUT 2(24AWG)；黑色 GND(24AWG)；5MM沾锡；6.0MM黑色热缩管 L=15MM  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.2.1 PROT2线束外观图（4.2.2.1）
-
-500 ± 30  
-150 ± 15  
-30 ± 5  
-100 ± 10  
-RJ45  
-RS485  
-OUTPUT IO  
-黑色 GND(24AWG)  
-红色 OUTPUT_IO1(24AWG)  
-黄色 OUTPUT_IO2(24AWG)  
-5MM沾锡  
-6.0MM黑色热缩管 L=15MM（字迹极小，存疑）  
-接口/针脚：M2-10PIN接口，针脚 1、2、3、4、5、6、7、8、9、10  
-标注序号：②③④⑤⑥⑦⑧⑨⑩  
-RJ45 针脚：1、8  
-DB9 针脚：① 1 2 3 ...（图侧示针脚 1—5）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 7 RAM安装指导
@@ -275,6 +217,10 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 

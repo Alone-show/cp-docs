@@ -223,7 +223,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -232,52 +232,6 @@
 接口/针脚：Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012PRO/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -316,6 +270,8 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Back%20view.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 

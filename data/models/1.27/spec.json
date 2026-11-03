@@ -769,6 +769,12 @@
    "file": "images/store/95653e55ef476a49583365dc62b8ecc93bd2c0d32c5867accc7473e7ab769f06.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE2.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0",
+   "file": "images/store/bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 26P线束外观图：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -799,17 +805,6 @@
    "kind": "photo",
    "title": "",
    "text": "产品尺寸：40.73mm、89.58mm、37.21mm\n接口/针脚：顶部标识 5G/LTE、SYS、CAN、WIFI、GNSS\n备注：CR.DEVICE；Y／X／Z 轴向标注；Z(方向朝外)",
-   "confidence": "medium"
-  },
-  {
-   "sha256": "bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0",
-   "file": "images/store/bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 26P线束外观图",
-   "kind": "diagram",
-   "title": "",
-   "text": "500±30\n注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号\n26pin\nAHD IN1\nAHD IN2\nAHD IN3\nAHD IN4\nTANK 2 POWER\nIO IN/OUT\nDB9 A\nDB9 B\nADC\n接口/针脚：26pin 主插头，标注 1、7、20、26\nAHD IN1：+12V 1、2 GND、3 NC、4 AHD（视频）\nAHD IN2：+12V 1、2 GND、3、4 AHD 2\nAHD IN3：+12V 1、2 GND、3、4 AHD 3\nAHD IN4：+12V 1、2 GND、3、4 AHD 4\nTANK 2 POWER：ACC 1、2 B+、3 B-\nIO IN/OUT：GND 1、2 GND、4 OUTPUT2/PPS、3 INPUT1\nDB9 A：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-RX1、RS232-TX1、GND、公头\nDB9 B：CAN3-L、CAN4-H/RS232-RX3、CAN3-H、CAN4-L/RS232-TX3、RS232-RX2/485-B、RS232-TX2/485-A、GND、公头\nADC：GND 1、2 GND、4 ADC-B/OUTPUT1、3 ADC-A/SPKN",
    "confidence": "medium"
   },
   {

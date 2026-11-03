@@ -729,6 +729,12 @@
    "file": "images/store/5c09dd6b0ff1c572200b1a4bb4c090f01e6b96099550beb83e86024d3dced0c1.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88%E8%83%8C%E8%A7%86%E5%9B%BE.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64",
+   "file": "images/store/fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png",
+   "reason": "接口实物图｜图4.1.1 线束定义：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -747,17 +753,6 @@
    "title": "",
    "text": "接口/针脚：插座 左侧 1、8、14、20；右侧 7、13、19、26；13 针旁标 A\n接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8",
    "confidence": "high"
-  },
-  {
-   "sha256": "fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64",
-   "file": "images/store/fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 线束定义",
-   "kind": "diagram",
-   "title": "",
-   "text": "产品尺寸：500 ± 30\n线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT\n接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC\n接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC\n接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-\n接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND\n接口/针脚：Power：1 ACC；2 B+；3 B-\n接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1\n接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND\n接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND\n接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2\n接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20\n备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注",
-   "confidence": "medium"
   },
   {
    "sha256": "fc3beca745d4c7c20f26ce55ed115f4f654afc9e4a4206e13fbaf27dc101d821",

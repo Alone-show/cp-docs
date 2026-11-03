@@ -136,7 +136,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -144,25 +144,6 @@
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -202,6 +183,7 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

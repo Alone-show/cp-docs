@@ -171,7 +171,8 @@ link 安装指向源码目录，`git pull` 或改代码后**重启 DSH Web** 生
 | `28-models.md` | 28 机型主文档（参数速查 + 表格 + 图内文字 + 原图链接） |
 | `spec.json` / `specs/` | 机器可读全量结构与单机型结果 |
 | `spec-matrix.csv` | 跨机型参数矩阵 |
-| `figure-texts.json` | 66 张工程图/示意图的图内文字（按 sha256） |
+| `figure-texts.json` | 42 张工程图/示意图的图内文字（按 sha256） |
+| `figure-policy.json` | 降级清单：22 张线束外观图只留原图链接（与接线表重复），2 张 6P 图转为表格 |
 | `manifest.json` | 页面图清单（360 条引用 / 177 张唯一图） |
 | `issues.md` / `CONTRACT.md` | 待核对清单与转写契约 |
 

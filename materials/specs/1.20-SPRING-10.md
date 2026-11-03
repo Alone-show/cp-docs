@@ -104,7 +104,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -112,14 +112,6 @@
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1 18PIN线束外观图（4.1.1）
-
-产品尺寸：30±10；500±30  
-接口/针脚：Power 1 ACC、2 B+、3 B-；DB9 B 1 RS-485-A、5 GND、7 RS-485-B；DB9 A 1 CAN2-L、2 RS232_TXD1、3 RS232_RXD1、5 GND、6 CAN1-L、7 CAN2-H、9 CAN1-H；OUTPUT-DC 12V 1 DC12-OUT1、2 GNG、3 DC12-OUT1；RJ 45 1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_TX-  
-备注原文：线缆标签 SPRING-NFDH、POWER、DB9 B、DB9 A、RJ45、OUTPUT-DC12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -143,6 +135,7 @@ RAM 支架　RAM 支架底座　A
 
 - 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A9%2010.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/10PRO%E7%94%B5%E5%8F%B0%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 接口实物图｜图4.1.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

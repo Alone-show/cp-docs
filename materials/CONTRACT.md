@@ -73,7 +73,8 @@
 - 现成工具：`python3 repair_shared.py`（幂等，会同时补齐 `skipped`）。
 
 ## 2.2 图内文字（工程图/示意图）
-- 参数表/接口表/线束表之外，安装图、接口图、线束外观图、接线方法图里的尺寸、孔位、针脚、接线说明，转写进 `figures[]`（不是 `tables[]`）。
+- 参数表/接口表/线束表之外，**安装图、接口图、接线方法图、线缆规格书**里的尺寸、孔位、针位、接线说明，转写进 `figures[]`（不是 `tables[]`）。
+- **线束外观图/线束定义图默认不转写**：其针脚分配与同机型接线表重复，且工程图小字容易识读错位；一律给原图链接（`figure-policy.json` 记录降级清单与理由）。若图内其实是表（如 PORT1-6P），转进 `tables[]`。
 - 字段：`sha256 / file / src / section / caption / kind(drawing|diagram|photo) / title / text / confidence`。
 - `text` 只抄图上印出的内容，不补单位、不翻译、不推断；看不清写 `?`；纯实物照片（只有丝印）不建 figure，留在 `skipped`。
 - 同一 sha256 的图内文字按图共享，但 `section`/`caption` 用各机型自己的页面标题。

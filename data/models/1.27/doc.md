@@ -167,7 +167,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（6 张）
+### 图内文字（5 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -185,34 +185,6 @@
 
 > 置信度：medium
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK%20IMU%20%E5%9D%90%E6%A0%87.png
-
-#### 图4.1.1 26P线束外观图（4.1.1）
-
-500±30  
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-26pin  
-AHD IN1  
-AHD IN2  
-AHD IN3  
-AHD IN4  
-TANK 2 POWER  
-IO IN/OUT  
-DB9 A  
-DB9 B  
-ADC  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-AHD IN1：+12V 1、2 GND、3 NC、4 AHD（视频）  
-AHD IN2：+12V 1、2 GND、3、4 AHD 2  
-AHD IN3：+12V 1、2 GND、3、4 AHD 3  
-AHD IN4：+12V 1、2 GND、3、4 AHD 4  
-TANK 2 POWER：ACC 1、2 B+、3 B-  
-IO IN/OUT：GND 1、2 GND、4 OUTPUT2/PPS、3 INPUT1  
-DB9 A：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-RX1、RS232-TX1、GND、公头  
-DB9 B：CAN3-L、CAN4-H/RS232-RX3、CAN3-H、CAN4-L/RS232-TX3、RS232-RX2/485-B、RS232-TX2/485-A、GND、公头  
-ADC：GND 1、2 GND、4 ADC-B/OUTPUT1、3 ADC-A/SPKN  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -268,6 +240,7 @@ M5x10*4PCS
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE2.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE2.png
+- 线束外观图｜图4.1.1 26P线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

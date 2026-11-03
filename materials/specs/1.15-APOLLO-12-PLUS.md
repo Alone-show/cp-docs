@@ -225,7 +225,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E5%89%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -235,53 +235,6 @@ PORT1：1 7 / 8 13 / 14 19 / 20 26（26 孔，第 3 排右侧印 A）
 Sub screen connector M12：1 2 3 4 5 6 7 8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-产品尺寸：500±30  
-接口/针脚：线材标识 AUDIO OUT、CAMERA 0、CAMERA_1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：主插头 26P，端面标注 7、13、19、26（左）与 1、8、14、20（右）  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_04  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_14  
-接口/针脚：RJ45 1 NC、2 NC、3 TRP、6 TRN  
-接口/针脚：DB9 B（公头）NC/RS232-B-RX、NC/RS232-BTX、GND  
-接口/针脚：ACC 1 ACC、2 B+、3 B-  
-接口/针脚：4P 1 GND、2 GND、3 INPUT1、4 INPUT2  
-接口/针脚：DB9 A（公头）RS232-A-RX、RS232-A-TX、GND  
-接口/针脚：DB9 C（公头）CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND  
-接口/针脚：4P 1 GND、2 OUTPUT1、3 OUTPUT2、4 OUTPUT3  
-备注：AUDIO OUT 线旁标注 黑、红  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.5 M12 副屏线束（4.1.5）
 **图名**：M12 X-CODE MALE TO MALE CABLE ASSEMBLY（图框内 CUSTOMER DRAWING）
@@ -319,6 +272,8 @@ A
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2%2012PLUS%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 主屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E8%83%8C%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.3 副屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 接口定义表｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 

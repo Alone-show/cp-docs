@@ -122,34 +122,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（2 张）
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-500±30  
-26pin  
-CAMERA 0  
-CAMERA 1  
-RJ45  
-DB9 B  
-SPRING2 POWER  
-IO INPUT  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-SN  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
-Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
-RJ45：1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_RX-  
-DB9 B：RS232-RX2、RS232-TX2、GND、公头  
-Power：ACC 1、2 B+、3 B-  
-IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
-DB9 A：RS232-RX1、RS232-TX1、GND、公头  
-DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B、RS485_A、GND、公头  
-DC OUTPUT：GND 1、2 OUTPUT3、3 OUTPUT2、4 OUTPUT1  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png
+### 图内文字（1 张）
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：APOLLO2 10　RAM 安装指导
@@ -174,6 +147,7 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

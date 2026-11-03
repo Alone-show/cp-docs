@@ -226,71 +226,13 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
 
-### 图内文字（6 张）
+### 图内文字（2 张）
 
 #### 图3.2.3 APOLLO 7BPRO接口图（3.2 接口定义）
 
 接口/针脚：1 2 3 4 5 6 7 8 9 10 11 12（左侧一组）；1 2 3 4 5 6 7 8 9 10 11 12（右侧一组）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500 ± 30；150 ± 15  
-接口/针脚：M1-12PIN接口（针脚 1 2 3 4 5 6 7 8 9 10 11 12）；M12 圆形接头 1 2；圆形 4PIN 接头 1 2 3 4；DB9 A 母头；DB9 B 母头  
-线缆标识：POWER、12V OUT、DB9 A、DB9 B  
-备注：接头丝印 ALTW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ 绿色序号标注  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30、150±15  
-接口/针脚：M2-10PIN接口（1、2、3、4、5、6、7、8、9、10）；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；CAN2 485（DB9）  
-线缆标号：① 插头　②③④ 分线盒　⑤⑦ 线缆　⑥ CAN2 485　②⑧ CAMERA A / CAMERA B　②③⑨⑩ CAN2 485  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.1.1 PROT1线束外观图（4.2.1.1）
-
-M1-12PIN接口  
-500±30  
-150±15  
-30±5  
-100±10  
-20±5  
-POWER  
-AUDIO LINEOUT  
-DB9 A  
-INPUT IO  
-接口/针脚：M1-12PIN接口，外圈 2、11、3、1、4、9、10、8、5、7、12、6  
-备注：5（沾锡）；红色 AUDIO LINEOUT(24AWG)；黑色 GND(24AWG)；红色 INPUT 1(24AWG)；黄色 INPUT 2(24AWG)；黑色 GND(24AWG)；5MM沾锡；6.0MM黑色热缩管 L=15MM  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.2.1 PROT2线束外观图（4.2.2.1）
-
-500 ± 30  
-150 ± 15  
-30 ± 5  
-100 ± 10  
-RJ45  
-RS485  
-OUTPUT IO  
-黑色 GND(24AWG)  
-红色 OUTPUT_IO1(24AWG)  
-黄色 OUTPUT_IO2(24AWG)  
-5MM沾锡  
-6.0MM黑色热缩管 L=15MM（字迹极小，存疑）  
-接口/针脚：M2-10PIN接口，针脚 1、2、3、4、5、6、7、8、9、10  
-标注序号：②③④⑤⑥⑦⑧⑨⑩  
-RJ45 针脚：1、8  
-DB9 针脚：① 1 2 3 ...（图侧示针脚 1—5）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 7 RAM安装指导
@@ -314,6 +256,10 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 
@@ -482,7 +428,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -492,50 +438,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：ANT2、ANT1：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 8 RAM安装指导
@@ -559,6 +461,9 @@ A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
 
 ### 数据提示
 
@@ -628,6 +533,22 @@ A
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/APOLLO%2010PRO.png
 
 ### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（电源）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | B+ |
+| 2 | B- |
+| 3 | ACC |
+| 4 | DV12V-OUT1 |
+| 5 | B- |
+| 6 | B+ |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
+
+### 接口定义｜3.2 接口定义
 *图3.2.1 配置A型 接口定义表*
 
 | PORT2-12P | PIN脚定义 | PORT3-12P | PIN脚定义 |
@@ -648,6 +569,22 @@ A
 > 注：配置A型。图中部分单元格为红色文字（PORT2 的 CVBS-IN1/CVBS-IN2，PORT3 的 RS232A-TX1/RX1、RS232B-TX2/RX2），转写仅保留文字，未保留颜色。
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A12.png
+
+### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（CVBS）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | CVBS+12V |
+| 2 | GND |
+| 3 | NC |
+| 4 | CVBS-IN2 |
+| 5 | CVBS-IN1 |
+| 6 | CVBS+12V |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
 
 ### 接口定义｜3.2 接口定义
 *图3.2.2 配置B型 接口定义表*
@@ -838,7 +775,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（12 张）
+### 图内文字（3 张）
 
 #### 图3.2 APOLLO 10PRO 接口图（3.2 接口定义）
 
@@ -849,111 +786,12 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：1 B+；2 B-；3 ACC；4 DV12V-OUT1；5 B-；6 B+  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
-
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：  
-1 CVBS+12V  
-2 GND  
-3 NC  
-4 CVBS-IN2  
-5 CVBS-IN1  
-6 CVBS+12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
-
 #### 图3.2.3.1 配置B型 接口图（3.2 接口定义）
 
 接口/针脚：PORT 1：1、2、3、4、5、6（上排）；7（中排左）、12（中排右）；13、14、15、16、17、18（下排）  
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 POWER、DC12V-OUT1；圆形插头针位标号 1、2、3 与 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 CVBS IN1、CVBS IN2、IO IN OUT、DB9 A；左侧接口旁小字针位标号 ?  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-产品尺寸：500±30；150±15  
-接口/针脚：线材标识 RJ45、DC12V OUT2、DB9 C、DB9 B  
-接口/针脚：8P 端子标注 1~8  
-接口/针脚：RJ45 端口标注 1、8；4P 圆形接口标注 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
-
-#### 图4.1.4.1 PROT1线束外观图（4.1.4.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
-
-#### 图4.1.5.1 PROT2线束外观图（4.1.5.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
-
-#### 图4.1.6.1 PROT3线束外观图（4.1.6.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
-
-#### 图4.1.7.1 18PIN线束外观图（4.1.7.1）
-
-产品尺寸：30±10、500±30  
-接口/针脚：POWER（1、2、3）；DB9 B；DB9 A；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；IN/OUTPUT -DC 12V（1、2、3、4）  
-备注：线束标签为 POWER、DB9 B、DB9 A、CAMERA A、IN/OUTPUT DC12V、CAMERA B；线缆与插头旁另有小号圆圈标号（8 9、8 11 12、8 10 等），字迹过小，其余不可辨  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -977,6 +815,13 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/APOLLO%2010%20PRO/%E6%AD%A3%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
+- 接口实物图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
+- 接口实物图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
+- 线束外观图｜图4.1.4.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.5.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.6.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
+- 接口实物图｜图4.1.7.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 ### 数据提示
 
@@ -1092,7 +937,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -1100,14 +945,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1 18PIN线束外观图（4.1.1）
-
-产品尺寸：30±10；500±30  
-接口/针脚：Power 1 ACC、2 B+、3 B-；DB9 B 1 RS-485-A、5 GND、7 RS-485-B；DB9 A 1 CAN2-L、2 RS232_TXD1、3 RS232_RXD1、5 GND、6 CAN1-L、7 CAN2-H、9 CAN1-H；OUTPUT-DC 12V 1 DC12-OUT1、2 GNG、3 DC12-OUT1；RJ 45 1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_TX-  
-备注原文：线缆标签 SPRING-NFDH、POWER、DB9 B、DB9 A、RJ45、OUTPUT-DC12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -1131,6 +968,7 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/APOLLO%2010%20PRO/%E6%AD%A3%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/10PRO%E7%94%B5%E5%8F%B0%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 接口实物图｜图4.1.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -1300,7 +1138,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3%20%20%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（5 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 APOLLO X 接口图（3.2 接口定义）
 
@@ -1310,50 +1148,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：PORT 3 标注 1、2、3、4、5、6（上）与 12、11、10、9、8、7（下）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：APOLLO X　RAM 安装指导
@@ -1378,6 +1172,9 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E6%AD%A3%E9%9D%A2%E5%9B%BEX.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BEX.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT1.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT2.png
+- 线束外观图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3.png
 
 ### 数据提示
 
@@ -1526,7 +1323,7 @@ RAM 支架安装说明
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -1534,33 +1331,6 @@ RAM 支架安装说明
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 26P线束定义（4.1.1）
-
-500±30  
-AHD1  
-AHD2  
-AHD3/INPUT1  
-AHD4/INPUT2  
-DB9 B  
-APOLLO2 POWER  
-ADC IN  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4  
-接口/针脚：ACC 针 1、B+ 针 2、B- 针 3  
-接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4  
-接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4  
-接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND  
-接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND  
-接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND  
-备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/apollo2%207%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -1600,6 +1370,7 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 26P线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/apollo2%207%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -1747,7 +1518,7 @@ RAM 支架安装说明
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -1755,25 +1526,6 @@ RAM 支架安装说明
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -1813,6 +1565,7 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -1947,34 +1700,7 @@ RAM 支架安装说明
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（2 张）
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-500±30  
-26pin  
-CAMERA 0  
-CAMERA 1  
-RJ45  
-DB9 B  
-SPRING2 POWER  
-IO INPUT  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-SN  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
-Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
-RJ45：1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_RX-  
-DB9 B：RS232-RX2、RS232-TX2、GND、公头  
-Power：ACC 1、2 B+、3 B-  
-IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
-DB9 A：RS232-RX1、RS232-TX1、GND、公头  
-DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B、RS485_A、GND、公头  
-DC OUTPUT：GND 1、2 OUTPUT3、3 OUTPUT2、4 OUTPUT1  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png
+### 图内文字（1 张）
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：APOLLO2 10　RAM 安装指导
@@ -1999,6 +1725,7 @@ RAM 支架安装说明
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -2151,7 +1878,7 @@ RAM 支架安装说明
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -2159,33 +1886,6 @@ RAM 支架安装说明
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-500±30  
-AHD1  
-AHD2  
-AHD3/INPUT1  
-AHD4/INPUT2  
-DB9 B  
-APOLLO2 POWER  
-ADC IN  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4  
-接口/针脚：ACC 针 1、B+ 针 2、B- 针 3  
-接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4  
-接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4  
-接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND  
-接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND  
-接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND  
-备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -2224,6 +1924,7 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E6%AD%A3%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -2374,7 +2075,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -2382,33 +2083,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-500±30  
-AHD1  
-AHD2  
-AHD3/INPUT1  
-AHD4/INPUT2  
-DB9 B  
-APOLLO2 POWER  
-ADC IN  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4  
-接口/针脚：ACC 针 1、B+ 针 2、B- 针 3  
-接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4  
-接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4  
-接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND  
-接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND  
-接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND  
-备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -2447,6 +2121,7 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -2598,7 +2273,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -2606,25 +2281,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -2663,6 +2319,7 @@ A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E6%AD%A3%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -2814,7 +2471,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -2822,25 +2479,6 @@ A
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -2879,6 +2517,7 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 接口实物图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -3114,7 +2753,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -3123,52 +2762,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012PRO/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -3207,6 +2800,8 @@ A
 
 - 外观图｜2.1 APOLLO 12 PRO外观介绍：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E6%AD%A3%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 
@@ -3443,7 +3038,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -3452,52 +3047,6 @@ A
 接口/针脚：Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012PRO/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -3536,6 +3085,8 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Back%20view.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 
@@ -3774,7 +3325,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E5%89%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -3784,53 +3335,6 @@ PORT1：1 7 / 8 13 / 14 19 / 20 26（26 孔，第 3 排右侧印 A）
 Sub screen connector M12：1 2 3 4 5 6 7 8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-产品尺寸：500±30  
-接口/针脚：线材标识 AUDIO OUT、CAMERA 0、CAMERA_1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：主插头 26P，端面标注 7、13、19、26（左）与 1、8、14、20（右）  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_04  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_14  
-接口/针脚：RJ45 1 NC、2 NC、3 TRP、6 TRN  
-接口/针脚：DB9 B（公头）NC/RS232-B-RX、NC/RS232-BTX、GND  
-接口/针脚：ACC 1 ACC、2 B+、3 B-  
-接口/针脚：4P 1 GND、2 GND、3 INPUT1、4 INPUT2  
-接口/针脚：DB9 A（公头）RS232-A-RX、RS232-A-TX、GND  
-接口/针脚：DB9 C（公头）CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND  
-接口/针脚：4P 1 GND、2 OUTPUT1、3 OUTPUT2、4 OUTPUT3  
-备注：AUDIO OUT 线旁标注 黑、红  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.5 M12 副屏线束（4.1.5）
 **图名**：M12 X-CODE MALE TO MALE CABLE ASSEMBLY（图框内 CUSTOMER DRAWING）
@@ -3868,6 +3372,8 @@ A
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2%2012PLUS%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 主屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E8%83%8C%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.3 副屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 接口定义表｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 
@@ -4104,7 +3610,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E5%89%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -4114,53 +3620,6 @@ PORT1：1 7 / 8 13 / 14 19 / 20 26（26 孔，第 3 排右侧印 A）
 Sub screen connector M12：1 2 3 4 5 6 7 8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-产品尺寸：500±30  
-接口/针脚：线材标识 AUDIO OUT、CAMERA 0、CAMERA_1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：主插头 26P，端面标注 7、13、19、26（左）与 1、8、14、20（右）  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_04  
-接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_14  
-接口/针脚：RJ45 1 NC、2 NC、3 TRP、6 TRN  
-接口/针脚：DB9 B（公头）NC/RS232-B-RX、NC/RS232-BTX、GND  
-接口/针脚：ACC 1 ACC、2 B+、3 B-  
-接口/针脚：4P 1 GND、2 GND、3 INPUT1、4 INPUT2  
-接口/针脚：DB9 A（公头）RS232-A-RX、RS232-A-TX、GND  
-接口/针脚：DB9 C（公头）CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND  
-接口/针脚：4P 1 GND、2 OUTPUT1、3 OUTPUT2、4 OUTPUT3  
-备注：AUDIO OUT 线旁标注 黑、红  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：26PIN 连接器，针脚 1、7、20、26  
-NVP6158C CAMERA 2  
-NVP6158C CAMERA 3  
-RN6864 CAMERA 5  
-RN6864 CAMERA 6  
-RN6864 CAMERA 7  
-RN6864 CAMERA 8  
-CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
-SPK L/Line out L  
-1：红色SPK_OUTL_P/Line_out_L  
-2：黑色SPK_OUTL_N/Line_out_L_GND  
-SPK R/Line out R  
-1：红色SPK_OUTR_P/Line_out_R  
-2：黑色SPK_OUTR_N/Line_out_R_GND  
-ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
-ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
-APOLLO2 12PRO 副接口  
-DB9 D  
-CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
-DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 #### 图4.1.5 M12 副屏线束（4.1.5）
 **图名**：M12 X-CODE MALE TO MALE CABLE ASSEMBLY（图框内 CUSTOMER DRAWING）
@@ -4197,6 +3656,8 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Back%20view.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
 
 ### 数据提示
 
@@ -4398,71 +3859,13 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
 
-### 图内文字（6 张）
+### 图内文字（2 张）
 
 #### 图3.2.3 SPRING 7B接口图（3.2 接口定义）
 
 接口/针脚：1 2 3 4 5 6 7 8 9 10 11 12（左侧一组）；1 2 3 4 5 6 7 8 9 10 11 12（右侧一组）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500 ± 30；150 ± 15  
-接口/针脚：M1-12PIN接口（针脚 1 2 3 4 5 6 7 8 9 10 11 12）；M12 圆形接头 1 2；圆形 4PIN 接头 1 2 3 4；DB9 A 母头；DB9 B 母头  
-线缆标识：POWER、12V OUT、DB9 A、DB9 B  
-备注：接头丝印 ALTW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ 绿色序号标注  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30、150±15  
-接口/针脚：M2-10PIN接口（1、2、3、4、5、6、7、8、9、10）；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；CAN2 485（DB9）  
-线缆标号：① 插头　②③④ 分线盒　⑤⑦ 线缆　⑥ CAN2 485　②⑧ CAMERA A / CAMERA B　②③⑨⑩ CAN2 485  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.1.1 PROT1线束外观图（4.2.1.1）
-
-M1-12PIN接口  
-500±30  
-150±15  
-30±5  
-100±10  
-20±5  
-POWER  
-AUDIO LINEOUT  
-DB9 A  
-INPUT IO  
-接口/针脚：M1-12PIN接口，外圈 2、11、3、1、4、9、10、8、5、7、12、6  
-备注：5（沾锡）；红色 AUDIO LINEOUT(24AWG)；黑色 GND(24AWG)；红色 INPUT 1(24AWG)；黄色 INPUT 2(24AWG)；黑色 GND(24AWG)；5MM沾锡；6.0MM黑色热缩管 L=15MM  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-
-#### 图4.2.2.1 PROT2线束外观图（4.2.2.1）
-
-500 ± 30  
-150 ± 15  
-30 ± 5  
-100 ± 10  
-RJ45  
-RS485  
-OUTPUT IO  
-黑色 GND(24AWG)  
-红色 OUTPUT_IO1(24AWG)  
-黄色 OUTPUT_IO2(24AWG)  
-5MM沾锡  
-6.0MM黑色热缩管 L=15MM（字迹极小，存疑）  
-接口/针脚：M2-10PIN接口，针脚 1、2、3、4、5、6、7、8、9、10  
-标注序号：②③④⑤⑥⑦⑧⑨⑩  
-RJ45 针脚：1、8  
-DB9 针脚：① 1 2 3 ...（图侧示针脚 1—5）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 7 RAM安装指导
@@ -4486,6 +3889,10 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 
@@ -4653,7 +4060,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（5 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -4663,50 +4070,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：ANT2、ANT1：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 8 RAM安装指导
@@ -4730,6 +4093,9 @@ A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
 
 ### 数据提示
 
@@ -4799,6 +4165,22 @@ A
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%2010.png
 
 ### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（电源）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | B+ |
+| 2 | B- |
+| 3 | ACC |
+| 4 | DV12V-OUT1 |
+| 5 | B- |
+| 6 | B+ |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
+
+### 接口定义｜3.2 接口定义
 *图3.2.1 配置A型 接口定义表*
 
 | PORT2-12P | PIN脚定义 | PORT3-12P | PIN脚定义 |
@@ -4819,6 +4201,22 @@ A
 > 注：同图转写（原归属 1.3 APOLLO 10 PRO；原表：图3.2.1 配置A型 接口定义表）；配置A型。图中部分单元格为红色文字（PORT2 的 CVBS-IN1/CVBS-IN2，PORT3 的 RS232A-TX1/RX1、RS232B-TX2/RX2），转写仅保留文字，未保留颜色。
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A12.png
+
+### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（CVBS）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | CVBS+12V |
+| 2 | GND |
+| 3 | NC |
+| 4 | CVBS-IN2 |
+| 5 | CVBS-IN1 |
+| 6 | CVBS+12V |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
 
 ### 接口定义｜3.2 接口定义
 *图3.2.2 配置B型 接口定义表*
@@ -5009,7 +4407,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（12 张）
+### 图内文字（3 张）
 
 #### 图3.2 SPRING 10 接口图（3.2 接口定义）
 
@@ -5020,111 +4418,12 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：1 B+；2 B-；3 ACC；4 DV12V-OUT1；5 B-；6 B+  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
-
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：  
-1 CVBS+12V  
-2 GND  
-3 NC  
-4 CVBS-IN2  
-5 CVBS-IN1  
-6 CVBS+12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
-
 #### 图3.2.3.1 配置B型 接口图（3.2 接口定义）
 
 接口/针脚：PORT 1：1、2、3、4、5、6（上排）；7（中排左）、12（中排右）；13、14、15、16、17、18（下排）  
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 POWER、DC12V-OUT1；圆形插头针位标号 1、2、3 与 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 CVBS IN1、CVBS IN2、IO IN OUT、DB9 A；左侧接口旁小字针位标号 ?  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-产品尺寸：500±30；150±15  
-接口/针脚：线材标识 RJ45、DC12V OUT2、DB9 C、DB9 B  
-接口/针脚：8P 端子标注 1~8  
-接口/针脚：RJ45 端口标注 1、8；4P 圆形接口标注 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
-
-#### 图4.1.4.1 PROT1线束外观图（4.1.4.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
-
-#### 图4.1.5.1 PROT2线束外观图（4.1.5.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
-
-#### 图4.1.6.1 PROT3线束外观图（4.1.6.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
-
-#### 图4.1.7.1 18PIN线束外观图（4.1.7.1）
-
-产品尺寸：30±10、500±30  
-接口/针脚：POWER（1、2、3）；DB9 B；DB9 A；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；IN/OUTPUT -DC 12V（1、2、3、4）  
-备注：线束标签为 POWER、DB9 B、DB9 A、CAMERA A、IN/OUTPUT DC12V、CAMERA B；线缆与插头旁另有小号圆圈标号（8 9、8 11 12、8 10 等），字迹过小，其余不可辨  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -5148,6 +4447,13 @@ RAM 支架　RAM 支架底座　A
 
 - 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A9%2010.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
+- 接口实物图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
+- 接口实物图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
+- 线束外观图｜图4.1.4.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.5.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.6.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
+- 接口实物图｜图4.1.7.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 ### 数据提示
 
@@ -5262,7 +4568,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -5270,14 +4576,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1 18PIN线束外观图（4.1.1）
-
-产品尺寸：30±10；500±30  
-接口/针脚：Power 1 ACC、2 B+、3 B-；DB9 B 1 RS-485-A、5 GND、7 RS-485-B；DB9 A 1 CAN2-L、2 RS232_TXD1、3 RS232_RXD1、5 GND、6 CAN1-L、7 CAN2-H、9 CAN1-H；OUTPUT-DC 12V 1 DC12-OUT1、2 GNG、3 DC12-OUT1；RJ 45 1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_TX-  
-备注原文：线缆标签 SPRING-NFDH、POWER、DB9 B、DB9 A、RJ45、OUTPUT-DC12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -5301,6 +4599,7 @@ RAM 支架　RAM 支架底座　A
 
 - 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A9%2010.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/10PRO%E7%94%B5%E5%8F%B0%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 接口实物图｜图4.1.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -5442,7 +4741,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -5453,25 +4752,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图-旧面壳（5 安装方式）
 **图名**：SPRING2 10 RAM安装指导
@@ -5496,6 +4776,7 @@ RAM 支架　RAM 支架底座　A
 - 外观图｜图2.1.1 正面图-旧面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 其他图表｜图2.1.2 正面图-新面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png
 - 外观图｜图2.1.4 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -5641,7 +4922,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -5652,25 +4933,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.3 正面图-特别版面壳（5 安装方式）
 **图名**：SPRING2 10 RAM安装指导
@@ -5694,6 +4956,7 @@ RAM 支架　RAM 支架底座　A
 
 - 其他图表｜图2.1.3 正面图-特别版面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E7%89%B9%E5%88%AB%E7%89%88%E9%9D%A2%E5%A3%B3.png
 - 外观图｜图2.1.4 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -5874,7 +5137,7 @@ RAM 支架　RAM 支架底座　A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（12 张）
+### 图内文字（10 张）
 
 #### 图2.1.4 背面图（2.1.4）
 
@@ -5892,37 +5155,6 @@ RAM 支架　RAM 支架底座　A
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 26PIN线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 摄像头航空座1拖2线束外观图（4.1.3）
-
-500±30  
-150±15  
-B directio（原文，末尾不全）  
-AHD IN1  
-AHD IN2  
-接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图4.2.1 8路720P接线方法（4.2.1）
 **图名**：standard edition 8*720P connection method / custom-made 8*720P connection method
@@ -6057,6 +5289,8 @@ A
 
 - 外观图｜图2.1.1 正面图-旧面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 其他图表｜图2.1.2 正面图-新面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png
+- 线束外观图｜图4.1.1 26PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 
@@ -6242,7 +5476,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（12 张）
+### 图内文字（10 张）
 
 #### 图2.1.4 背面图（2.1.4）
 
@@ -6260,37 +5494,6 @@ A
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 26PIN线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 摄像头航空座1拖2线束外观图（4.1.3）
-
-500±30  
-150±15  
-B directio（原文，末尾不全）  
-AHD IN1  
-AHD IN2  
-接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图4.2.1 8路720P接线方法（4.2.1）
 **图名**：standard edition 8*720P connection method / custom-made 8*720P connection method
@@ -6424,6 +5627,8 @@ A
 ### 未转写的图片（无图内文字，见原图）
 
 - 其他图表｜图2.1.3 正面图-特别版面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E7%89%B9%E5%88%AB%E7%89%88%E9%9D%A2%E5%A3%B3.png
+- 线束外观图｜图4.1.1 26PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 
@@ -6604,7 +5809,7 @@ A
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（12 张）
+### 图内文字（10 张）
 
 #### 图2.1.2 背面图（2.1.2）
 
@@ -6622,37 +5827,6 @@ A
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 26PIN线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 摄像头航空座1拖2线束外观图（4.1.3）
-
-500±30  
-150±15  
-B directio（原文，末尾不全）  
-AHD IN1  
-AHD IN2  
-接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图4.2.1 8路720P接线方法（4.2.1）
 **图名**：standard edition 8*720P connection method / custom-made 8*720P connection method
@@ -6786,6 +5960,8 @@ RAM 支架安装说明
 ### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2%2010plus/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 26PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 
@@ -6921,7 +6097,7 @@ RAM 支架安装说明
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -6930,32 +6106,6 @@ RAM 支架安装说明
 备注：USB 处仅为图形标识，无文字  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK1%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-500±30  
-SPK  
-MIC  
-AHD IN1-4  
-AHD IN2  
-AHD IN3  
-AHD IN4  
-POWER  
-IO INPUT  
-DB9 A  
-DB9 B  
-12V OUT  
-SM  
-接口/针脚：MIC- 针 1、MIC- 针 2  
-接口/针脚：+5V 针 1、GND 针 2、NC 针 3、AHD（视频）针 4  
-接口/针脚：ACC 针 1、+12V 针 2、GND 针 3  
-接口/针脚：GND 针 1、GND 针 2、INPUT1 针 3、INPUT2 针 4  
-接口/针脚：GND 针 1、GND 针 2、OUTPUT1 针 4、OUTPUT2 针 3  
-接口/针脚：DB9——1PPS、RS232-TX1、RS232-RX1、GND  
-接口/针脚：DB9——CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-TX0、RS232-RX0、GND  
-备注：左上 26 芯连接器端视图针号 7、26、1、20；标注序号 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图（5 安装方式）
 
@@ -6976,6 +6126,7 @@ SM
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -7155,7 +6306,7 @@ SM
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（6 张）
+### 图内文字（5 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -7173,34 +6324,6 @@ SM
 
 > 置信度：medium
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK%20IMU%20%E5%9D%90%E6%A0%87.png
-
-#### 图4.1.1 26P线束外观图（4.1.1）
-
-500±30  
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-26pin  
-AHD IN1  
-AHD IN2  
-AHD IN3  
-AHD IN4  
-TANK 2 POWER  
-IO IN/OUT  
-DB9 A  
-DB9 B  
-ADC  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-AHD IN1：+12V 1、2 GND、3 NC、4 AHD（视频）  
-AHD IN2：+12V 1、2 GND、3、4 AHD 2  
-AHD IN3：+12V 1、2 GND、3、4 AHD 3  
-AHD IN4：+12V 1、2 GND、3、4 AHD 4  
-TANK 2 POWER：ACC 1、2 B+、3 B-  
-IO IN/OUT：GND 1、2 GND、4 OUTPUT2/PPS、3 INPUT1  
-DB9 A：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-RX1、RS232-TX1、GND、公头  
-DB9 B：CAN3-L、CAN4-H/RS232-RX3、CAN3-H、CAN4-L/RS232-TX3、RS232-RX2/485-B、RS232-TX2/485-A、GND、公头  
-ADC：GND 1、2 GND、4 ADC-B/OUTPUT1、3 ADC-A/SPKN  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -7256,6 +6379,7 @@ M5x10*4PCS
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE2.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE2.png
+- 线束外观图｜图4.1.1 26P线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 
@@ -7453,7 +6577,7 @@ M5x10*4PCS
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（4 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -7461,50 +6585,6 @@ M5x10*4PCS
 备注原文：SPK  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-500±30  
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-26pin  
-CAMERA 0  
-CAMERA 1  
-RJ45  
-DB9 B  
-SPRING2 POWER  
-IO INPUT  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
-Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
-RJ45：1 PHY_MDI_1+、2 PHY_MDI_1-、3 PHY_MDI_0+、6 PHY_MDI_0-  
-DB9 B：?C/RS232-B-RX、?C/RS232-B-TX、GND、公头  
-SPRING2 POWER：ACC 1、2 B+、3 B-  
-IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
-DB9 A：RS232-A-RX、RS232-A-TX、GND、公头  
-DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND、公头  
-DC OUTPUT：GND 1、2 OUTPUT1、3 OUTPUT2、4 1PPS  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：  
-26PIN 插头（图上丝印标号 1、7、20、26）  
-线束标签：NVP6188A1｜CAMERA 2、NVP6188A1｜CAMERA 3、NVP6188A2｜CAMERA 5、NVP6188A2｜CAMERA 6、NVP6188A2｜CAMERA 7、NVP6188A2｜CAMERA 8、车载以太网（字迹模糊）、手麦、ADC/电容、KPS40310002 Mega1 PORT2、DB9 D  
-CAMERA_2 / CAMERA_3 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_2 / CAMERA_3、3 NC  
-CAMERA_5 / CAMERA_6 / CAMERA_7 / CAMERA_8 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_5～CAMERA_8、3 AIN 5 / AIN 6 / AIN 7 / AIN 8  
-BATT_20P 四芯：1 GND、2 BATT_20P、3 ADC_1、4 ADC_2  
-DB9 D：RS232_DEBUG_RX、RS232_DEBUG_TX、GND，公头  
-备注原文：1: 红色 TRX+（双绞线）　2: 黑色TRX-（双绞线）  
-小插头针脚 1～6 的红色丝印过小，仅可辨认 4 SFP+、6 GND  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：MEGA1 RAM安装指导
@@ -7528,6 +6608,8 @@ A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%89%8D%E5%89%AF%E6%9C%AC.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%90%8E%E5%89%AF%E6%9C%AC.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
 
 ### 数据提示
 

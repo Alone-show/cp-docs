@@ -730,6 +730,12 @@
    "file": "images/store/7ec274539cf206d6fc3298b22dc8b55d17eeadd1ccba4173958e2671c0d546f9.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "6b41836e1a9947f4847dc0533a936dc356edcc8539ffa686e0873994d40969ab",
+   "file": "images/store/6b41836e1a9947f4847dc0533a936dc356edcc8539ffa686e0873994d40969ab.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -747,17 +753,6 @@
    "kind": "diagram",
    "title": "",
    "text": "接口/针脚：插座 左侧 1、8、14、20；右侧 7、13、19、26；13 针旁标 A\n接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8",
-   "confidence": "high"
-  },
-  {
-   "sha256": "6b41836e1a9947f4847dc0533a936dc356edcc8539ffa686e0873994d40969ab",
-   "file": "images/store/6b41836e1a9947f4847dc0533a936dc356edcc8539ffa686e0873994d40969ab.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 线束定义",
-   "kind": "diagram",
-   "title": "",
-   "text": "500±30\nAHD1\nAHD2\nAHD3/INPUT1\nAHD4/INPUT2\nDB9 B\nAPOLLO2 POWER\nADC IN\nDB9 A\nDB9 C\nDC OUTPUT\n接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4\n接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4\n接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4\n接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4\n接口/针脚：ACC 针 1、B+ 针 2、B- 针 3\n接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4\n接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4\n接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND\n接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND\n接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND\n备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）",
    "confidence": "high"
   },
   {

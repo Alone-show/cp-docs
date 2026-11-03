@@ -845,6 +845,18 @@
    "file": "images/store/9575bcaa8322ec5a20e431123fe4b2df7997796c95c4f88a961bf27a89adfcac.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png",
    "reason": "其他图表｜图2.1.2 正面图-新面壳：非表格，见原图"
+  },
+  {
+   "sha256": "fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64",
+   "file": "images/store/fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 26PIN线束外观图：非表格/无图内文字，见原图"
+  },
+  {
+   "sha256": "8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9",
+   "file": "images/store/8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
+   "reason": "线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -874,28 +886,6 @@
    "title": "",
    "text": "接口/针脚：矩形插座 左侧 1、8、14、20；右侧 7、13、19、26；插座内 13 针旁标 A\n接口/针脚：V1：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V2：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V3：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）",
    "confidence": "high"
-  },
-  {
-   "sha256": "fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64",
-   "file": "images/store/fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 26PIN线束外观图",
-   "kind": "diagram",
-   "title": "",
-   "text": "产品尺寸：500 ± 30\n线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT\n接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC\n接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC\n接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-\n接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND\n接口/针脚：Power：1 ACC；2 B+；3 B-\n接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1\n接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND\n接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND\n接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2\n接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20\n备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注",
-   "confidence": "medium"
-  },
-  {
-   "sha256": "8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9",
-   "file": "images/store/8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "section": "4.1.3",
-   "caption": "图4.1.3 摄像头航空座1拖2线束外观图",
-   "kind": "drawing",
-   "title": "",
-   "text": "500±30\n150±15\nB directio（原文，末尾不全）\nAHD IN1\nAHD IN2\n接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）",
-   "confidence": "medium"
   },
   {
    "sha256": "3229021026726a8770fadcd1b8df08a709b7385cd1d8263ae2deff2fa7caf371",

@@ -125,7 +125,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（3 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -134,32 +134,6 @@
 备注：USB 处仅为图形标识，无文字  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK1%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束外观图（4.1.1）
-
-500±30  
-SPK  
-MIC  
-AHD IN1-4  
-AHD IN2  
-AHD IN3  
-AHD IN4  
-POWER  
-IO INPUT  
-DB9 A  
-DB9 B  
-12V OUT  
-SM  
-接口/针脚：MIC- 针 1、MIC- 针 2  
-接口/针脚：+5V 针 1、GND 针 2、NC 针 3、AHD（视频）针 4  
-接口/针脚：ACC 针 1、+12V 针 2、GND 针 3  
-接口/针脚：GND 针 1、GND 针 2、INPUT1 针 3、INPUT2 针 4  
-接口/针脚：GND 针 1、GND 针 2、OUTPUT1 针 4、OUTPUT2 针 3  
-接口/针脚：DB9——1PPS、RS232-TX1、RS232-RX1、GND  
-接口/针脚：DB9——CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-TX0、RS232-RX0、GND  
-备注：左上 26 芯连接器端视图针号 7、26、1、20；标注序号 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
 
 #### 图2.1.1 正面图（5 安装方式）
 
@@ -180,6 +154,7 @@ SM
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

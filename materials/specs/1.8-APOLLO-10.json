@@ -678,6 +678,12 @@
    "file": "images/store/0659d5f55a8fb8c2889abdd64fe4d888a97ce281cb538c5b4ea3b9152bdbd3d5.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce",
+   "file": "images/store/bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -687,17 +693,6 @@
   "补录图内文字 2 张（自动识读，? 处需核对原图）"
  ],
  "figures": [
-  {
-   "sha256": "bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce",
-   "file": "images/store/bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 线束外观图",
-   "kind": "diagram",
-   "title": "",
-   "text": "500±30\n26pin\nCAMERA 0\nCAMERA 1\nRJ45\nDB9 B\nSPRING2 POWER\nIO INPUT\nDB9 A\nDB9 C\nDC OUTPUT\nSN\n接口/针脚：26pin 主插头，标注 1、7、20、26\nCamera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC\nCamera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC\nRJ45：1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_RX-\nDB9 B：RS232-RX2、RS232-TX2、GND、公头\nPower：ACC 1、2 B+、3 B-\nIO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1\nDB9 A：RS232-RX1、RS232-TX1、GND、公头\nDB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B、RS485_A、GND、公头\nDC OUTPUT：GND 1、2 OUTPUT3、3 OUTPUT2、4 OUTPUT1",
-   "confidence": "high"
-  },
   {
    "sha256": "986c5a0ec1f7e6fe10c579756ca46c026e66041b2789fd5e36cfa7fc5a2c453e",
    "file": "images/store/986c5a0ec1f7e6fe10c579756ca46c026e66041b2789fd5e36cfa7fc5a2c453e.png",

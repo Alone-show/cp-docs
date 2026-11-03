@@ -139,7 +139,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
 
-### 图内文字（4 张）
+### 图内文字（3 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -147,33 +147,6 @@
 接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 线束定义（4.1.1）
-
-500±30  
-AHD1  
-AHD2  
-AHD3/INPUT1  
-AHD4/INPUT2  
-DB9 B  
-APOLLO2 POWER  
-ADC IN  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4  
-接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4  
-接口/针脚：ACC 针 1、B+ 针 2、B- 针 3  
-接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4  
-接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4  
-接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND  
-接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND  
-接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND  
-备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 #### 图4.1.3 M12以太网线束（4.1.3）
 **图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
@@ -212,6 +185,7 @@ RAM 支架　RAM 支架底座　A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88/APOLLO2%2012A%E7%89%B9%E5%88%AB%E7%89%88%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
 
 ### 数据提示
 

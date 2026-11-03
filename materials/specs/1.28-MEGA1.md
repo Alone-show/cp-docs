@@ -184,7 +184,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（4 张）
+### 图内文字（2 张）
 
 #### 图3.2.1 接口图（3.2 接口定义）
 
@@ -192,50 +192,6 @@
 备注原文：SPK  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 PORT1线束定义（4.1.1）
-
-500±30  
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-26pin  
-CAMERA 0  
-CAMERA 1  
-RJ45  
-DB9 B  
-SPRING2 POWER  
-IO INPUT  
-DB9 A  
-DB9 C  
-DC OUTPUT  
-接口/针脚：26pin 主插头，标注 1、7、20、26  
-Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
-Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
-RJ45：1 PHY_MDI_1+、2 PHY_MDI_1-、3 PHY_MDI_0+、6 PHY_MDI_0-  
-DB9 B：?C/RS232-B-RX、?C/RS232-B-TX、GND、公头  
-SPRING2 POWER：ACC 1、2 B+、3 B-  
-IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
-DB9 A：RS232-A-RX、RS232-A-TX、GND、公头  
-DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND、公头  
-DC OUTPUT：GND 1、2 OUTPUT1、3 OUTPUT2、4 1PPS  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
-
-#### 图4.1.3 PORT2线束定义（4.1.3）
-
-注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
-接口/针脚：  
-26PIN 插头（图上丝印标号 1、7、20、26）  
-线束标签：NVP6188A1｜CAMERA 2、NVP6188A1｜CAMERA 3、NVP6188A2｜CAMERA 5、NVP6188A2｜CAMERA 6、NVP6188A2｜CAMERA 7、NVP6188A2｜CAMERA 8、车载以太网（字迹模糊）、手麦、ADC/电容、KPS40310002 Mega1 PORT2、DB9 D  
-CAMERA_2 / CAMERA_3 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_2 / CAMERA_3、3 NC  
-CAMERA_5 / CAMERA_6 / CAMERA_7 / CAMERA_8 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_5～CAMERA_8、3 AIN 5 / AIN 6 / AIN 7 / AIN 8  
-BATT_20P 四芯：1 GND、2 BATT_20P、3 ADC_1、4 ADC_2  
-DB9 D：RS232_DEBUG_RX、RS232_DEBUG_TX、GND，公头  
-备注原文：1: 红色 TRX+（双绞线）　2: 黑色TRX-（双绞线）  
-小插头针脚 1～6 的红色丝印过小，仅可辨认 4 SFP+、6 GND  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：MEGA1 RAM安装指导
@@ -259,6 +215,8 @@ A
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%89%8D%E5%89%AF%E6%9C%AC.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%90%8E%E5%89%AF%E6%9C%AC.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
 
 ### 数据提示
 

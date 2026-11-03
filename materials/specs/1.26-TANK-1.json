@@ -719,6 +719,12 @@
    "file": "images/store/6fd6ae2b573542d6bbe3af0bb92e55906574cd2115e3bee68d15cf551c32dfb1.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637",
+   "file": "images/store/4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 线束外观图：非表格/无图内文字，见原图"
   }
  ],
  "warnings": [
@@ -737,17 +743,6 @@
    "kind": "drawing",
    "title": "",
    "text": "接口：LCD、26P 连接器、USB\n接口/针脚：26P 连接器标注 1、8、14、20（左）与 7、13、19、26（右）\n备注：USB 处仅为图形标识，无文字",
-   "confidence": "high"
-  },
-  {
-   "sha256": "4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637",
-   "file": "images/store/4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637.png",
-   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png",
-   "section": "4.1.1",
-   "caption": "图4.1.1 线束外观图",
-   "kind": "diagram",
-   "title": "",
-   "text": "500±30\nSPK\nMIC\nAHD IN1-4\nAHD IN2\nAHD IN3\nAHD IN4\nPOWER\nIO INPUT\nDB9 A\nDB9 B\n12V OUT\nSM\n接口/针脚：MIC- 针 1、MIC- 针 2\n接口/针脚：+5V 针 1、GND 针 2、NC 针 3、AHD（视频）针 4\n接口/针脚：ACC 针 1、+12V 针 2、GND 针 3\n接口/针脚：GND 针 1、GND 针 2、INPUT1 针 3、INPUT2 针 4\n接口/针脚：GND 针 1、GND 针 2、OUTPUT1 针 4、OUTPUT2 针 3\n接口/针脚：DB9——1PPS、RS232-TX1、RS232-RX1、GND\n接口/针脚：DB9——CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-TX0、RS232-RX0、GND\n备注：左上 26 芯连接器端视图针号 7、26、1、20；标注序号 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲",
    "confidence": "high"
   },
   {

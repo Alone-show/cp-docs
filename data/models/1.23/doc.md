@@ -169,7 +169,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 图内文字（12 张）
+### 图内文字（10 张）
 
 #### 图2.1.4 背面图（2.1.4）
 
@@ -187,37 +187,6 @@
 接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-
-#### 图4.1.1 26PIN线束外观图（4.1.1）
-
-产品尺寸：500 ± 30  
-线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
-接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC  
-接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC  
-接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-  
-接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND  
-接口/针脚：Power：1 ACC；2 B+；3 B-  
-接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1  
-接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND  
-接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND  
-接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2  
-接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20  
-备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
-
-#### 图4.1.3 摄像头航空座1拖2线束外观图（4.1.3）
-
-500±30  
-150±15  
-B directio（原文，末尾不全）  
-AHD IN1  
-AHD IN2  
-接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 #### 图4.2.1 8路720P接线方法（4.2.1）
 **图名**：standard edition 8*720P connection method / custom-made 8*720P connection method
@@ -352,6 +321,8 @@ A
 
 - 外观图｜图2.1.1 正面图-旧面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 其他图表｜图2.1.2 正面图-新面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png
+- 线束外观图｜图4.1.1 26PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
 
 ### 数据提示
 

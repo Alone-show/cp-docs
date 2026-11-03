@@ -59,6 +59,22 @@
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%2010.png
 
 ### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（电源）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | B+ |
+| 2 | B- |
+| 3 | ACC |
+| 4 | DV12V-OUT1 |
+| 5 | B- |
+| 6 | B+ |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
+
+### 接口定义｜3.2 接口定义
 *图3.2.1 配置A型 接口定义表*
 
 | PORT2-12P | PIN脚定义 | PORT3-12P | PIN脚定义 |
@@ -79,6 +95,22 @@
 > 注：同图转写（原归属 1.3 APOLLO 10 PRO；原表：图3.2.1 配置A型 接口定义表）；配置A型。图中部分单元格为红色文字（PORT2 的 CVBS-IN1/CVBS-IN2，PORT3 的 RS232A-TX1/RX1、RS232B-TX2/RX2），转写仅保留文字，未保留颜色。
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A12.png
+
+### 接口定义｜3.2 接口定义
+*PORT1-6P 接口定义表（CVBS）*
+
+| PORT1-6P | PIN脚定义 |
+| --- | --- |
+| 1 | CVBS+12V |
+| 2 | GND |
+| 3 | NC |
+| 4 | CVBS-IN2 |
+| 5 | CVBS-IN1 |
+| 6 | CVBS+12V |
+
+> 注：图内标题「PORT1-6P / PIN脚定义」；页面图注抓取为「图2.1.1 正面图」，与内容不符，以图内标题为准。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
 
 ### 接口定义｜3.2 接口定义
 *图3.2.2 配置B型 接口定义表*
@@ -269,7 +301,7 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 图内文字（12 张）
+### 图内文字（3 张）
 
 #### 图3.2 SPRING 10 接口图（3.2 接口定义）
 
@@ -280,111 +312,12 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：1 B+；2 B-；3 ACC；4 DV12V-OUT1；5 B-；6 B+  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
-
-#### 图2.1.1 正面图（2.1.1）
-**图名**：PORT1-6P PIN脚定义
-
-PORT1-6P｜PIN脚定义  
-接口/针脚：  
-1 CVBS+12V  
-2 GND  
-3 NC  
-4 CVBS-IN2  
-5 CVBS-IN1  
-6 CVBS+12V  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
-
 #### 图3.2.3.1 配置B型 接口图（3.2 接口定义）
 
 接口/针脚：PORT 1：1、2、3、4、5、6（上排）；7（中排左）、12（中排右）；13、14、15、16、17、18（下排）  
 接口/针脚：4G LTE、ANT1、ANT2：射频接口  
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-
-#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 POWER、DC12V-OUT1；圆形插头针位标号 1、2、3 与 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
-
-#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
-
-产品尺寸：500±30；150±15  
-备注原文：线缆标签 CVBS IN1、CVBS IN2、IO IN OUT、DB9 A；左侧接口旁小字针位标号 ?  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
-
-#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
-
-产品尺寸：500±30；150±15  
-接口/针脚：线材标识 RJ45、DC12V OUT2、DB9 C、DB9 B  
-接口/针脚：8P 端子标注 1~8  
-接口/针脚：RJ45 端口标注 1、8；4P 圆形接口标注 1、2、3、4  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
-
-#### 图4.1.4.1 PROT1线束外观图（4.1.4.1）
-
-500±30  
-150±15  
-CVBS IN1  
-CVBS IN2  
-接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
-4PIN 圆头：1、2、3、4（共两处）  
-标注序号：①②③⑩②③④⑤⑥⑦②⑧  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
-
-#### 图4.1.5.1 PROT2线束外观图（4.1.5.1）
-
-500±30  
-150±15  
-POWER  
-IO IN OUT  
-DB9 C  
-DB9 B  
-接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
-接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
-接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
-
-#### 图4.1.6.1 PROT3线束外观图（4.1.6.1）
-
-500±30  
-150±15  
-RJ45  
-DC12V OUT1  
-DC12V OUT2  
-DB9 A  
-接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
-RJ45 针脚：1、8  
-4PIN 圆头：1、2、3、4（共两处）  
-DB9：1、2、3、4、5  
-标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
-
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
-
-#### 图4.1.7.1 18PIN线束外观图（4.1.7.1）
-
-产品尺寸：30±10、500±30  
-接口/针脚：POWER（1、2、3）；DB9 B；DB9 A；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；IN/OUTPUT -DC 12V（1、2、3、4）  
-备注：线束标签为 POWER、DB9 B、DB9 A、CAMERA A、IN/OUTPUT DC12V、CAMERA B；线缆与插头旁另有小号圆圈标号（8 9、8 11 12、8 10 等），字迹过小，其余不可辨  
-
-> 置信度：medium
-> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 #### 图2.1.1 正面图（5 安装方式）
 **图名**：SPRING 10 RAM安装指导
@@ -408,6 +341,13 @@ RAM 支架　RAM 支架底座　A
 
 - 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A9%2010.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图4.1.1.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
+- 接口实物图｜图4.1.2.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
+- 接口实物图｜图4.1.3.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
+- 线束外观图｜图4.1.4.1 PROT1线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.5.1 PROT2线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.6.1 PROT3线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
+- 接口实物图｜图4.1.7.1 18PIN线束外观图：非表格/无图内文字，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
 
 ### 数据提示
 
