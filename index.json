@@ -69,6 +69,16 @@
             "commit": "72cd6bad664e1240e92bc5bb0020c2e1b5a72ce8"
           },
           "engines": {}
+        },
+        {
+          "version": "0.2.3",
+          "publishTimestamp": 1793675229,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/Alone-show/cp-docs",
+            "commit": "405950f4d85ff086d8d299bf61a5a3f3acb7c362"
+          },
+          "engines": {}
         }
       ]
     }
