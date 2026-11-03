@@ -701,46 +701,79 @@
    "file": "images/store/68fe7a2c6016646372c7c53ca26014de89ff178b12d9f0306d38700891b9d688.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png",
    "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
-  },
+  }
+ ],
+ "warnings": [
+  "补齐共用表 6 张（同图转写，原归属见各表注）",
+  "补录图内文字 6 张（自动识读，? 处需核对原图）"
+ ],
+ "figures": [
   {
    "sha256": "9579389842ae0c0e83882670780bdf0ec58d242da84d0f32822484981c8d5a33",
    "file": "images/store/9579389842ae0c0e83882670780bdf0ec58d242da84d0f32822484981c8d5a33.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png",
-   "reason": "接口实物图｜图3.2.1 SPRING 7接口图：非表格，见原图"
+   "section": "3.2 接口定义",
+   "caption": "图3.2.3 SPRING 7B接口图",
+   "kind": "drawing",
+   "title": "",
+   "text": "接口/针脚：1 2 3 4 5 6 7 8 9 10 11 12（左侧一组）；1 2 3 4 5 6 7 8 9 10 11 12（右侧一组）",
+   "confidence": "high"
   },
   {
    "sha256": "e62a792fae5bf392f3ffaa12a631b7426f5801f8da5503309622f52ad6c44ce8",
    "file": "images/store/e62a792fae5bf392f3ffaa12a631b7426f5801f8da5503309622f52ad6c44ce8.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "reason": "线束外观图｜图4.1.1.1 PROT1线束外观图：非表格，见原图"
+   "section": "4.1.1.1",
+   "caption": "图4.1.1.1 PROT1线束外观图",
+   "kind": "drawing",
+   "title": "",
+   "text": "产品尺寸：500 ± 30；150 ± 15\n接口/针脚：M1-12PIN接口（针脚 1 2 3 4 5 6 7 8 9 10 11 12）；M12 圆形接头 1 2；圆形 4PIN 接头 1 2 3 4；DB9 A 母头；DB9 B 母头\n线缆标识：POWER、12V OUT、DB9 A、DB9 B\n备注：接头丝印 ALTW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ 绿色序号标注",
+   "confidence": "high"
   },
   {
    "sha256": "07a89702e67600c2c51e9eebb4c8d4decc2dd8d06518ed7f9e0cce8152e21855",
    "file": "images/store/07a89702e67600c2c51e9eebb4c8d4decc2dd8d06518ed7f9e0cce8152e21855.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "reason": "线束外观图｜图4.1.2.1 PROT2线束外观图：非表格，见原图"
+   "section": "4.1.2.1",
+   "caption": "图4.1.2.1 PROT2线束外观图",
+   "kind": "drawing",
+   "title": "",
+   "text": "产品尺寸：500±30、150±15\n接口/针脚：M2-10PIN接口（1、2、3、4、5、6、7、8、9、10）；CAMERA A（1、2、3、4）；CAMERA B（1、2、3、4）；CAN2 485（DB9）\n线缆标号：① 插头　②③④ 分线盒　⑤⑦ 线缆　⑥ CAN2 485　②⑧ CAMERA A / CAMERA B　②③⑨⑩ CAN2 485",
+   "confidence": "high"
   },
   {
    "sha256": "66e87133b1daeea2a3c0545a2e5a0c9ddaa2080f23c7d176a30701526366fa29",
    "file": "images/store/66e87133b1daeea2a3c0545a2e5a0c9ddaa2080f23c7d176a30701526366fa29.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "reason": "线束外观图｜图4.2.1.1 PROT1线束外观图：非表格，见原图"
+   "section": "4.2.1.1",
+   "caption": "图4.2.1.1 PROT1线束外观图",
+   "kind": "drawing",
+   "title": "M1-12PIN接口",
+   "text": "M1-12PIN接口\n500±30\n150±15\n30±5\n100±10\n20±5\nPOWER\nAUDIO LINEOUT\nDB9 A\nINPUT IO\n接口/针脚：M1-12PIN接口，外圈 2、11、3、1、4、9、10、8、5、7、12、6\n备注：5（沾锡）；红色 AUDIO LINEOUT(24AWG)；黑色 GND(24AWG)；红色 INPUT 1(24AWG)；黄色 INPUT 2(24AWG)；黑色 GND(24AWG)；5MM沾锡；6.0MM黑色热缩管 L=15MM\n标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫",
+   "confidence": "medium"
   },
   {
    "sha256": "210bb8737d9b2886d5aa9441369d9b1bdf27db2c5afe3e96fae8a171bb0e0365",
    "file": "images/store/210bb8737d9b2886d5aa9441369d9b1bdf27db2c5afe3e96fae8a171bb0e0365.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "reason": "线束外观图｜图4.2.2.1 PROT2线束外观图：非表格，见原图"
+   "section": "4.2.2.1",
+   "caption": "图4.2.2.1 PROT2线束外观图",
+   "kind": "diagram",
+   "title": "",
+   "text": "500 ± 30\n150 ± 15\n30 ± 5\n100 ± 10\nRJ45\nRS485\nOUTPUT IO\n黑色 GND(24AWG)\n红色 OUTPUT_IO1(24AWG)\n黄色 OUTPUT_IO2(24AWG)\n5MM沾锡\n6.0MM黑色热缩管 L=15MM（字迹极小，存疑）\n接口/针脚：M2-10PIN接口，针脚 1、2、3、4、5、6、7、8、9、10\n标注序号：②③④⑤⑥⑦⑧⑨⑩\nRJ45 针脚：1、8\nDB9 针脚：① 1 2 3 ...（图侧示针脚 1—5）",
+   "confidence": "medium"
   },
   {
    "sha256": "b9fcc352ddd3328a4f1f775a8227f1d290f6d3de4d5892cc2b1b2b46aaf259c5",
    "file": "images/store/b9fcc352ddd3328a4f1f775a8227f1d290f6d3de4d5892cc2b1b2b46aaf259c5.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E5%9B%BE%E7%A4%BA.png",
-   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
+   "section": "5 安装方式",
+   "caption": "图2.1.1 正面图",
+   "kind": "drawing",
+   "title": "SPRING 7 RAM安装指导",
+   "text": "产品尺寸\n产品尺寸：194.00 × 127.00，对角线 176.35；厚度 29.00、32.20、43.00\n安装孔：4*M5，孔间距 30.00、38.00\nRAM 支架安装说明\n① 逆时针旋转支架把手，取出其中一个支架底座。\n② 箭头所示的为固定孔位，请选择其中一种安装方案。（或）\n③ 箭头所示的位置为产品背面与RAM支架固定位置。\n④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后，再放回RAM支架原位置，顺时针旋转支架把手，完成安装。\n备注：1. 本版所示图形与实物可能有差异，请以实物为参考。2. 本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。\n扭力：2N.m　M5x10*4PCS\nRAM 支架　RAM 支架底座　A\n深圳从平技术有限公司",
+   "confidence": "high"
   }
- ],
- "warnings": [
-  "补齐共用表 6 张（同图转写，原归属见各表注）"
  ],
  "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring-7/content.html"
 }

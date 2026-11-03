@@ -136,16 +136,83 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（4 张）
+
+#### 图3.2.1 接口图（3.2 接口定义）
+
+接口/针脚：插座 左侧 1、8、14、20；右侧 7、13、19、26；13 针旁标 A  
+接口/针脚：M12 Ethernet connector：1、2、3、4、5、6、7、8  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+#### 图4.1.1 26P线束定义（4.1.1）
+
+500±30  
+AHD1  
+AHD2  
+AHD3/INPUT1  
+AHD4/INPUT2  
+DB9 B  
+APOLLO2 POWER  
+ADC IN  
+DB9 A  
+DB9 C  
+DC OUTPUT  
+接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD1 针 4  
+接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD2 针 4  
+接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD3/INPUT1 针 4  
+接口/针脚：PWR 针 1、GND 针 2、NC 针 3、AHD4/INPUT2 针 4  
+接口/针脚：ACC 针 1、B+ 针 2、B- 针 3  
+接口/针脚：GND 针 1、NC 针 2、ADC_IN1 针 3、ADC_IN2 针 4  
+接口/针脚：GND 针 1、OUTPUT1 针 2、OUTPUT2 针 3、GND 针 4  
+接口/针脚：公头 DB9——CAN2-L、CAN2-H、RS232_B RX、RS232_B TX、GND  
+接口/针脚：公头 DB9——CAN1-L、CAN1-H、RS232_A RX、RS232_A TX、GND  
+接口/针脚：公头 DB9——CAN3-L、CAN3-H、RS232_RX/RS485_B、RS232_TX/RS485_A、GND  
+备注：左侧 26 芯连接器端视图针号 7、26、1、20；图中标注序号 ①②③④⑤⑥⑦⑧⑨⑪⑭⑯⑰⑱⑲（图内无图例说明）  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/apollo2%207%E7%BA%BF%E6%9D%9F.png
+
+#### 图4.1.3 M12以太网线束（4.1.3）
+**图名**：CUSTOMER DRAWING（M12 X-CODE MALE TO RJ45 CABLE ASSEMBLY）
+
+产品尺寸：LENGTH M(Meters)；53MM；44.5MM；M12*1；TOLERANCE 0-2.99 M = +100.0/-25.0mm；3-8.99 M = +150.0/-25.0mm；9-14.99 M = +300.0/-25.0mm；15-OVER M = +450.0/-25.0mm  
+接口/针脚：P1 CONNECTOR: M12 X-CODE MALE（FACE VIEW 1 2 3 4 5 6 7 8）；P2 RJ45 MALE 8Pin（FACE VIEW 1 2 3 4 5 6 7 8）；WIRING DIAGRAM P1 1 2 3 4 5 6 7 8 —— P2 1 2 3 4 5 6 7 8，SHIELD，shell，TWIST PAIR  
+线序：white-orange、orange、white-green、green、white-brown、brown、white-blue、blue  
+备注：TPU BLACK OVERMOLD；CABLE,CAT6A 24AWG*4P,GREEN TPU JACKET  
+Technical data: Ethernet cable assembly;M12 X-CODED 8-position to RJ45; CAT6A,S/FTP 4x2xAWG26,TPU;360° shielded, Plug Straight. Materials: Male Contact: Brass,Ni/Au plated；Shielding shell: Brass, Cu/Ni plated；Male plastic housing: PA66,black；Coupling nut: Brass, Cu/Ni plated；Cable: TPU blue；PLUG:RJ45  
+Specifications: Rated current at 40℃: 0.5A；Rated voltage: 50V AC / 60V DC；Withstand voltages: 300V；Contact resistance: < 5 mΩ；Insulation resistance: Length 0~20M >100MΩ;Length 20~40M >20MΩ；Signal type: Ethernet CAT6A, 10 Gbps；Standards: M12 connector for IEC 61076-2-109；Protection:IP67(M12)；Operation temperature: -40 ℃~80 ℃；Storage conditions: Temperature 25±3℃; Humidity 35%~70%；RoHS conformity: Yes  
+P/N NOTE: P82112-Mxxx；Mx INDICATES THE HARNESS LENGTH L；FOR EXAMPLE: M005,EXPRESS: L=0.5 M；M010,EXPRESS: L=1 M；M100,EXPRESS: L=10 M  
+图号/版本：DWG NO. P82112-Mxxx；SIZE A4；SCALE NONE；REV 01；SHEET 1 OF 1；REVISIONS 01 NEW DRAWING 25May24 Jode Tommy  
+Amphinol；Sine Systems；44724 Marley Drive；Clinton Township, MI 48036  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：APOLLO2 7PRO　RAM 安装指导
+
+产品尺寸  
+产品尺寸：200.00、134.00、176.53、32.56、40.77  
+安装孔：4*M5、38.00、30.00  
+RAM 支架安装说明  
+① 逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示的为固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+标注：RAM 支架、RAM 支架底座、A  
+备注：1.本版所示图形与实物可能有差异，请以实物为参考。  
+备注：2.本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭矩:2N.m　M5x10*4PCS  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/APOLLO2%207%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
-- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-- 线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、M4/M5/DB9/M7 各接头 PIN1-4 分配示意图及 500±30 尺寸标注），无文本表格；其中的 PIN 分配信息已在 4.1.2 接线表中转写。：
-- 线束外观图｜图4.1.3 M12以太网线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/APOLLO2%207%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 候选图 2cb88694…（26P接口定义表）与 bbf876fb…（M12以太网接口定义表）的 src 路径位于 APOLLO2 12 目录下，但被挂在 1.6 APOLLO 7 二代页面；已按图中实际内容转写。
 - 参数表「规格」与任务字段一致：尺寸 200*134*32.52mm、重量 0.69kg，无差异。
+- 补录图内文字 4 张（自动识读，? 处需核对原图）

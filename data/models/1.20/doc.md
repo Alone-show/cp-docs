@@ -104,14 +104,47 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（3 张）
+
+#### 图3.2.1 接口图（3.2 接口定义）
+
+接口/针脚：PORT 1：1、2、3、4、5、6（上排）；7（中排左）、12（中排右）；13、14、15、16、17、18（下排）  
+接口/针脚：4G LTE、ANT1、ANT2：射频接口  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
+
+#### 图4.1.1 18PIN线束外观图（4.1.1）
+
+产品尺寸：30±10；500±30  
+接口/针脚：Power 1 ACC、2 B+、3 B-；DB9 B 1 RS-485-A、5 GND、7 RS-485-B；DB9 A 1 CAN2-L、2 RS232_TXD1、3 RS232_RXD1、5 GND、6 CAN1-L、7 CAN2-H、9 CAN1-H；OUTPUT-DC 12V 1 DC12-OUT1、2 GNG、3 DC12-OUT1；RJ 45 1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_TX-  
+备注原文：线缆标签 SPRING-NFDH、POWER、DB9 B、DB9 A、RJ45、OUTPUT-DC12V  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：SPRING 10 RAM安装指导
+
+产品尺寸  
+产品尺寸：281.00 × 181.00，对角线 255.54；厚度 42.00、38.00、49.15  
+安装孔：4*M5，孔间距 30.00、38.00  
+RAM 支架安装说明  
+① 逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示的为固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后，再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+备注：1. 本版所示图形与实物可能有差异，请以实物为参考。2. 本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭力：2N.m　M5x10*4PCS  
+RAM 支架　RAM 支架底座　A  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A910%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A9%2010.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/10PRO%E7%94%B5%E5%8F%B0%E8%83%8C%E8%A7%86%E5%9B%BE.png
-- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
-- 接口实物图｜图4.1.1 18PIN线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A910%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 补齐共用表 2 张（同图转写，原归属见各表注）
+- 补录图内文字 3 张（自动识读，? 处需核对原图）

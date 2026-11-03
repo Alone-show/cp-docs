@@ -184,17 +184,85 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（4 张）
+
+#### 图3.2.1 接口图（3.2 接口定义）
+
+接口/针脚：PORT1 左列 1、8、14、20，右列 7、13、19、26；PORT2 左列 1、8、14、20，右列 7、13、19、26  
+备注原文：SPK  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+#### 图4.1.1 PORT1线束定义（4.1.1）
+
+500±30  
+注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
+26pin  
+CAMERA 0  
+CAMERA 1  
+RJ45  
+DB9 B  
+SPRING2 POWER  
+IO INPUT  
+DB9 A  
+DB9 C  
+DC OUTPUT  
+接口/针脚：26pin 主插头，标注 1、7、20、26  
+Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
+Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
+RJ45：1 PHY_MDI_1+、2 PHY_MDI_1-、3 PHY_MDI_0+、6 PHY_MDI_0-  
+DB9 B：?C/RS232-B-RX、?C/RS232-B-TX、GND、公头  
+SPRING2 POWER：ACC 1、2 B+、3 B-  
+IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
+DB9 A：RS232-A-RX、RS232-A-TX、GND、公头  
+DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND、公头  
+DC OUTPUT：GND 1、2 OUTPUT1、3 OUTPUT2、4 1PPS  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
+
+#### 图4.1.3 PORT2线束定义（4.1.3）
+
+注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
+接口/针脚：  
+26PIN 插头（图上丝印标号 1、7、20、26）  
+线束标签：NVP6188A1｜CAMERA 2、NVP6188A1｜CAMERA 3、NVP6188A2｜CAMERA 5、NVP6188A2｜CAMERA 6、NVP6188A2｜CAMERA 7、NVP6188A2｜CAMERA 8、车载以太网（字迹模糊）、手麦、ADC/电容、KPS40310002 Mega1 PORT2、DB9 D  
+CAMERA_2 / CAMERA_3 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_2 / CAMERA_3、3 NC  
+CAMERA_5 / CAMERA_6 / CAMERA_7 / CAMERA_8 四芯：1 CAMERA_PWR、2 GND、4 CAMERA_5～CAMERA_8、3 AIN 5 / AIN 6 / AIN 7 / AIN 8  
+BATT_20P 四芯：1 GND、2 BATT_20P、3 ADC_1、4 ADC_2  
+DB9 D：RS232_DEBUG_RX、RS232_DEBUG_TX、GND，公头  
+备注原文：1: 红色 TRX+（双绞线）　2: 黑色TRX-（双绞线）  
+小插头针脚 1～6 的红色丝印过小，仅可辨认 4 SFP+、6 GND  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：MEGA1 RAM安装指导
+
+产品尺寸  
+产品尺寸：270.9 × 173.5；33.2、43.3  
+安装孔：4*M5，孔间距 38.0、30.0  
+RAM 支架安装说明  
+① RAM 支架　RAM 支架底座　逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示为的固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+备注：1. 本版所示图形与实物可能有差异，请以实物为参考。2. 本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭力：2N.m　M5x10*4PCS  
+A  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%AE%89%E8%A3%85%E5%9B%BE.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%89%8D%E5%89%AF%E6%9C%AC.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%90%8E%E5%89%AF%E6%9C%AC.png
-- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-- 该图是 PORT1 线束外观/走线示意图（26P 航插、线束、各连接器端头的 CAD 线图与线号标注），无规整文本表格，不做表格转写（接口定义见表 图4.1.2 PORT1接线表）。：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
-- 该图是 PORT2 线束外观/走线示意图（26P 航插、线束、各摄像头/M12/DB9 端头的 CAD 线图与线号标注），无规整文本表格，不做表格转写（接口定义见表 图4.1.4 PORT2接线表）。：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%AE%89%E8%A3%85%E5%9B%BE.png
 
 ### 数据提示
 
 - 图4.1.1/图4.1.2 与 图4.1.3/图4.1.4 的 caption 由网页抓取，可能错位一行：以图内实际标题「接线表」与表内容为准（PORT1 接线表含 M1_2P(AUDIO_OUT)…M6_4P(DC OUTPUT)，PORT2 接线表含 M1_4P(CAMERA_2)…(车载以太网)）。
 - 26P 接口定义图下「注 2」行末字符被图片右边缘裁切（原文可见「…千兆以太网与第2路RS232和2路INPUT复」），已按上下文补全为「复用」。
 - 参数表尺寸写作 270.9*173.5*33.2mm、重量 1.3kg，与任务字段 270.9x173.5x33.2mm / 1.3 kg 数值一致（仅分隔符不同）。
+- 补录图内文字 4 张（自动识读，? 处需核对原图）

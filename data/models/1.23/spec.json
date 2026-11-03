@@ -845,83 +845,146 @@
    "file": "images/store/9575bcaa8322ec5a20e431123fe4b2df7997796c95c4f88a961bf27a89adfcac.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png",
    "reason": "其他图表｜图2.1.2 正面图-新面壳：非表格，见原图"
-  },
+  }
+ ],
+ "warnings": [
+  "本机型 6 张候选图（参数表、26PIN 接口定义、摄像头标准版/定制版接口定义、M12 4P 线束定义表、摄像头接线方法示意图）与 1.24 SPRING 10 PRO 二代 特别版 共用，1.24 的 candidates 为空（share_note：仅面壳不同）。",
+  "补齐共用表 1 张（同图转写，原归属见各表注）",
+  "补录图内文字 12 张（自动识读，? 处需核对原图）"
+ ],
+ "figures": [
   {
    "sha256": "414491400a0d35f7e9b7178971082bec82aa8e1dbbef7f2a46eb4c0112195d04",
    "file": "images/store/414491400a0d35f7e9b7178971082bec82aa8e1dbbef7f2a46eb4c0112195d04.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/SPRING2%2010PRO%E5%BA%95%E5%A3%B3.png",
-   "reason": "其他图表｜图2.1.4 背面图：非表格，见原图"
+   "section": "2.1.4",
+   "caption": "图2.1.4 背面图",
+   "kind": "photo",
+   "title": "",
+   "text": "接口/针脚：V1；V2；V3；V4；ANT1；ANT2；4G\n左侧多针插座内部针脚编号字迹过小，无法辨认（?）",
+   "confidence": "high"
   },
   {
    "sha256": "04c773a482b0fe4f9139f1a6573e879f313f3db8e27a5861da79eeafa9437d28",
    "file": "images/store/04c773a482b0fe4f9139f1a6573e879f313f3db8e27a5861da79eeafa9437d28.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png",
-   "reason": "接口实物图｜图3.2.1 接口图：非表格，见原图"
+   "section": "3.2 接口定义",
+   "caption": "图3.2.1 接口图",
+   "kind": "diagram",
+   "title": "",
+   "text": "接口/针脚：矩形插座 左侧 1、8、14、20；右侧 7、13、19、26；插座内 13 针旁标 A\n接口/针脚：V1：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V2：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V3：4（上左）、1（上右）、3（下左）、2（下右）\n接口/针脚：V4：4（上左）、1（上右）、3（下左）、2（下右）",
+   "confidence": "high"
   },
   {
    "sha256": "fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64",
    "file": "images/store/fc6b9b9b33365d3b9ca23c75a14c0c3626befa767b8b8269b608639d1fc6ec64.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png",
-   "reason": "线束外观图｜图4.1.1 26PIN线束外观图：非表格，见原图"
+   "section": "4.1.1",
+   "caption": "图4.1.1 26PIN线束外观图",
+   "kind": "diagram",
+   "title": "",
+   "text": "产品尺寸：500 ± 30\n线缆标识：AUDIO OUT、CAMERA 0、CAMERA 1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT\n接口/针脚：Camera 0：1 CAMERA_PWR；2 GND；4 CAMERA_04；3 NC\n接口/针脚：Camera 1：1 CAMERA_PWR；2 GND；4 CAMERA_14；3 NC\n接口/针脚：RJ45：1 RJ45_TX+；2 RJ45_TX-；3 RJ45_RX+；6 RJ45_RX-\n接口/针脚：DB9 B（公头）：RS232-RX2；RS232-TX2；GND\n接口/针脚：Power：1 ACC；2 B+；3 B-\n接口/针脚：IO INPUT：1 GND；2 GND；4 INPUT2；3 INPUT1\n接口/针脚：DB9 A（公头）：RS232-RX1；RS232-TX1；GND\n接口/针脚：DB9 C（公头）：CAN1-L；CAN2-L；CAN2-H；RS485_B；CAN1-H；RS485_A；GND\n接口/针脚：DC OUTPUT：1 GND；2 OUTPUT1；4 OUTPUT3；3 OUTPUT2\n接口/针脚：主接头针脚标注 7、1、20、26；另一视图标注 7、13、19、26 与 8、14、20\n备注：AUDIO OUT 线端标注 SW；图中另有 ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ 绿色序号标注",
+   "confidence": "medium"
   },
   {
    "sha256": "8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9",
    "file": "images/store/8e9e9b1e03c4b88aaa0c80a8a1c70d12bfd532e4a2ab8ec52759f056d2e048f9.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png",
-   "reason": "线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格，见原图"
+   "section": "4.1.3",
+   "caption": "图4.1.3 摄像头航空座1拖2线束外观图",
+   "kind": "drawing",
+   "title": "",
+   "text": "500±30\n150±15\nB directio（原文，末尾不全）\nAHD IN1\nAHD IN2\n接口/针脚：左侧方形主连接器；AHD IN1、AHD IN2 引出至 4PIN 圆头，针号 1、2、3、4（共两处）",
+   "confidence": "medium"
   },
   {
    "sha256": "3229021026726a8770fadcd1b8df08a709b7385cd1d8263ae2deff2fa7caf371",
    "file": "images/store/3229021026726a8770fadcd1b8df08a709b7385cd1d8263ae2deff2fa7caf371.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/8%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.1 8路720P接线方法：非表格，见原图"
+   "section": "4.2.1",
+   "caption": "图4.2.1 8路720P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 8*720P connection method / custom-made 8*720P connection method",
+   "text": "standard edition 8*720P connection method\ncustom-made 8*720P connection method\n26pin\n1 to 2 harness\nAHD IN1\nAHD IN2\nAHD0、AHD1、AHD2、AHD3、AHD5、AHD6、AHD7、AHD8\n720P\nV1、V2、V3、V4\n备注：standard edition 图中 1 to 2 harness 的 AHD IN1 支路标红色 ×（×2 处）；custom-made 图中 26pin 处标红色 ×。",
+   "confidence": "medium"
   },
   {
    "sha256": "05f2149dd2c537b4aeccef513837ff7c9148a081a51de7ca561de5722415ac30",
    "file": "images/store/05f2149dd2c537b4aeccef513837ff7c9148a081a51de7ca561de5722415ac30.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/6%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.2 6路720P接线方法：非表格，见原图"
+   "section": "4.2.2",
+   "caption": "图4.2.2 6路720P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 6*720P connection method",
+   "text": "standard edition 6*720P connection method\ncustom-made 6*720P connection method\n接口/针脚：\n左图：主机 26pin；V1、V2、V3、V4；AHD0、AHD1、AHD2、AHD3、AHD5、AHD6；1 to 2 harness；AHD IN1、AHD IN2；各端口标注 720P；部分接口标红色 ✕\n右图：主机 26pin（上方标两个红色 ✕）；V1、V2、V3、V4；AHD0、AHD1、AHD2、AHD3、AHD5、AHD6；1 to 2 harness；AHD IN1、AHD IN2；各端口标注 720P；V3、V4 的 AHD IN2 标红色 ✕；线束上印 AHD IN1 / AHD IN2",
+   "confidence": "high"
   },
   {
    "sha256": "84cdf8796503fb69925da9e131ff89979107cfcdf06c0ae8685fcbe14e678a87",
    "file": "images/store/84cdf8796503fb69925da9e131ff89979107cfcdf06c0ae8685fcbe14e678a87.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF%E6%88%962%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.3 4路或2路720P接线方法：非表格，见原图"
+   "section": "4.2.3",
+   "caption": "图4.2.3 4路或2路720P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 4*720P connection method / standard edition 2*720P connection method / custom-made 4*720P connection method / custom-made 2*720P connection method",
+   "text": "standard edition 4*720P connection method\nstandard edition 2*720P connection method\ncustom-made 4*720P connection method\ncustom-made 2*720P connection method\n26pin\nAHD0、AHD1、AHD2、AHD3\n720P\nV1、V2、V3、V4\n接口/针脚：26pin；V1、V2、V3、V4（图中文字为竖排）\n备注：standard edition 4*720P 中 26pin 接 AHD0、AHD1（各 720P），V1、V2 标红色 ×，V3 接 AHD2（720P）、V4 接 AHD3（720P）；standard edition 2*720P 中 26pin 接 AHD0、AHD1（各 720P），V1～V4 均标红色 ×；custom-made 4*720P 中 26pin 两路均标红色 ×，V1 接 AHD0、V2 接 AHD1、V3 接 AHD2、V4 接 AHD3（各 720P）；custom-made 2*720P 中 26pin 两路均标红色 ×，V1 接 AHD0、V2 接 AHD1（各 720P），V3、V4 标红色 ×。",
+   "confidence": "high"
   },
   {
    "sha256": "d8a1e8c74696a8ad19a3452cf1b3d870701ac0077de41cdcacce5b7c713d8b13",
    "file": "images/store/d8a1e8c74696a8ad19a3452cf1b3d870701ac0077de41cdcacce5b7c713d8b13.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/6%E8%B7%AF1080P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.4 6路1080P接线方法：非表格，见原图"
+   "section": "4.2.4",
+   "caption": "图4.2.4 6路1080P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 6*1080P connection method / custom-made 6*1080P connection method",
+   "text": "standard edition 6*1080P connection method\ncustom-made 6*1080P connection method\n26pin\n1 to 2 harness\nAHD IN1\nAHD IN2\nAHD0、AHD1、AHD2、AHD3、AHD5、AHD6\n1080P\nV1、V2、V3、V4\n接口/针脚：26pin；V1、V2、V3、V4（图中文字为竖排）；1 to 2 harness 的 AHD IN1、AHD IN2\n备注：standard edition 中 26pin 接 AHD0、AHD1（各 1080P）；V1：AHD IN1 标红色 ×、AHD IN2 接 AHD5（1080P）；V2：AHD IN1 标红色 ×、AHD IN2 接 AHD6（1080P）；V3：AHD IN1 接 AHD2（1080P）、AHD IN2 标红色 ×；V4：AHD IN1 接 AHD3（1080P）、AHD IN2 标红色 ×。custom-made 中 26pin 两路均标红色 ×；V1：AHD IN1 接 AHD0、AHD IN2 接 AHD5（各 1080P）；V2：AHD IN1 接 AHD1、AHD IN2 接 AHD6（各 1080P）；V3：AHD IN1 接 AHD2（1080P）、AHD IN2 标红色 ×；V4：AHD IN1 接 AHD3（1080P）、AHD IN2 标红色 ×。",
+   "confidence": "high"
   },
   {
    "sha256": "5c6b5a24647f7f6e6e724f2d29aa68657e25503802a7e7aeefa68ec2489adf02",
    "file": "images/store/5c6b5a24647f7f6e6e724f2d29aa68657e25503802a7e7aeefa68ec2489adf02.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF%E6%88%962%E8%B7%AF1080P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.5 4路或2路1080P接线方法：非表格，见原图"
+   "section": "4.2.5",
+   "caption": "图4.2.5 4路或2路1080P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 4*1080P connection method / standard edition 2*1080P connection method / custom-made 4*1080P connection method / custom-made 2*1080P connection method",
+   "text": "standard edition 4*1080P connection method\nstandard edition 2*1080P connection method\ncustom-made 4*1080P connection method\ncustom-made 2*1080P connection method\n26pin\nAHD0、AHD1、AHD2、AHD3\n1080P\n备注：standard edition 4*1080P——26pin ← AHD0 1080P、AHD1 1080P，①② 标红色 ×，③ ← AHD2 1080P，④ ← AHD3 1080P；standard edition 2*1080P——26pin ← AHD0、AHD1 均 1080P，①②③④ 全部标红色 ×；custom-made 4*1080P——26pin 两位标红色 ×，① ← AHD0 1080P、② ← AHD1 1080P、③ ← AHD2 1080P、④ ← AHD3 1080P；custom-made 2*1080P——26pin 两位标红色 ×，① ← AHD0 1080P、② ← AHD1 1080P，③④ 标红色 ×。",
+   "confidence": "high"
   },
   {
    "sha256": "523d5f9e4594d164e269f6617bba915c3692ac911bb3b3898a29abc57449b85f",
    "file": "images/store/523d5f9e4594d164e269f6617bba915c3692ac911bb3b3898a29abc57449b85f.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF1080P%2B4%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png",
-   "reason": "线束外观图｜图4.2.6 4路1080P+4路720P接线方法：非表格，见原图"
+   "section": "4.2.6",
+   "caption": "图4.2.6 4路1080P+4路720P接线方法",
+   "kind": "diagram",
+   "title": "standard edition 4*1080P+4*720P connection method / custom-made 4*1080P+4*720P connection method",
+   "text": "standard edition 4*1080P+4*720P connection method\ncustom-made 4*1080P+4*720P connection method\n26pin\n1 to 2 harness\nAHD IN1\nAHD IN2\nAHD0、AHD1\nAHD2、AHD3\nAHD5、AHD6、AHD7、AHD8\n1080P\n720P\n背面航空插座\n① 1 to 2 harness AHD IN1 支路标红色 ×、AHD IN2 ← AHD5 720P\n② 1 to 2 harness AHD IN1 支路标红色 ×、AHD IN2 ← AHD6 720P\n③ 1 to 2 harness AHD IN1 ← AHD2 1080P、AHD IN2 ← AHD7 720P\n④ 1 to 2 harness AHD IN1 ← AHD3 1080P、AHD IN2 ← AHD8 720P\n备注：左图 26pin 引出 AHD0、AHD1 两路 1080P，①② 的 AHD IN1 支路标红色 ×；右图 26pin 两位标红色 ×，改由背面航空插座 ①②③④ 经 1 to 2 harness 分 AHD IN1（1080P）/AHD IN2（720P）两路。",
+   "confidence": "high"
   },
   {
    "sha256": "5daa5fea493bbbd5287d341b6363e409dd1e7646f343047d3fd7a2663ab6e621",
    "file": "images/store/5daa5fea493bbbd5287d341b6363e409dd1e7646f343047d3fd7a2663ab6e621.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/%E4%BB%BB%E6%84%8F%E8%B7%AF%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95.png",
-   "reason": "is_table=false：该图是「standard edition / custom-made edition n(≤4)*1080P+m(≤4)*720P connection method」接线方法示意图（含 26pin 航插、1 拖 2 线束、摄像头实体照片与连线标注），无规整文本表格，不做表格转写。"
+   "section": "4.2.7",
+   "caption": "图4.2.7 n路1080P+m路720P接线方法",
+   "kind": "diagram",
+   "title": "standard edition n(n≤4)*1080P+m(m≤4)*720P connection method／custom-made n(n≤4)*1080P+m(m≤4)*720P connection method",
+   "text": "standard edition n(n≤4)*1080P+m(m≤4)*720P connection method\ncustom-made n(n≤4)*1080P+m(m≤4)*720P connection method\n接口/针脚：2pin；1 to 2 harness；AHD IN1；AHD IN2；AHD0；AHD1；AHD2；AHD3；AHD5；AHD6；AHD7；AHD8；1080P；720P\nn=1:connect AHD0　n=2:connect HAD0~1　n=3:connect AHD0~2　n=4:connect AHD0~3\nm=1:connect AHD5　m=2:connect HAD5~6　m=3:connect AHD5~7　m=4:connect AHD5~8\n左侧与右侧圆形端口标号字迹过小，无法辨认（?1—?4）",
+   "confidence": "medium"
   },
   {
    "sha256": "e9a69bc050bfdb6ffa884f609a21399adbd2eba472a283dd50f19366e256aae1",
    "file": "images/store/e9a69bc050bfdb6ffa884f609a21399adbd2eba472a283dd50f19366e256aae1.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png",
-   "reason": "安装图｜图2.1.1 正面图-旧面壳：非表格，见原图"
+   "section": "5 安装方式",
+   "caption": "图2.1.1 正面图-旧面壳",
+   "kind": "drawing",
+   "title": "SPRING2 10-1 RAM安装指导",
+   "text": "产品尺寸\n产品尺寸：281.00 × 181，对角线 255.54；39.19、31.69、43.69\n安装孔：4*M5，孔间距 47.09、48.41\nRAM 支架安装说明\n① RAM 支架　RAM 支架底座　逆时针旋转支架把手，取出其中一个支架底座。\n② 箭头所示为的固定孔位，请选择其中一种安装方案。（或）\n③ 箭头所示的位置为产品背面与RAM支架固定位置。\n④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。\n备注：1. 本版所示图形与实物可能有差异，请以实物为参考。2. 本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。\n扭力：2N.m　M5x10*4PCS\nA\n深圳从平技术有限公司",
+   "confidence": "medium"
   }
- ],
- "warnings": [
-  "本机型 6 张候选图（参数表、26PIN 接口定义、摄像头标准版/定制版接口定义、M12 4P 线束定义表、摄像头接线方法示意图）与 1.24 SPRING 10 PRO 二代 特别版 共用，1.24 的 candidates 为空（share_note：仅面壳不同）。",
-  "补齐共用表 1 张（同图转写，原归属见各表注）"
  ],
  "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/Spring2Pro-10/content.html"
 }

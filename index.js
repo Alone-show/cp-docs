@@ -61,6 +61,8 @@ function describeMaterials(spec, programming, workpoints) {
   const points = workpoints?.entries?.length || 0;
   if (tables) bits.push(`${tables} 张表`);
   if (params) bits.push(`${params} 项参数`);
+  const figures = spec?.figures?.length || 0;
+  if (figures) bits.push(`${figures} 张图内文字`);
   if (pages) bits.push(`${pages} 页编程节点`);
   if (points) bits.push(`${points} 组工作点`);
   return bits.join(' / ');

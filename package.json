@@ -1,6 +1,6 @@
 {
   "name": "@local/cp-docs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": true,
   "type": "module",
   "description": "DSH 插件：/cp-docs + 自然语言按机型返回全部本地产品资料（参数/接口/线束/编程节点/工作点），由模型定位作答",
@@ -14,6 +14,7 @@
     "lib/*",
     "data/*",
     "data/**",
+    "materials/**",
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",

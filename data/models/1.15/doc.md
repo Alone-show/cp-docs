@@ -225,16 +225,100 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E5%89%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（5 张）
+
+#### 图3.2.1 接口图（3.2 接口定义）
+
+接口/针脚：  
+PORT2：1 7 / 8 13 / 14 19 / 20 26（26 孔，第 3 排右侧印 A）  
+PORT1：1 7 / 8 13 / 14 19 / 20 26（26 孔，第 3 排右侧印 A）  
+Sub screen connector M12：1 2 3 4 5 6 7 8  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+#### 图4.1.1 PORT1线束定义（4.1.1）
+
+注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
+产品尺寸：500±30  
+接口/针脚：线材标识 AUDIO OUT、CAMERA 0、CAMERA_1、RJ45、DB9 B、SPRING2 POWER、IO INPUT、DB9 A、DB9 C、DC OUTPUT  
+接口/针脚：主插头 26P，端面标注 7、13、19、26（左）与 1、8、14、20（右）  
+接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_04  
+接口/针脚：4P CAMERA_PWR 接口 1 CAMERA_PWR、2 GND、3 NC、4 CAMERA_14  
+接口/针脚：RJ45 1 NC、2 NC、3 TRP、6 TRN  
+接口/针脚：DB9 B（公头）NC/RS232-B-RX、NC/RS232-BTX、GND  
+接口/针脚：ACC 1 ACC、2 B+、3 B-  
+接口/针脚：4P 1 GND、2 GND、3 INPUT1、4 INPUT2  
+接口/针脚：DB9 A（公头）RS232-A-RX、RS232-A-TX、GND  
+接口/针脚：DB9 C（公头）CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B/NC、RS485_A/NC、GND  
+接口/针脚：4P 1 GND、2 OUTPUT1、3 OUTPUT2、4 OUTPUT3  
+备注：AUDIO OUT 线旁标注 黑、红  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+
+#### 图4.1.3 PORT2线束定义（4.1.3）
+
+注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号  
+接口/针脚：26PIN 连接器，针脚 1、7、20、26  
+NVP6158C CAMERA 2  
+NVP6158C CAMERA 3  
+RN6864 CAMERA 5  
+RN6864 CAMERA 6  
+RN6864 CAMERA 7  
+RN6864 CAMERA 8  
+CAMERA_PWR 1、2 GND、3 NC（CAMERA_2、3、4、5、6、7、8 各一路）  
+SPK L/Line out L  
+1：红色SPK_OUTL_P/Line_out_L  
+2：黑色SPK_OUTL_N/Line_out_L_GND  
+SPK R/Line out R  
+1：红色SPK_OUTR_P/Line_out_R  
+2：黑色SPK_OUTR_N/Line_out_R_GND  
+ADC-电压：GND 1、2 GND、3 ADC_IN1、4 ADC_IN2  
+ADC-电流：GND 1、2 IPPS、3 ADC_IN3、4 ADC_IN4  
+APOLLO2 12PRO 副接口  
+DB9 D  
+CAN3-L、CAN1-L、CAN4-L、RS232 DEBUG RX、RS232 DEBUG TX、GND、公头  
+DI DO：GND 1、2 OUTPUT4、3 INPUT3、4 INPUT4  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
+
+#### 图4.1.5 M12 副屏线束（4.1.5）
+**图名**：M12 X-CODE MALE TO MALE CABLE ASSEMBLY（图框内 CUSTOMER DRAWING）
+
+产品尺寸：53MM；Ø14.6MM；LENGTH M(Meters)  
+接口/针脚：P1 1 white-orange、2 orange、3 white-green、4 green、5 white-brown、6 brown、7 white-blue、8 blue、shell；P2 1 white-orange、2 orange、3 white-green、4 green、5 white-brown、6 brown、7 white-blue、8 blue、shell；CONNECTOR：M12 X-CODE MALE；WIRING DIAGRAM：SHIELD、TWIST PAIR、FACE VIEW  
+备注原文：CABLE,CAT6A 24AWG*4P,GREEN TPU JACKET；PVC OVERMOLD,BLK  
+Technical data：Ethernet cable assembly:M12 X-CODED 8-position; CAT6A,S/FTP 4x2xAWG24,TPU;360° shielded, Plug Straight.  
+Materials：Male Contact: Copper alloy,Gold plated. Shielding shell: Copper alloy,Ni plated. Male plastic housing: Thermoplastic,black. Coupling nut: Copper alloy,Ni plated. Cable: CAT6A 24AWG*4P,Green TPU jacket.  
+Specifications：Rated current at 40°C: 0.5A. Rated voltage: 50V AC / 60V DC. Withstand voltages: 300V. Contact resistance: < 5 mΩ. Insulation resistance: Length 0~20M >100MΩ;Length 20~40M >20MΩ. Signal type: Ethernet CAT6A, 10 Gbps. Standards: M12 connector for IEC 61076-2-109. Protection:IP67. Operation temperature: -25 °C~80 °C. Storage conditions: Temperature 25±3°C; Humidity 35%~70%. RoHS conformity: Yes.  
+P/N NOTE：MCXS087A7AC59Mxxx；Mxxx NDICATES THE HARNESS LENGTH.L；FOR EXAMPLE: M001,EXPRESS: L=0.1M；M010,EXPRESS: L=1M；M100,EXPRESS: L=10M  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/%E5%89%AF%E5%B1%8F%E7%BA%BF%E6%9D%9F.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：APOLLO2 12PLUS RAM安装指导
+
+产品尺寸  
+产品尺寸：318.07 × 219.87，对角线 312.06；31.01、28.01、45.31  
+安装孔：4*M5，孔间距 38.00、30.00  
+RAM 支架安装说明  
+① RAM 支架　RAM 支架底座　逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示为的固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+备注：1. 本版所示图形与实物可能有差异，请以实物为参考。2. 本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭力：2N.m　M5x10*4PCS  
+A  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2%2012PLUS%E5%AE%89%E8%A3%85%E5%9B%BE.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2%2012PLUS%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 主屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E8%83%8C%E8%A7%86%E5%9B%BE.png
 - 外观图｜图2.1.3 副屏背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
-- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-- 接口实物图｜图4.1.1 PORT1线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
-- 接口定义表｜图4.1.3 PORT2线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
-- 接口实物图｜图4.1.5 M12 副屏线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/%E5%89%AF%E5%B1%8F%E7%BA%BF%E6%9D%9F.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2%2012PLUS%E5%AE%89%E8%A3%85%E5%9B%BE.png
 
 ### 数据提示
 
@@ -242,3 +326,4 @@
 - 尺寸：参数表 317.8*219.6*34.5mm 与任务文字 317.8*219.6*34.5mm 一致。
 - 同一张 sha256=6a374172… 的接口定义图内含 PORT 1、PORT 2 两张 26P 表，已分别转写为两条 tables 记录（sha256 集合仍与 candidates 一致）。
 - 参数表 1987x1698 超宽，已按左/右两栏分块放大读取后折叠为2列。
+- 补录图内文字 5 张（自动识读，? 处需核对原图）

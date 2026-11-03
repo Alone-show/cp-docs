@@ -158,18 +158,88 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3%20%20%E6%8E%A5%E7%BA%BF%E5%9B%BE.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（5 张）
+
+#### 图3.2.1 APOLLO X 接口图（3.2 接口定义）
+
+接口：PORT 1、PORT 2、PORT 3、4G LTE、ANT2、ANT1  
+接口/针脚：PORT 1 标注 1、2、3（上）与 6、5、4（下）  
+接口/针脚：PORT 2 标注 1、2、3、4、5、6（上）与 12、11、10、9、8、7（下）  
+接口/针脚：PORT 3 标注 1、2、3、4、5、6（上）与 12、11、10、9、8、7（下）  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+#### 图4.1.1.1 PROT1线束外观图（4.1.1.1）
+
+500±30  
+150±15  
+CVBS IN1  
+CVBS IN2  
+接口/针脚：左侧方口连接器针脚 1、2、3、6、5、4  
+4PIN 圆头：1、2、3、4（共两处）  
+标注序号：①②③⑩②③④⑤⑥⑦②⑧  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT1.png
+
+#### 图4.1.2.1 PROT2线束外观图（4.1.2.1）
+
+500±30  
+150±15  
+POWER  
+IO IN OUT  
+DB9 C  
+DB9 B  
+接口/针脚：左侧连接器端视图，左列 1、2、3、4、5、6，右列 12、11、10、9、8、7  
+接口/针脚：右上 4 芯圆形接插件针位图（针号 1、2、3、4），共两处  
+接口/针脚：右侧 DB9 接插件针位图（针位文字过小，仅见 1—5及字母标记，无法确认）  
+标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬（图内无图例说明）  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT2.png
+
+#### 图4.1.3.1 PROT3线束外观图（4.1.3.1）
+
+500±30  
+150±15  
+RJ45  
+DC12V OUT1  
+DC12V OUT2  
+DB9 A  
+接口/针脚：12PIN 接口，左侧 1、2、3、4、5、6，右侧 12、11、10、9、8、7  
+RJ45 针脚：1、8  
+4PIN 圆头：1、2、3、4（共两处）  
+DB9：1、2、3、4、5  
+标注序号：①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：APOLLO X　RAM 安装指导
+
+产品尺寸  
+产品尺寸：320.02、252.02、308.90、52.03、48.23、41.83  
+安装孔：4*M5、30.00、38.00  
+RAM 支架安装说明  
+① 逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示的为固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+标注：RAM 支架、RAM 支架底座、A  
+备注：1.本版所示图形与实物可能有差异，请以实物为参考。  
+备注：2.本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭矩:2N.m　M5x10*4PCS  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO%20X%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E6%AD%A3%E9%9D%A2%E5%9B%BEX.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BEX.png
-- 接口实物图｜图3.2.1 APOLLO X 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT1.png
-- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT2.png
-- 线束外观图｜图4.1.3.1 PROT3线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/PORT3.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO%20X%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 尺寸/重量：参数表「规格」为 320*252*45.3mm / 2.85kg，与任务字段 320*252*45.3mm / 2.85 kg 一致。
 - intro 写「支持4路720p或2路1080p AHD摄像头输入」，参数表「影音和传感」写「AHD 摄像头 720p*2 / 1080p*2」，两者不一致，以图为准。
 - 参数表「显示」分辨率原文为「1024*768x」（末尾 x，疑为 px 的笔误），按原文保留。
+- 补录图内文字 5 张（自动识读，? 处需核对原图）

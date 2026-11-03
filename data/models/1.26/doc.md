@@ -125,16 +125,65 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（3 张）
+
+#### 图3.2.1 接口图（3.2 接口定义）
+
+接口：LCD、26P 连接器、USB  
+接口/针脚：26P 连接器标注 1、8、14、20（左）与 7、13、19、26（右）  
+备注：USB 处仅为图形标识，无文字  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK1%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+#### 图4.1.1 线束外观图（4.1.1）
+
+500±30  
+SPK  
+MIC  
+AHD IN1-4  
+AHD IN2  
+AHD IN3  
+AHD IN4  
+POWER  
+IO INPUT  
+DB9 A  
+DB9 B  
+12V OUT  
+SM  
+接口/针脚：MIC- 针 1、MIC- 针 2  
+接口/针脚：+5V 针 1、GND 针 2、NC 针 3、AHD（视频）针 4  
+接口/针脚：ACC 针 1、+12V 针 2、GND 针 3  
+接口/针脚：GND 针 1、GND 针 2、INPUT1 针 3、INPUT2 针 4  
+接口/针脚：GND 针 1、GND 针 2、OUTPUT1 针 4、OUTPUT2 针 3  
+接口/针脚：DB9——1PPS、RS232-TX1、RS232-RX1、GND  
+接口/针脚：DB9——CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS232-TX0、RS232-RX0、GND  
+备注：左上 26 芯连接器端视图针号 7、26、1、20；标注序号 ①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
+
+#### 图2.1.1 正面图（5 安装方式）
+
+产品尺寸：135.9±0.3、30±0.3  
+安装孔：4*⌀6  
+铭牌：CPDEVICE  
+铭牌：Model No.: TANK1  
+铭牌：Power Input: 9V-36V  
+条码下方印刷字符：7A5R0 · 26320001?  
+铭牌：Made in China  
+铭牌图标：RoHS、CE、划叉的垃圾桶图形  
+备注：条码下方数字字迹极小，末位存疑  
+
+> 置信度：medium
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%AE%89%E8%A3%85.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
-- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK1%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
-- 线束外观图｜图4.1.1 线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%AE%89%E8%A3%85.png
 
 ### 数据提示
 
 - 尺寸：参数表 140.5*95.2*39.8mm 与任务文字 140.5*95.2*39.8mm 一致。
 - 重量：参数表 0.36kg 与任务文字 0.36 kg 一致。
 - 线束表第21行（PIN21 GND）M8_4P、M9_4P 单元格文字为「1月2日」，语义疑为针脚 1、2，未擅自改写。
+- 补录图内文字 3 张（自动识读，? 处需核对原图）

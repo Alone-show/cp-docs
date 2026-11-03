@@ -122,15 +122,62 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
-### 未转写的图片（照片/示意图，见原图）
+### 图内文字（2 张）
+
+#### 图4.1.1 线束外观图（4.1.1）
+
+500±30  
+26pin  
+CAMERA 0  
+CAMERA 1  
+RJ45  
+DB9 B  
+SPRING2 POWER  
+IO INPUT  
+DB9 A  
+DB9 C  
+DC OUTPUT  
+SN  
+接口/针脚：26pin 主插头，标注 1、7、20、26  
+Camera 0：CAMERA_PWR 1、2 GND、CAMERA_0 4、3 NC  
+Camera 1：CAMERA_PWR 1、2 GND、CAMERA_1 4、3 NC  
+RJ45：1 RJ45_TX+、2 RJ45_TX-、3 RJ45_RX+、6 RJ45_RX-  
+DB9 B：RS232-RX2、RS232-TX2、GND、公头  
+Power：ACC 1、2 B+、3 B-  
+IO INPUT：GND 1、2 GND、4 INPUT2、3 INPUT1  
+DB9 A：RS232-RX1、RS232-TX1、GND、公头  
+DB9 C：CAN1-L、CAN2-H、CAN1-H、CAN2-L、RS485_B、RS485_A、GND、公头  
+DC OUTPUT：GND 1、2 OUTPUT3、3 OUTPUT2、4 OUTPUT1  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E7%BA%BF%E6%9D%9F.png
+
+#### 图2.1.1 正面图（5 安装方式）
+**图名**：APOLLO2 10　RAM 安装指导
+
+产品尺寸  
+产品尺寸：248.9、167.5、255.85、30.15、33.25、44.25  
+安装孔：4*M5、38  
+RAM 支架安装说明  
+① 逆时针旋转支架把手，取出其中一个支架底座。  
+② 箭头所示的为固定孔位，请选择其中一种安装方案。（或）  
+③ 箭头所示的位置为产品背面与RAM支架固定位置。  
+④ 将RAM支架底座序号与产品背部序号一一对应，使用螺丝紧固后。再放回RAM支架原位置，顺时针旋转支架把手，完成安装。  
+标注：RAM 支架、RAM 支架底座、A  
+备注：1.本版所示图形与实物可能有差异，请以实物为参考。  
+备注：2.本版说明书仅限所述产品与RAM-101U系列支架组装，请根据实际需求安装。  
+扭矩:2N.m　M5x10*4PCS  
+深圳从平技术有限公司  
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%20%E5%AE%89%E8%A3%85%E5%9B%BE1.png
+
+### 未转写的图片（无图内文字，见原图）
 
 - 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
 - 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png
-- 线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、各接头 PIN 分配（Camera 0/Camera 1/RJ45/DB9 A/B/C/Power/IO INPUT/DC OUTPUT）与 500±30 尺寸标注），无文本表格；PIN 分配信息已在 4.1.2 接线表中转写。：
-- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%20%E5%AE%89%E8%A3%85%E5%9B%BE1.png
 
 ### 数据提示
 
 - 参数表「材质规格」与任务字段一致：尺寸 248.9*167.5*29.85mm、重量 0.99kg，无差异。
 - 1.8 与 1.7 的接线表/线束外观图版式相同且大部分像素一致，但 1.8 表中 PIN6=OUTPUT3、PIN13=OUTPUT1（1.7 为 PIN6=OUTPUT1、PIN13=OUTPUT3），已分别按各自图片独立核对。
 - 候选图 bb0b22a1…（线束外观图）src 指向 APOLLO2-10 目录，与 intro 中「标准版线束和SPRING2系列共用」一致。
+- 补录图内文字 2 张（自动识读，? 处需核对原图）
