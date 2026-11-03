@@ -643,6 +643,302 @@
    "notes": "图内标题为「接线表」。第9-10行 DB9公头(B) 列旁标注「对绞」（CAN1 L/H）。"
   },
   {
+   "sha256": "2e5a3396cd9d1e67d6432d7eeccd5295c05f0d5a7b634de83cac8be8bb972242",
+   "file": "images/store/2e5a3396cd9d1e67d6432d7eeccd5295c05f0d5a7b634de83cac8be8bb972242.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png",
+   "section": "4.1.4 PROT1",
+   "caption": "图4.1.4.2 PROT1线束定义图",
+   "kind": "harness",
+   "is_table": true,
+   "header": [
+    "DT06-6S",
+    "信号定义",
+    "M12 4P(CVBS IN1)",
+    "M12 4P(CVBS IN1)",
+    "RJ45 母头"
+   ],
+   "rows": [
+    [
+     "1 蓝",
+     "CVBS12V",
+     "1",
+     "",
+     "24awg 棕"
+    ],
+    [
+     "2 绿",
+     "GND",
+     "2",
+     "2",
+     "24awg 白"
+    ],
+    [
+     "3 黄",
+     "NC",
+     "",
+     "",
+     "24awg 黄"
+    ],
+    [
+     "4 橙",
+     "CVBS-IN2",
+     "",
+     "4",
+     "24awg 蓝"
+    ],
+    [
+     "5 红",
+     "CVBS-IN1",
+     "4",
+     "",
+     "24awg 红"
+    ],
+    [
+     "6 白",
+     "CVBS 12V",
+     "",
+     "1",
+     "24awg 黑"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.1.2 PROT1线束定义图）；表头第3、4列原文均写作「M12 4P(CVBS IN1)」，疑为重复标注，按原样保留。第1行「CVBS12V」与第6行「CVBS 12V」空格写法不同，均按原文保留。"
+  },
+  {
+   "sha256": "1984999163d9e5cff86d3b73c3f041897f06d2159d9c7cdf5725097743e47fac",
+   "file": "images/store/1984999163d9e5cff86d3b73c3f041897f06d2159d9c7cdf5725097743e47fac.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png",
+   "section": "4.1.5 PROT2",
+   "caption": "图4.1.5.2 PROT2线束定义图",
+   "kind": "harness",
+   "is_table": true,
+   "header": [
+    "DT06-12SA",
+    "信号定义",
+    "DB9 公头 (B)",
+    "DB9公头(C)",
+    "M12 3P(POWER)",
+    "M12 4P (IO IN OUT)"
+   ],
+   "rows": [
+    [
+     "1 棕",
+     "RS232A-TX",
+     "3",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2 蓝",
+     "RS232A-RX",
+     "2",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3 白",
+     "B+",
+     "",
+     "",
+     "2",
+     ""
+    ],
+    [
+     "4 黄",
+     "ACC",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "5 绿",
+     "B-",
+     "",
+     "",
+     "3",
+     ""
+    ],
+    [
+     "6 灰",
+     "GND",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7 粉",
+     "RS232B-RX",
+     "",
+     "2",
+     "",
+     ""
+    ],
+    [
+     "8 黑",
+     "CAN1_L",
+     "6",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9 橙",
+     "CAN1_H",
+     "9",
+     "",
+     "",
+     ""
+    ],
+    [
+     "10 红",
+     "INPUT GPIO",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "11 紫",
+     "RS232B-TX",
+     "",
+     "3",
+     "",
+     ""
+    ],
+    [
+     "12 浅绿",
+     "GND",
+     "5",
+     "5",
+     "",
+     "2"
+    ]
+   ],
+   "confidence": "high",
+   "notes": "同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.2.2 PROT2线束定义图）；第8-9行 DB9 公头 (B) 列旁标注「对绞」（CAN1_L/CAN1_H）。"
+  },
+  {
+   "sha256": "8d2bea86c2af0733d1327e418090b3b274aeead41e463a08dbdbd47f065efce2",
+   "file": "images/store/8d2bea86c2af0733d1327e418090b3b274aeead41e463a08dbdbd47f065efce2.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png",
+   "section": "4.1.6 PROT3",
+   "caption": "图4.1.6.2 PROT3线束定义图",
+   "kind": "harness",
+   "is_table": true,
+   "header": [
+    "DT06-12SB",
+    "信号定义",
+    "DB9 公头 (A)",
+    "M12 4P (DC12V-OUT1)",
+    "M12 4P (DC12V-OUT2)",
+    "RJ45 网口"
+   ],
+   "rows": [
+    [
+     "1 棕",
+     "RS485_A",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2 蓝",
+     "RS485_B",
+     "7",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3 白",
+     "Audio-lineout",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4 绿",
+     "DC12V-OUT3",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5 黄",
+     "RJ45_TX+",
+     "",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "6 灰",
+     "RJ45_TX-",
+     "",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "7 粉",
+     "RJ45_RX-",
+     "",
+     "",
+     "",
+     "6"
+    ],
+    [
+     "8 红",
+     "RJ45_RX+",
+     "",
+     "",
+     "",
+     "3"
+    ],
+    [
+     "9 黑",
+     "DC12V-OUT1",
+     "",
+     "1",
+     "",
+     ""
+    ],
+    [
+     "10 橙",
+     "DC12V-OUT2",
+     "",
+     "",
+     "1",
+     ""
+    ],
+    [
+     "11 紫",
+     "INPUT GPIO",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "12 浅绿",
+     "GND",
+     "",
+     "2",
+     "2",
+     ""
+    ]
+   ],
+   "confidence": "high",
+   "notes": "同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.3.2 PROT3线束定义图）；第1-2行 DB9 公头 (A) 列旁标注「对绞」（RS485_A/B）。第3、6行文字在截图中带拼写检查波浪线（Audio-lineout、RJ45_TX-），已按文字转写。"
+  },
+  {
    "sha256": "819efce173c386c5727eb60077129344602d6aa901d97cccd56eb155bb477191",
    "file": "images/store/819efce173c386c5727eb60077129344602d6aa901d97cccd56eb155bb477191.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png",
@@ -865,10 +1161,96 @@
    "notes": "图内为「18PIN 线束接线表」，表头原文写「CAMER A(4P)」「CAMER B(4P)」（原文如此，未补 A）。对绞标注：TX1/RX1、TX2/RX2（DB9A、DB9 B 列）、RS485 A/B（DB9 B 列）、CAN1_H/L、CAN2_L/H（DB9A 列）。源图 994x780，已分 3 段放大核对每一行。"
   }
  ],
- "skipped": [],
+ "skipped": [
+  {
+   "sha256": "1fcd8551f2adf201256e656edef854ab61b76a73a8423bb283b3eb118d41aa73",
+   "file": "images/store/1fcd8551f2adf201256e656edef854ab61b76a73a8423bb283b3eb118d41aa73.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/APOLLO%2010%20PRO/%E6%AD%A3%E8%A7%86%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "dcb0135b606e4e67594f5c99bfaae39f9badcbcbdc2960f6d9114c23f5df6946",
+   "file": "images/store/dcb0135b606e4e67594f5c99bfaae39f9badcbcbdc2960f6d9114c23f5df6946.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E8%83%8C%E9%9D%A2%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "88ac2f59a4d33ff4a913d87ce3ba4ea491bb0c96ad93b0d4d9b4c5655f5d5e75",
+   "file": "images/store/88ac2f59a4d33ff4a913d87ce3ba4ea491bb0c96ad93b0d4d9b4c5655f5d5e75.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png",
+   "reason": "接口实物图｜图3.2 APOLLO 10PRO 接口图：非表格，见原图"
+  },
+  {
+   "sha256": "7c5c675e48908a14aa6bf2732f46610fd506b621cd58cd533b13c4dfbdae7339",
+   "file": "images/store/7c5c675e48908a14aa6bf2732f46610fd506b621cd58cd533b13c4dfbdae7339.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png",
+   "reason": "接口实物图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "fc2524b8c2f770749e17f9f7046b60d17edae3dc1421bd8d5480a91f9337f256",
+   "file": "images/store/fc2524b8c2f770749e17f9f7046b60d17edae3dc1421bd8d5480a91f9337f256.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png",
+   "reason": "接口实物图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "0f3b774a6084788301d22d47ffadcadc320eb2f4f84e3574726c0ed3b8b30bdb",
+   "file": "images/store/0f3b774a6084788301d22d47ffadcadc320eb2f4f84e3574726c0ed3b8b30bdb.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png",
+   "reason": "接口实物图｜图3.2.3.1 配置B型 接口图：非表格，见原图"
+  },
+  {
+   "sha256": "d8344327291b83b26b166e30e36de0c398a14810d2b91464f5f91a3da5452d7c",
+   "file": "images/store/d8344327291b83b26b166e30e36de0c398a14810d2b91464f5f91a3da5452d7c.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png",
+   "reason": "接口实物图｜图4.1.1.1 PROT1线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "e401b4f9dc3944a73e50044d57e1cbb54a553c89f27ed8037eeed98a81a73323",
+   "file": "images/store/e401b4f9dc3944a73e50044d57e1cbb54a553c89f27ed8037eeed98a81a73323.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png",
+   "reason": "接口实物图｜图4.1.2.1 PROT2线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "864aa85be74512dff30d939366b0e7c5d50e0067bde0e8a2e3ad52a3a3659c57",
+   "file": "images/store/864aa85be74512dff30d939366b0e7c5d50e0067bde0e8a2e3ad52a3a3659c57.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png",
+   "reason": "接口实物图｜图4.1.3.1 PROT3线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "40a9bede102dfc9df5eb1e1bc6d95f4ef6dfd1f50d3c83d714efcbde8c27043a",
+   "file": "images/store/40a9bede102dfc9df5eb1e1bc6d95f4ef6dfd1f50d3c83d714efcbde8c27043a.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png",
+   "reason": "线束外观图｜图4.1.4.1 PROT1线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "4c400ac02240d01f7776dbf03cbdd3249e0fa98eea3f35e8dcb31856a3c9e799",
+   "file": "images/store/4c400ac02240d01f7776dbf03cbdd3249e0fa98eea3f35e8dcb31856a3c9e799.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png",
+   "reason": "线束外观图｜图4.1.5.1 PROT2线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "21c012a231cede136ecf17a219b21bac270e92c4c37cc89d92e2a6bfcc470ef4",
+   "file": "images/store/21c012a231cede136ecf17a219b21bac270e92c4c37cc89d92e2a6bfcc470ef4.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png",
+   "reason": "线束外观图｜图4.1.6.1 PROT3线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "ee7498022249dffacab19d7b69b51e3a77579e2e44670b4a38d026a5deae28cc",
+   "file": "images/store/ee7498022249dffacab19d7b69b51e3a77579e2e44670b4a38d026a5deae28cc.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png",
+   "reason": "接口实物图｜图4.1.7.1 18PIN线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "ab5d01b364b4df063f3179e73e984dac6cc17a31c8d21ee75177dbb7e24aff80",
+   "file": "images/store/ab5d01b364b4df063f3179e73e984dac6cc17a31c8d21ee75177dbb7e24aff80.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A910%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png",
+   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
+  }
+ ],
  "warnings": [
   "尺寸/重量：参数表「规格」为 281*181*42mm / 1.50kg，与任务字段 281*181*42mm / 1.5 kg 一致。",
-  "参数表「通讯和接口」写 CAN*1/2，而 intro 写「CAN*2」，以图为准。"
+  "参数表「通讯和接口」写 CAN*1/2，而 intro 写「CAN*2」，以图为准。",
+  "补齐共用表 3 张（同图转写，原归属见各表注）"
  ],
  "doc_url": "https://www.cpuniverse.cn/online-documents-cn/Introduction/ApolloPro-10/content.html"
 }

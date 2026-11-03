@@ -757,7 +757,56 @@
    "notes": "表标题「接线表」。PIN 1-26 连续。DB9A/DB9B 的对绞线单元格在原图中跨两行合并（如 7对绞线（1/7）与 1对绞线（1/7）上下相邻），已按行拆开并把针号写进单元格。第26行 DB9B 单元格原文仅「对绞线（1/7）」，未见到首位针号（可能被单元格边框裁切），按原样记录、未臆测。第21行（MIC_P/BOOT/SPKP）各连接器列均无针号。"
   }
  ],
- "skipped": [],
+ "skipped": [
+  {
+   "sha256": "32c9409bfa0a1199968f4fa9d832c5701fdccc1eecfbcc0d643411521c04d971",
+   "file": "images/store/32c9409bfa0a1199968f4fa9d832c5701fdccc1eecfbcc0d643411521c04d971.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE2.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "95653e55ef476a49583365dc62b8ecc93bd2c0d32c5867accc7473e7ab769f06",
+   "file": "images/store/95653e55ef476a49583365dc62b8ecc93bd2c0d32c5867accc7473e7ab769f06.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE2.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "87629a07b2b9f29ef6a0aafd4ff7f52de0a57e662e186076da520c37c3320317",
+   "file": "images/store/87629a07b2b9f29ef6a0aafd4ff7f52de0a57e662e186076da520c37c3320317.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%E6%8E%A5%E5%8F%A3%E5%9B%BE.png",
+   "reason": "接口实物图｜图3.2.1 接口图：非表格，见原图"
+  },
+  {
+   "sha256": "51a9d89b8911eff3ae93964efe06e162be7eec0185de12f4cec16fd0a2de739b",
+   "file": "images/store/51a9d89b8911eff3ae93964efe06e162be7eec0185de12f4cec16fd0a2de739b.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK%20IMU%20%E5%9D%90%E6%A0%87.png",
+   "reason": "接口实物图｜图3.2.3=4 IMU坐标方向图：非表格，见原图"
+  },
+  {
+   "sha256": "bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0",
+   "file": "images/store/bf60ad86038d5bb0c5e7b39b3fa690ae107f7faef0afb563b08d6737b822adc0.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK2%20%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 26P线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "fc3beca745d4c7c20f26ce55ed115f4f654afc9e4a4206e13fbaf27dc101d821",
+   "file": "images/store/fc3beca745d4c7c20f26ce55ed115f4f654afc9e4a4206e13fbaf27dc101d821.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.3 M12以太网线束：非表格，见原图"
+  },
+  {
+   "sha256": "92b6ccd90e0153d48138a4a6e7d80f878c7622145c97c04913e7e01db44ae333",
+   "file": "images/store/92b6ccd90e0153d48138a4a6e7d80f878c7622145c97c04913e7e01db44ae333.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/%E5%89%AF%E5%B1%8F%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.4 M12 LCD线束：非表格，见原图"
+  },
+  {
+   "sha256": "1b3004dd8f04230941b1f3c8dad4ac1397b79c004adc6b5d721a6e72043e89a5",
+   "file": "images/store/1b3004dd8f04230941b1f3c8dad4ac1397b79c004adc6b5d721a6e72043e89a5.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png",
+   "reason": "线束外观图｜图2.1.1 正面图：非表格，见原图"
+  }
+ ],
  "warnings": [
   "尺寸：参数表 203.52*126.56*55.5mm 与任务文字 203.52*126.56*55.5mm 一致。",
   "重量：参数表 0.69kg 与任务文字 0.69 kg 一致。",

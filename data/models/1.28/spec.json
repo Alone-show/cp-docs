@@ -1291,6 +1291,24 @@
  ],
  "skipped": [
   {
+   "sha256": "870b142f781672d3b122c31f2adde0a6d7a0331c252188b75a6c9ef4f753aafa",
+   "file": "images/store/870b142f781672d3b122c31f2adde0a6d7a0331c252188b75a6c9ef4f753aafa.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%89%8D%E5%89%AF%E6%9C%AC.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "f026ab2a1d8258dd7e9e9c819dc549c1cc1697723550b1ced7eec2bc8fc94b0b",
+   "file": "images/store/f026ab2a1d8258dd7e9e9c819dc549c1cc1697723550b1ced7eec2bc8fc94b0b.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%90%8E%E5%89%AF%E6%9C%AC.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "e316f87a5ae7cecb961d9db35061a22327997353c422816f9e4e810b9b067640",
+   "file": "images/store/e316f87a5ae7cecb961d9db35061a22327997353c422816f9e4e810b9b067640.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png",
+   "reason": "接口实物图｜图3.2.1 接口图：非表格，见原图"
+  },
+  {
    "sha256": "85dacdf5f5ff9a45720f5fe2038cf3460c6722df5eb579f9587b059a57ce64b6",
    "file": "images/store/85dacdf5f5ff9a45720f5fe2038cf3460c6722df5eb579f9587b059a57ce64b6.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png",
@@ -1301,6 +1319,12 @@
    "file": "images/store/00408a6eb16d9928288e3b13a55be30dd0958a216f7d449d1d13794ab72bfa9d.png",
    "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png",
    "reason": "is_table=false：该图是 PORT2 线束外观/走线示意图（26P 航插、线束、各摄像头/M12/DB9 端头的 CAD 线图与线号标注），无规整文本表格，不做表格转写（接口定义见表 图4.1.4 PORT2接线表）。"
+  },
+  {
+   "sha256": "bd2096df38661f0e2f360eb5d9fb233421d8ec72abaea04b836a4ec6b3e57508",
+   "file": "images/store/bd2096df38661f0e2f360eb5d9fb233421d8ec72abaea04b836a4ec6b3e57508.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%AE%89%E8%A3%85%E5%9B%BE.png",
+   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
   }
  ],
  "warnings": [

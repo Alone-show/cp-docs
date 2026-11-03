@@ -63,6 +63,93 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/APOLLO%2012.png
 
+### 接口定义｜3.2 接口定义
+*图3.2.2 26P 接口定义表*
+
+| 安费诺-26P | PIN脚定义 | 安费诺-26P | PIN脚定义 |
+| --- | --- | --- | --- |
+| 1 | CAN1_H | 14 | B- |
+| 2 | CAN1_L | 15 | ACC |
+| 3 | CAN3-H_FD | 16 | ADC_IN1 |
+| 4 | CAN3-L_FD | 17 | ADC_IN2 |
+| 5 | CAN2_H | 18 | RS232_TX/RS485_A |
+| 6 | CAN2_L | 19 | RS232_RX/RS485_B |
+| 7 | OUTPUT1 | 20 | GND |
+| 8 | GND | 21 | AHD_PWR |
+| 9 | RS232_A_TX | 22 | AHD1 |
+| 10 | RS232_A_RX | 23 | AHD2 |
+| 11 | RS232_B_TX | 24 | AHD3/INPUT1 |
+| 12 | RS232_B_RX | 25 | AHD4/INPUT2 |
+| 13 | B+ | 26 | OUTPUT2 |
+
+> 注：同图转写（原归属 1.6 APOLLO 7 二代；原表：图3.2.2 26P 接口定义表）；原图为左右两组「安费诺-26P|PIN脚定义」，已按原 4 列保留；PIN 1-13 在左组、14-26 在右组，连续完整。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%20%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89%E8%A1%A8.png
+
+### 接口定义｜3.2 接口定义
+*图3.2.3 M12以太网接口定义表*
+
+| PIN 脚 | 定义 |
+| --- | --- |
+| 1 | PHY_MDI_0+ |
+| 2 | PHY_MDI_0- |
+| 3 | PHY_MDI_1+ |
+| 4 | PHY_MDI_1- |
+| 5 | PHY_MDI_3+ |
+| 6 | PHY_MDI_3- |
+| 7 | PHY_MDI_2- |
+| 8 | PHY_MDI_2+ |
+
+> 注：同图转写（原归属 1.6 APOLLO 7 二代；原表：图3.2.3 M12以太网接口定义表）
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
+
+### 线束定义｜4.1 线束定义
+*图4.1.2 接线表*
+
+| TE-26P | PIN定义 | 线径 | 线贴纸 | 线颜色 | M1_4P (AHD1) | M2_4P (AHD2) | M3_4P (AHD3) | M4_4P (AHD4) | M5_4P (ADC IN) | M6_3P (POWER) | DB9A （公头） | DB9B （公头） | DB9C(公头) | M7_4P (DC OUTPUT) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | CAN1_H | 24# | CAN1_H | 黑白色 |  |  |  |  |  |  | 7/1 对绞线 |  |  |  |
+| 2 | CAN1_L | 24# | CAN1_L | 黑灰色 |  |  |  |  |  |  |  |  |  |  |
+| 3 | CAN3_H_FD | 24# | CAN3_H_FD | 黑紫色 |  |  |  |  |  |  |  |  | 7/1 对绞线 |  |
+| 4 | CAN3_L_FD | 24# | CAN3_L_FD | 黑蓝色 |  |  |  |  |  |  |  |  |  |  |
+| 5 | CAN2_H | 24# | CAN2_H | 黑绿色 |  |  |  |  |  |  |  | 7/1 对绞线 |  |  |
+| 6 | CAN2_L | 24# | CAN2_L | 黑色 |  |  |  |  |  |  |  |  |  |  |
+| 7 | OUTPUT1 | 24# | OUTPUT1 | 黄色 |  |  |  |  |  |  |  |  |  | 2 |
+| 8 | GND | 18# | GND | 白色 |  |  |  |  | 1 |  | 5 | 5 | 5 | 1/4 |
+| 9 | RS232_A_TX | 24# | RS232_A_TX | 灰色 |  |  |  |  |  |  | 3/2 对绞线 |  |  |  |
+| 10 | RS232_A_RX | 24# | RS232_A_RX | 紫色 |  |  |  |  |  |  |  |  |  |  |
+| 11 | RS232_B_TX | 24# | RS232_B_TX | 蓝色 |  |  |  |  |  |  |  | 3/2 对绞线 |  |  |
+| 12 | RS232_B_RX | 24# | RS232_B_RX | 绿色 |  |  |  |  |  |  |  |  |  |  |
+| 13 | B+ | 18# | B+ | 红色 |  |  |  |  |  | 2 |  |  |  |  |
+| 14 | B− | 18# | B− | 棕色 |  |  |  |  |  | 3 |  |  |  |  |
+| 15 | ACC | 18# | ACC | 粉红色 |  |  |  |  |  | 1 |  |  |  |  |
+| 16 | ADC_IN1 | 24# | ADC_IN1 | 黑黄色 |  |  |  |  | 3 |  |  |  |  |  |
+| 17 | ADC_IN2 | 24# | ADC_IN2 | 黑粉红色 |  |  |  |  | 4 |  |  |  |  |  |
+| 18 | RS232_TX/RS485_A | 24# | RS232_TX/RS485_A | 浅白色 |  |  |  |  |  |  |  |  | 3/2 对绞线 |  |
+| 19 | RS232_RX/RS485_B | 24# | RS232_RX/RS485_B | 浅白色 |  |  |  |  |  |  |  |  |  |  |
+| 20 | GND | 18# | GND | 黑棕色 | 2 | 2 | 2 | 2 |  |  |  |  |  |  |
+| 21 | AHD_PWR | 18# | AHD_PWR | 黑色 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |
+| 22 | AHD1 | 24# | AHD1 | 浅白色 | 4 |  |  |  |  |  |  |  |  |  |
+| 23 | AHD2 | 24# | AHD2 | 浅白色 |  | 4 |  |  |  |  |  |  |  |  |
+| 24 | AHD3/INPUT1 | 24# | AHD3/INPUT1 | 浅白色 |  |  | 4 |  |  |  |  |  |  |  |
+| 25 | AHD4/INPUT2 | 24# | AHD4/INPUT2 | 黑色 |  |  |  | 4 |  |  |  |  |  |  |
+| 26 | OUTPUT2 | 24# | OUTPUT2 | 浅白色 |  |  |  |  |  |  |  |  |  | 3 |
+
+> 注：同图转写（原归属 1.6 APOLLO 7 二代；原表：图4.1.2 26P接线表）；表中带「x/y 对绞线」的单元格为纵向合并单元格：「7/1 对绞线」分别跨 PIN1-2（DB9A）、PIN3-4（DB9C）、PIN5-6（DB9B）；「3/2 对绞线」分别跨 PIN9-10（DB9A）、PIN11-12（DB9B）、PIN18-19（DB9C）。转写时把该值记在合并区首行，续行留空。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%207%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89.png
+
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E6%AD%A3%E8%A7%86%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 线束外观图｜图4.1.1 线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 M12以太网线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
+
 ### 数据提示
 
 - 参数表「规格」与任务字段一致：尺寸 317.8*219.6*34.5mm、重量 1.75kg，无差异。
+- 补齐共用表 3 张（同图转写，原归属见各表注）

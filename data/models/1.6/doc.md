@@ -138,7 +138,12 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 - 线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、M4/M5/DB9/M7 各接头 PIN1-4 分配示意图及 500±30 尺寸标注），无文本表格；其中的 PIN 分配信息已在 4.1.2 接线表中转写。：
+- 线束外观图｜图4.1.3 M12以太网线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/APOLLO2%207%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 

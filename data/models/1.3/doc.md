@@ -181,6 +181,66 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3B.png
 
+### 线束定义｜4.1.4 PROT1
+*图4.1.4.2 PROT1线束定义图*
+
+| DT06-6S | 信号定义 | M12 4P(CVBS IN1) | M12 4P(CVBS IN1) | RJ45 母头 |
+| --- | --- | --- | --- | --- |
+| 1 蓝 | CVBS12V | 1 |  | 24awg 棕 |
+| 2 绿 | GND | 2 | 2 | 24awg 白 |
+| 3 黄 | NC |  |  | 24awg 黄 |
+| 4 橙 | CVBS-IN2 |  | 4 | 24awg 蓝 |
+| 5 红 | CVBS-IN1 | 4 |  | 24awg 红 |
+| 6 白 | CVBS 12V |  | 1 | 24awg 黑 |
+
+> 注：同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.1.2 PROT1线束定义图）；表头第3、4列原文均写作「M12 4P(CVBS IN1)」，疑为重复标注，按原样保留。第1行「CVBS12V」与第6行「CVBS 12V」空格写法不同，均按原文保留。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 线束定义｜4.1.5 PROT2
+*图4.1.5.2 PROT2线束定义图*
+
+| DT06-12SA | 信号定义 | DB9 公头 (B) | DB9公头(C) | M12 3P(POWER) | M12 4P (IO IN OUT) |
+| --- | --- | --- | --- | --- | --- |
+| 1 棕 | RS232A-TX | 3 |  |  |  |
+| 2 蓝 | RS232A-RX | 2 |  |  |  |
+| 3 白 | B+ |  |  | 2 |  |
+| 4 黄 | ACC |  |  | 1 |  |
+| 5 绿 | B- |  |  | 3 |  |
+| 6 灰 | GND |  |  |  |  |
+| 7 粉 | RS232B-RX |  | 2 |  |  |
+| 8 黑 | CAN1_L | 6 |  |  |  |
+| 9 橙 | CAN1_H | 9 |  |  |  |
+| 10 红 | INPUT GPIO |  |  |  | 3 |
+| 11 紫 | RS232B-TX |  | 3 |  |  |
+| 12 浅绿 | GND | 5 | 5 |  | 2 |
+
+> 注：同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.2.2 PROT2线束定义图）；第8-9行 DB9 公头 (B) 列旁标注「对绞」（CAN1_L/CAN1_H）。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 线束定义｜4.1.6 PROT3
+*图4.1.6.2 PROT3线束定义图*
+
+| DT06-12SB | 信号定义 | DB9 公头 (A) | M12 4P (DC12V-OUT1) | M12 4P (DC12V-OUT2) | RJ45 网口 |
+| --- | --- | --- | --- | --- | --- |
+| 1 棕 | RS485_A | 1 |  |  |  |
+| 2 蓝 | RS485_B | 7 |  |  |  |
+| 3 白 | Audio-lineout |  |  |  |  |
+| 4 绿 | DC12V-OUT3 |  |  |  |  |
+| 5 黄 | RJ45_TX+ |  |  |  | 1 |
+| 6 灰 | RJ45_TX- |  |  |  | 2 |
+| 7 粉 | RJ45_RX- |  |  |  | 6 |
+| 8 红 | RJ45_RX+ |  |  |  | 3 |
+| 9 黑 | DC12V-OUT1 |  | 1 |  |  |
+| 10 橙 | DC12V-OUT2 |  |  | 1 |  |
+| 11 紫 | INPUT GPIO |  |  |  |  |
+| 12 浅绿 | GND |  | 2 | 2 |  |
+
+> 注：同图转写（原归属 1.2 APOLLO 8 PRO；原表：图4.1.3.2 PROT3线束定义图）；第1-2行 DB9 公头 (A) 列旁标注「对绞」（RS485_A/B）。第3、6行文字在截图中带拼写检查波浪线（Audio-lineout、RJ45_TX-），已按文字转写。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
 ### 线束定义｜4.1.7 18PIN
 *图4.1.7.2 18PIN线束定义图*
 
@@ -209,7 +269,25 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/APOLLO%2010%20PRO/%E6%AD%A3%E8%A7%86%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2 APOLLO 10PRO 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 接口实物图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/A6.png
+- 接口实物图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B6.png
+- 接口实物图｜图3.2.3.1 配置B型 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png
+- 接口实物图｜图4.1.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B1.png
+- 接口实物图｜图4.1.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B2.png
+- 接口实物图｜图4.1.3.1 PROT3线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/B3.png
+- 线束外观图｜图4.1.4.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.5.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.6.1 PROT3线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
+- 接口实物图｜图4.1.7.1 18PIN线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18PIN%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A910%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
+
 ### 数据提示
 
 - 尺寸/重量：参数表「规格」为 281*181*42mm / 1.50kg，与任务字段 281*181*42mm / 1.5 kg 一致。
 - 参数表「通讯和接口」写 CAN*1/2，而 intro 写「CAN*2」，以图为准。
+- 补齐共用表 3 张（同图转写，原归属见各表注）

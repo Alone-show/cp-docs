@@ -707,7 +707,38 @@
    "notes": "原表为两行表头（第一行连接器名，第二行为 (SPK)/(MIC)/(CVBS IN1..4)/(POWER)/(IO IN OUT)/(DC2VOUT1) 子标注），此处合并为一行表头。PIN 1-26 连续。第21行 M8_4P 与 M9_4P 单元格原文显示为「1月2日」（疑为原始文档「1、2」的显示异常），按图原样保留。第26行 线贴纸 原图即为 INPUT_IO1（与信号定义 OUTPUT_IO1 不同），原样保留。"
   }
  ],
- "skipped": [],
+ "skipped": [
+  {
+   "sha256": "415728232d723b5b76ab104b43533879b3eb242783313415dbf766f58dfd1bb3",
+   "file": "images/store/415728232d723b5b76ab104b43533879b3eb242783313415dbf766f58dfd1bb3.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "6fd6ae2b573542d6bbe3af0bb92e55906574cd2115e3bee68d15cf551c32dfb1",
+   "file": "images/store/6fd6ae2b573542d6bbe3af0bb92e55906574cd2115e3bee68d15cf551c32dfb1.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "8f8a45817dd49cccdb9c0945fe5a2d7e1b1280ed2067e68f9181892c83b8c05d",
+   "file": "images/store/8f8a45817dd49cccdb9c0945fe5a2d7e1b1280ed2067e68f9181892c83b8c05d.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/TANK1%E6%8E%A5%E5%8F%A3%E5%9B%BE.png",
+   "reason": "接口实物图｜图3.2.1 接口图：非表格，见原图"
+  },
+  {
+   "sha256": "4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637",
+   "file": "images/store/4fe244e7132d70f6b91e512ac385bed93dc7de7022c2a04a90073076454d3637.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E7%BA%BF%E6%9D%9F.png",
+   "reason": "线束外观图｜图4.1.1 线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "746a27a776bc9d1859247af01173c1f21d0df93d8632f044337c5a98711ce41d",
+   "file": "images/store/746a27a776bc9d1859247af01173c1f21d0df93d8632f044337c5a98711ce41d.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/tank/%E5%AE%89%E8%A3%85.png",
+   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
+  }
+ ],
  "warnings": [
   "尺寸：参数表 140.5*95.2*39.8mm 与任务文字 140.5*95.2*39.8mm 一致。",
   "重量：参数表 0.36kg 与任务文字 0.36 kg 一致。",

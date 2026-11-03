@@ -186,8 +186,12 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%89%8D%E5%89%AF%E6%9C%AC.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%90%8E%E5%89%AF%E6%9C%AC.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 - 该图是 PORT1 线束外观/走线示意图（26P 航插、线束、各连接器端头的 CAD 线图与线号标注），无规整文本表格，不做表格转写（接口定义见表 图4.1.2 PORT1接线表）。：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT1%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
 - 该图是 PORT2 线束外观/走线示意图（26P 航插、线束、各摄像头/M12/DB9 端头的 CAD 线图与线号标注），无规整文本表格，不做表格转写（接口定义见表 图4.1.4 PORT2接线表）。：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/MEGA1%20PORT2%20%E7%BA%BF%E6%9D%9F%E5%9B%BE.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/MEGA1/%E5%AE%89%E8%A3%85%E5%9B%BE.png
 
 ### 数据提示
 

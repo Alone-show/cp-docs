@@ -668,9 +668,27 @@
  ],
  "skipped": [
   {
+   "sha256": "91c177c93eb2c930a82f954d5efb9833bc9bf6cd0e790ab9bc95aaa2d84bc5dd",
+   "file": "images/store/91c177c93eb2c930a82f954d5efb9833bc9bf6cd0e790ab9bc95aaa2d84bc5dd.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%AD%A3%E9%9D%A2%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "0659d5f55a8fb8c2889abdd64fe4d888a97ce281cb538c5b4ea3b9152bdbd3d5",
+   "file": "images/store/0659d5f55a8fb8c2889abdd64fe4d888a97ce281cb538c5b4ea3b9152bdbd3d5.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
    "sha256": "bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce",
    "file": "images/store/bb0b22a16bb03fe9db5ac4e92f179dddb82472443f6d2756805c3c8f84e66bce.png",
    "reason": "线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、各接头 PIN 分配（Camera 0/Camera 1/RJ45/DB9 A/B/C/Power/IO INPUT/DC OUTPUT）与 500±30 尺寸标注），无文本表格；PIN 分配信息已在 4.1.2 接线表中转写。"
+  },
+  {
+   "sha256": "986c5a0ec1f7e6fe10c579756ca46c026e66041b2789fd5e36cfa7fc5a2c453e",
+   "file": "images/store/986c5a0ec1f7e6fe10c579756ca46c026e66041b2789fd5e36cfa7fc5a2c453e.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%20%E5%AE%89%E8%A3%85%E5%9B%BE1.png",
+   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
   }
  ],
  "warnings": [

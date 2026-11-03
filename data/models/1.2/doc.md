@@ -156,6 +156,16 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
 
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT1.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT2.png
+- 线束外观图｜图4.1.3.1 PROT3线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/PORT3.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_8/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E5%9B%BE%E7%A4%BA.png
+
 ### 数据提示
 
 - 尺寸/重量：参数表「规格」为 224*160*45mm / 1.36kg，与任务字段 224*160*45 mm / 1.36 kg 一致。

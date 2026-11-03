@@ -119,6 +119,42 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/SPRING2%2010PRO%20%E6%91%84%E5%83%8F%E5%A4%B4%E5%AE%9A%E5%88%B6%E7%89%88%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
 
+### 线束定义｜4.1.1 26PIN线束定义
+*图4.1.2 26PIN接线图*
+
+| TE-26P | PIN定义 | 线径 | 线贴纸 | 线颜色 | M1_2P(AUDIO_OUT) | M2_4P(CAMERA_0) | M3_4P(CAMERA_1) | 网口（RJ45） | M4_4P(IO INPUT) | M5_3P(POWER) | DB9A （公头） | DB9B （公头） | DB9C(公头) | M6_4P (DC OUTPUT) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | B+ | 18# | B+ | 黑白色 |  |  |  |  |  | 2 |  |  |  |  |
+| 2 | B− | 18# | B− | 黑灰色 |  |  |  |  |  | 3 |  |  |  |  |
+| 3 | ACC | 18# | ACC | 黑紫色 |  |  |  |  |  | 1 |  |  |  |  |
+| 4 | CAN1_H | 24# | CAN1_H | 黑蓝色 |  |  |  |  |  |  |  |  | 9/6 对绞线 |  |
+| 5 | CAN1_L | 24# | CAN1_L | 黑绿色 |  |  |  |  |  |  |  |  |  |  |
+| 6 | OUTPUT1 | 18# | OUTPUT1 | 黑色 |  |  |  |  |  |  |  |  |  | 2 |
+| 7 | OUTPUT2 | 18# | OUTPUT2 | 黄色 | 1 |  |  |  |  |  |  |  |  | 3 |
+| 8 | GND | 18# | GND | 白色 | 2 | 2 | 2 |  | 1-2 |  | 5 | 5 | 5 | 1 |
+| 9 | RS485_A | 24# | RS485_A | 灰色 |  |  |  |  |  |  |  |  | 3/2 对绞线 |  |
+| 10 | RS485_B | 24# | RS485_B | 紫色 |  |  |  |  |  |  |  |  |  |  |
+| 11 | CAN2-H | 24# | CAN2-H | 蓝色 |  |  |  |  |  |  |  |  | 7/1 对绞线 |  |
+| 12 | CAN2-L | 24# | CAN2-L | 绿色 |  |  |  |  |  |  |  |  |  |  |
+| 13 | OUTPUT3 | 18# | OUTPUT3 | 红色 |  |  |  |  |  |  |  |  |  | 4 |
+| 14 | RS232_TX1 | 24# | RS232_TX1 | 棕色 |  |  |  |  |  |  | 3（2/3对绞） |  |  |  |
+| 15 | INPUT2 | 24# | INPUT2 | 粉红色 |  |  |  |  | 4 |  |  |  |  |  |
+| 16 | CAMERA_1 | 24# | CAMERA_1 | 黑黄色 |  |  | 4 |  |  |  |  |  |  |  |
+| 17 | RS232_RX2 | 24# | RS232_RX2 | 黑粉红色 |  |  |  |  |  |  |  | 2（2/3对绞） |  |  |
+| 18 | RJ45 TX- | 24# | RJ45 TX- | 浅白色 |  |  |  | 2(1和2对绞) |  |  |  |  |  |  |
+| 19 | RJ45_RX- | 24# | RJ45_RX- | 浅白色 |  |  |  | 6（3和6对绞） |  |  |  |  |  |  |
+| 20 | RS232_RX1 | 24# | RS232_RX1 | 黑棕色 |  |  |  |  |  |  | 2（2/3对绞） |  |  |  |
+| 21 | INPUT1 | 24# | INPUT1 | 黑色 |  |  |  |  | 3 |  |  |  |  |  |
+| 22 | CAMERA_0 | 24# | CAMERA_0 | 浅白色 |  | 4 |  |  |  |  |  |  |  |  |
+| 23 | CAMERA_PWR | 24# | CAMERA_PWR | 浅白色 |  | 1 | 1 |  |  |  |  |  |  |  |
+| 24 | RS232_TX2 | 24# | RS232_TX2 | 浅白色 |  |  |  |  |  |  |  | 3（2/3对绞） |  |  |
+| 25 | RJ45_TX+ | 24# | RJ45_TX+ | 黑色 |  |  |  | 1(1和2对绞) |  |  |  |  |  |  |
+| 26 | RJ45_RX+ | 24# | RJ45_RX+ | 浅白色 |  |  |  | 3（3和6对绞） |  |  |  |  |  |  |
+
+> 注：同图转写（原归属 1.7 APOLLO 7A 二代；原表：图4.1.2 接线表）；表中「x/y 对绞线」为纵向合并单元格：DB9C 列「9/6 对绞线」跨 PIN4-5、「3/2 对绞线」跨 PIN9-10、「7/1 对绞线」跨 PIN11-12；转写时记在合并区首行，续行留空。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
 ### 线束定义｜4.1.2 摄像头航空插座1拖2线束定义
 *图4.1.4 像头航空座1拖2线束接线图*
 
@@ -135,8 +171,22 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜图2.1.1 正面图-旧面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 其他图表｜图2.1.2 正面图-新面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%96%B0%E9%9D%A2%E5%A3%B3.png
+- 其他图表｜图2.1.4 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/SPRING2%2010PRO%E5%BA%95%E5%A3%B3.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/10PRO%2026PIN%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 线束外观图｜图4.1.1 26PIN线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
+- 线束外观图｜图4.1.3 摄像头航空座1拖2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B41%E6%8B%962%E8%BD%AC%E6%8E%A5%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1 8路720P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/8%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
+- 线束外观图｜图4.2.2 6路720P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/6%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
+- 线束外观图｜图4.2.3 4路或2路720P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF%E6%88%962%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
+- 线束外观图｜图4.2.4 6路1080P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/6%E8%B7%AF1080P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
+- 线束外观图｜图4.2.5 4路或2路1080P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF%E6%88%962%E8%B7%AF1080P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
+- 线束外观图｜图4.2.6 4路1080P+4路720P接线方法：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/4%E8%B7%AF1080P%2B4%E8%B7%AF720P%E6%8E%A5%E7%BA%BF%E6%96%B9%E6%B3%95.png
 - 该图是「standard edition / custom-made edition n(≤4)*1080P+m(≤4)*720P connection method」接线方法示意图（含 26pin 航插、1 拖 2 线束、摄像头实体照片与连线标注），无规整文本表格，不做表格转写。：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/SPRING%2010PRO%E4%BA%8C%E4%BB%A3/%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95/%E4%BB%BB%E6%84%8F%E8%B7%AF%E6%91%84%E5%83%8F%E5%A4%B4%E6%8E%A5%E6%B3%95.png
+- 安装图｜图2.1.1 正面图-旧面壳：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/10%E5%AF%B8%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 本机型 6 张候选图（参数表、26PIN 接口定义、摄像头标准版/定制版接口定义、M12 4P 线束定义表、摄像头接线方法示意图）与 1.24 SPRING 10 PRO 二代 特别版 共用，1.24 的 candidates 为空（share_note：仅面壳不同）。
+- 补齐共用表 1 张（同图转写，原归属见各表注）

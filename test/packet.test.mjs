@@ -24,7 +24,7 @@ const packet = has
   : '';
 
 test('整包包含全部表格，26PIN 表四个 RS232 引脚都在', { skip: !has }, () => {
-  assert.match(packet, /## 表格（5 张）/);
+  assert.match(packet, /## 表格（6 张）/);
   assert.match(packet, /26PIN连接器接口定义表/);
   assert.match(packet, /\| 14 \| RS232_A_TX/);
   assert.match(packet, /\| 20 \| RS232_A_RX/);

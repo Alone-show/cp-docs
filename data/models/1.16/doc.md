@@ -133,9 +133,110 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO2_12X%E6%8E%A5%E7%BA%BF%E5%AE%9A%E4%B9%89.png
 
+### 接口定义｜3.2 接口定义
+*图3.2.3 M12接口定义表*
+
+| PIN | Definition | Instructions |
+| --- | --- | --- |
+| 1 | GND | GND |
+| 2 | Plug and pull detection | Connect to GND |
+| 3 | FPD_OUT+ | FPD-LINK |
+| 4 | FPD_OUT- | FPD-LINK |
+| 5 | VIN (10V) | Power supply(9~12V) / If an external power supply is used, suspend the power supply on the main panel |
+| 6 | VIN (10V) |  |
+| 7 | VIN (10V) |  |
+| 8 | VIN (10V) |  |
+
+> 注：同图转写（原归属 1.15 APOLLO 12 PLUS；原表：图3.2.3 M12副屏接口定义表）；Instructions 列 PIN 5-8 在原图中为合并单元格，整段文字记于 PIN 5 行，PIN 6-8 留空，未合并行。PIN 1-8 连续。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12X%20M12%E8%88%AA%E7%A9%BA%E5%BA%A7%E6%8E%A5%E7%BA%BF%E5%AE%9A%E4%B9%89.png
+
+### 线束定义｜4.1.1
+*图4.1.2 PORT1接线表*
+
+| TE-26P | PIN定义 | 线径 | 线贴纸 | 线颜色 | M1_2P(AUDIO_OUT) | M2_4P(CAMERA_0) | M3_4P(CAMERA_1) | 网口 (RJ45) | M4_4P(IO INPUT) | M5_3P(POWER) | DB9A（公头） | DB9B（公头） | DB9C(公头) | M6_4P(DC OUTPUT) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | B+ | 18# | B+ | 黑白色 |  |  |  |  |  | 2 |  |  |  |  |
+| 2 | B- | 18# | B- | 黑灰色 |  |  |  |  |  | 3 |  |  |  |  |
+| 3 | ACC | 18# | ACC | 黑紫色 |  |  |  |  |  | 1 |  |  |  |  |
+| 4 | CAN1_H | 24# | CAN1_H | 黑蓝色 |  |  |  |  |  |  |  |  | 9（对绞线） |  |
+| 5 | CAN1_L | 24# | CAN1_L | 黑绿色 |  |  |  |  |  |  |  |  | 6（对绞线） |  |
+| 6 | OUTPUT1 | 18# | OUTPUT1 | 黑色 |  |  |  |  |  |  |  |  |  | 2 |
+| 7 | OUTPUT2 | 18# | OUTPUT2 | 黄色 | 1 |  |  |  |  |  |  |  |  | 3 |
+| 8 | GND | 18# | GND | 白色 | 2 | 2 | 2 |  | 1-2 |  | 5 | 5 | 5 | 1 |
+| 9 | RS485_A/NC | 24# | RS485_A | 灰色 |  |  |  |  |  |  |  |  | 3（对绞线） |  |
+| 10 | RS485_B/NC | 24# | RS485_B | 紫色 |  |  |  |  |  |  |  |  | 2（对绞线） |  |
+| 11 | CAN2-H | 24# | CAN2-H | 蓝色 |  |  |  |  |  |  |  |  | 7（对绞线） |  |
+| 12 | CAN2-L | 24# | CAN2-L | 绿色 |  |  |  |  |  |  |  |  | 1（对绞线） |  |
+| 13 | OUTPUT3 | 18# | OUTPUT3 | 红色 |  |  |  |  |  |  |  |  |  | 4 |
+| 14 | RS232_A_TX | 24# | RS232_TX1 | 棕色 |  |  |  |  |  |  | 3（2/3对绞） |  |  |  |
+| 15 | INPUT2 | 24# | INPUT2 | 粉红色 |  |  |  |  | 4 |  |  |  |  |  |
+| 16 | CAMERA_1 | 24# | CAMERA_1 | 黑黄色 |  |  | 4 |  |  |  |  |  |  |  |
+| 17 | NC/RS232_B_RX | 24# | RS232_RX2 | 黑粉红色 |  |  |  |  |  |  |  | 2（2/3对绞） |  |  |
+| 18 | NC | 24# | PHY_MDI_1- | 浅白色 |  |  |  | 2（1和2对绞） |  |  |  |  |  |  |
+| 19 | TRN | 24# | PHY_MDI_0- | 浅白色 |  |  |  | 6（3和6对绞） |  |  |  |  |  |  |
+| 20 | RS232_A_RX | 24# | RS232_RX1 | 黑棕色 |  |  |  |  |  |  | 2（2/3对绞） |  |  |  |
+| 21 | INPUT1 | 24# | INPUT1 | 黑色 |  |  |  |  | 3 |  |  |  |  |  |
+| 22 | CAMERA_0 | 24# | CAMERA_0 | 浅白色 |  | 4 |  |  |  |  |  |  |  |  |
+| 23 | CAMERA_PWR | 24# | CAMERA_PWR | 浅白色 |  | 1 | 1 |  |  |  |  |  |  |  |
+| 24 | NC/RS232_BTX | 24# | RS232_TX2 | 浅白色 |  |  |  |  |  |  |  | 3（2/3对绞） |  |  |
+| 25 | NC | 24# | PHY_MDI_1+ | 黑色 |  |  |  | 1（1和2对绞） |  |  |  |  |  |  |
+| 26 | TRP | 24# | PHY_MDI_0+ | 浅白色 |  |  |  | 3（3和6对绞） |  |  |  |  |  |  |
+
+> 注：同图转写（原归属 1.15 APOLLO 12 PLUS；原表：图4.1.2 PORT1接线表）；表标题「接线表」。DB9C 第4-5、9-10、11-12 行为合并单元格（对绞线），已按行拆分并在单元格内标注「对绞线」。PIN 1-26 连续。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 线束定义｜4.1.1
+*图4.1.4 PORT2接线表*
+
+| TE-26P | PIN定义 | 线径 | 线贴纸 | 线颜色 | M1_4P(CAMERA_2) | M2_4P(CAMERA_3) | M3_4P(CAMERA_5) | M4_4P(CAMERA_6) | M5_4P(CAMERA_7) | M6_4P(CAMERA_8) | M7_4P(ADC_电压) | M8_4P(ADC_电流) | DB9_D(公头) | M9_4P(DI DO) | SPK_L / Line_out_L | SPK_R / Line_out_R |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | INPUT3 | 18# | 同PIN定义 | 黑白色 |  |  |  |  |  |  |  |  |  | 3 |  |  |
+| 2 | NC | 18# | 同PIN定义 | 黑灰色 |  |  |  |  |  |  |  |  |  | 2 |  |  |
+| 3 | NC | 18# | 同PIN定义 | 黑紫色 |  |  |  |  |  |  |  |  |  | 4 |  |  |
+| 4 | CAN3_H | 24# | 同PIN定义 | 黑蓝色 |  |  |  |  |  |  |  |  | 9（对绞线） |  |  |  |
+| 5 | CAN3_L | 24# | 同PIN定义 | 黑绿色 |  |  |  |  |  |  |  |  | 6（对绞线） |  |  |  |
+| 6 | RS232_DEBUG_RX | 18# | 同PIN定义 | 黑色 |  |  |  |  |  |  |  |  | 2（对绞线） |  |  |  |
+| 7 | RS232_DEBUG_TX | 18# | 同PIN定义 | 黄色 |  |  |  |  |  |  |  |  | 3（对绞线） |  |  |  |
+| 8 | GND | 18# | 同PIN定义 | 白色 | 2 | 2 | 2 | 2 | 2 | 2 | 1 2 | 1 | 5 | 1 |  |  |
+| 9 | ADC_IN3 | 24# | 同PIN定义 | 灰色 |  |  |  |  |  |  |  | 3 |  |  |  |  |
+| 10 | ADC_IN4 | 24# | 同PIN定义 | 紫色 |  |  |  |  |  |  |  | 4 |  |  |  |  |
+| 11 | CAN4_H | 24# | 同PIN定义 | 蓝色 |  |  |  |  |  |  |  |  | 7（对绞线） |  |  |  |
+| 12 | CAN4_L | 24# | 同PIN定义 | 绿色 |  |  |  |  |  |  |  |  | 1（对绞线） |  |  |  |
+| 13 | IPPS | 18# | 同PIN定义 | 红色 |  |  |  |  |  |  |  | 2 |  |  |  |  |
+| 14 | NC/SPK_OUTPL/LINE_OUT_L | 24# | 同PIN定义 | 红色 |  |  |  |  |  |  |  |  |  |  | 1 |  |
+| 15 | ADC_IN2 | 24# | 同PIN定义 | 粉红色 |  |  |  |  |  |  | 4 |  |  |  |  |  |
+| 16 | NC | 24# | 同PIN定义 | 黑黄色 |  |  |  |  | 4 |  |  |  |  |  |  |  |
+| 17 | NC/SPK_OUTNR/LINE_OUT_R_GND | 24# | 同PIN定义 | 黑色 |  |  |  |  |  |  |  |  |  |  |  | 2 |
+| 18 | CAMERA_3 (NVP6158C) | 24# | 同PIN定义 | 浅白色 |  | 4 |  |  |  |  |  |  |  |  |  |  |
+| 19 | NC | 24# | 同PIN定义 | 浅白色 |  |  |  | 4 |  |  |  |  |  |  |  |  |
+| 20 | NC/SPK_OUTNL/LINE_OUT_L_GND | 24# | 同PIN定义 | 黑色 |  |  |  |  |  |  |  |  |  |  | 2 |  |
+| 21 | ADC_IN1 | 24# | 同PIN定义 | 黑色 |  |  |  |  |  |  | 3 |  |  |  |  |  |
+| 22 | NC | 24# | 同PIN定义 | 浅白色 |  |  |  |  |  | 4 |  |  |  |  |  |  |
+| 23 | CAMERA__PWR_OUT | 24# | 同PIN定义 | 浅白色 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |
+| 24 | SPK_OUTPR/LINE_OUT_R | 24# | 同PIN定义 | 红色 |  |  |  |  |  |  |  |  |  |  |  | 1 |
+| 25 | CAMERA_2 (NVP6158C) | 24# | 同PIN定义 | 黑色 | 4 |  |  |  |  |  |  |  |  |  |  |  |
+| 26 | NC | 24# | 同PIN定义 | 浅白色 |  |  | 4 |  |  |  |  |  |  |  |  |  |
+
+> 注：同图转写（原归属 1.15 APOLLO 12 PLUS；原表：图4.1.4 PORT2接线表）；表标题「接线表」。DB9_D 第4-5、6-7、11-12 行为合并单元格（对绞线），已按行拆分并在单元格内标注「对绞线」。PIN 1-26 连续。PIN 2/3/16/19/22/26 的 PIN定义为 NC，但仍保留其与 M5/M6/M4/M3 的对应针号，按图原样记录。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E5%89%AF%E7%BA%BF%E6%9D%9F%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Front%20view.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO%2012X%20Back%20view.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2_12PLUS/APOLLO2_12PLUS%E4%B8%BB%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.3 PORT2线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20PORT2.png
+- 线束外观图｜图4.1.5 M12 副屏线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/%E5%89%AF%E5%B1%8F%E7%BA%BF%E6%9D%9F.png
+- 其他图表｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%2012X/APOLLO2%2012X%20%E5%AE%89%E5%8D%93%E6%8C%87%E5%AF%BC.png
+
 ### 数据提示
 
 - 尺寸：参数表「尺寸(W*H*D) : 199.7*297.6*34.8mm」，任务/页面文字为 297.6x199.7x34.8mm（同样三个数值，W/H 顺序不同）；size_mm 已按图取 199.7*297.6*34.8。
 - 重量：参数表 1.49kg 与任务文字 1.49 kg 一致。
 - 同一张 sha256=1ca8ba6b… 的接口定义图内含 PORT 1、PORT 2 两张 26P 表，已分别转写为两条 tables 记录（sha256 集合仍与 candidates 一致）。
 - 参数表画布 1987x1698 超宽，已分块放大读取后折叠为2列；表末空行（分类空、内容仅「.」）未计入 rows。
+- 补齐共用表 3 张（同图转写，原归属见各表注）

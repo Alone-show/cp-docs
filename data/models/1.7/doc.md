@@ -82,6 +82,24 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO%207A/APOLLO2%207A%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
 
+### 接口定义｜3.2 接口定义
+*图3.2.3 M12以太网接口定义表*
+
+| PIN 脚 | 定义 |
+| --- | --- |
+| 1 | PHY_MDI_0+ |
+| 2 | PHY_MDI_0- |
+| 3 | PHY_MDI_1+ |
+| 4 | PHY_MDI_1- |
+| 5 | PHY_MDI_3+ |
+| 6 | PHY_MDI_3- |
+| 7 | PHY_MDI_2- |
+| 8 | PHY_MDI_2+ |
+
+> 注：同图转写（原归属 1.6 APOLLO 7 二代；原表：图3.2.3 M12以太网接口定义表）
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
+
 ### 线束定义｜4.1.1
 *图4.1.2 接线表*
 
@@ -120,9 +138,15 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E5%8F%8D%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%E5%AF%B8%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
 - 线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、各接头 PIN 分配示意图与 500±30 尺寸标注），无文本表格；PIN 分配信息已在 4.1.2 接线表中转写。：
+- 线束外观图｜图4.1.3 M12以太网线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/APOLLO2%207%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 参数表「规格」与任务字段一致：尺寸 200*134*32.52mm、重量 0.69kg，无差异。
 - 1.7 的线束外观图（fc6b9b9b…）与接线表（c4a0a94a…）src 指向 spring_10/spring2 目录，与 intro 中「线束和SPRING2系列共用」一致。
+- 补齐共用表 1 张（同图转写，原归属见各表注）

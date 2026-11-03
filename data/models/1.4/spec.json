@@ -366,7 +366,38 @@
    "notes": "无线束表标题行（仅表格）。对绞标注：第3-4行与第15-16行、第17-18行在 DB9 A(UART) 列标注「对绞」；第9-10行在 DB9 B(UART) 列标注「对绞」；RJ45 列直接写作「1(对绞1/2)」「3(对绞3/6)」「2(对绞1/2)」「6(对绞3/6)」。源图 890x780，已分段放大逐行核对。"
   }
  ],
- "skipped": [],
+ "skipped": [
+  {
+   "sha256": "1fcd8551f2adf201256e656edef854ab61b76a73a8423bb283b3eb118d41aa73",
+   "file": "images/store/1fcd8551f2adf201256e656edef854ab61b76a73a8423bb283b3eb118d41aa73.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/APOLLO%2010%20PRO/%E6%AD%A3%E8%A7%86%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.1 正面图：非表格，见原图"
+  },
+  {
+   "sha256": "c63b0c73415d3ba355ba9254bb9b23b4ddceffa546202458506d8f4860c75c8f",
+   "file": "images/store/c63b0c73415d3ba355ba9254bb9b23b4ddceffa546202458506d8f4860c75c8f.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/10PRO%E7%94%B5%E5%8F%B0%E8%83%8C%E8%A7%86%E5%9B%BE.png",
+   "reason": "外观图｜图2.1.2 背面图：非表格，见原图"
+  },
+  {
+   "sha256": "0f3b774a6084788301d22d47ffadcadc320eb2f4f84e3574726c0ed3b8b30bdb",
+   "file": "images/store/0f3b774a6084788301d22d47ffadcadc320eb2f4f84e3574726c0ed3b8b30bdb.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%96%B0%E5%A2%9E%E6%8E%A5%E5%8F%A3/18pin%E6%8E%A5%E5%8F%A3.png",
+   "reason": "接口实物图｜图3.2.1 接口图：非表格，见原图"
+  },
+  {
+   "sha256": "b3da9c3869ada6ec0ea933d744e6f261e377e9c52bd8c04d8ea1c9adb3ad0886",
+   "file": "images/store/b3da9c3869ada6ec0ea933d744e6f261e377e9c52bd8c04d8ea1c9adb3ad0886.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E7%94%B5%E5%8F%B0/18PIN%E6%8E%A5%E5%8F%A3%E7%BA%BF%E6%9D%9F.png",
+   "reason": "接口实物图｜图4.1.1 18PIN线束外观图：非表格，见原图"
+  },
+  {
+   "sha256": "ab5d01b364b4df063f3179e73e984dac6cc17a31c8d21ee75177dbb7e24aff80",
+   "file": "images/store/ab5d01b364b4df063f3179e73e984dac6cc17a31c8d21ee75177dbb7e24aff80.png",
+   "src": "https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/%E6%98%A5%E5%A4%A910%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png",
+   "reason": "安装图｜图2.1.1 正面图：非表格，见原图"
+  }
+ ],
  "warnings": [
   "尺寸/重量：参数表「规格」为 281*181*42mm / 1.50kg，与任务字段 281*181*42mm / 1.5 kg 一致。",
   "参数表无「尺寸」以外的摄像头/DI 项：影音和传感只有内置麦克风与扬声器（电台版），与 intro 未提摄像头一致。"

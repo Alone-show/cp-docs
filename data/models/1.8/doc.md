@@ -124,7 +124,10 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%E8%83%8C%E9%9D%A2%E5%9B%BE.png
 - 线束外观示意图（工程图纸：26P 对接插头外形、线缆走向、各接头 PIN 分配（Camera 0/Camera 1/RJ45/DB9 A/B/C/Power/IO INPUT/DC OUTPUT）与 500±30 尺寸标注），无文本表格；PIN 分配信息已在 4.1.2 接线表中转写。：
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2-10/APOLLO2%2010%20%E5%AE%89%E8%A3%85%E5%9B%BE1.png
 
 ### 数据提示
 

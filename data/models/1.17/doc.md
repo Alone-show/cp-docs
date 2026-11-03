@@ -58,3 +58,146 @@
 > 注：原图版式为「分类|内容|分类|内容」4 列并排：左栏（系统、通讯和接口、环境参数）自上而下，再右栏（显示、影音和传感、电源管理、连接器、规格、功能按键/指示灯）自上而下折叠为 2 列。表中未单列 gpu/npu/cert 等项，未强行补键。
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/SPRING%207.png
+
+### 接口定义｜3.2 接口定义
+*图3.2.2 SPRING 7接口定义表*
+
+| PORT1-12P | PIN脚定义 | PORT2-10P | PIN脚定义 |
+| --- | --- | --- | --- |
+| 1 | TX2 | 1 | CAN2-H |
+| 2 | RX2 | 2 | CAN2-L |
+| 3 | B- | 3 | GND |
+| 4 | ACC+12V | 4 | CVBS+12V |
+| 5 | B- | 5 | GND |
+| 6 | TX1 | 6 | CVBS1 |
+| 7 | RX1 | 7 | CVBS0 |
+| 8 | 12VOUT1 | 8 | 12out |
+| 9 | CAN1-H | 9 | RS485-A |
+| 10 | CAN1-L | 10 | RS485-B |
+| 11 | B+12V |  |  |
+| 12 | B+12V |  |  |
+
+> 注：原图为 4 列并排（PORT1-12P 左栏 / PORT2-10P 右栏），按阅读顺序保留原表头与列顺序；PORT2 第 11、12 行为空。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+### 接口定义｜3.2 接口定义
+*图3.2.4 SPRING 7B接口定义表*
+
+| PORT1-12P | PIN脚定义 | PORT2-10P | PIN脚定义 |
+| --- | --- | --- | --- |
+| 1 | MCUIN1 | 1 | RJ45_TX+ |
+| 2 | MCUIN2 | 2 | RJ45_TX- |
+| 3 | B- | 3 | GND |
+| 4 | ACC+12V | 4 | CVBS+12V |
+| 5 | B- | 5 | GND |
+| 6 | TX1 | 6 | RJ45_RX+ |
+| 7 | RX1 | 7 | RJ45_RX- |
+| 8 | audio-out | 8 | 12out |
+| 9 | CAN1-H | 9 | RS485-A |
+| 10 | CAN1-L | 10 | RS485-B |
+| 11 | B+12V |  |  |
+| 12 | B+12V |  |  |
+
+> 注：原图为 4 列并排（PORT1-12P 左栏 / PORT2-10P 右栏），按阅读顺序保留原表头与列顺序；PORT2 第 11、12 行为空。（7PRO 版见另一张同版式表）
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7B%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+### 线束定义｜4.1.1 PROT1
+*图4.1.1.2 PROT1线束定义图*
+
+| 安费诺12PIN | 信号定义 | DB9公头(A) | DB9公头(B) | M12 3P(POWER) | M12 4P(12VOUT) |
+| --- | --- | --- | --- | --- | --- |
+| 1 棕 | TX2 |  | 3 |  |  |
+| 2 蓝 | RX2 |  | 2 |  |  |
+| 3 白 | B- |  | 5 | 3 | 2 |
+| 4 绿 | ACC |  |  | 1 |  |
+| 5 黄 | B- | 5 |  | 3 |  |
+| 6 灰 | TX1 | 3 |  |  |  |
+| 7 粉 | RX1 | 2 |  |  |  |
+| 8 红 | MI-12VOUT |  |  |  | 1 |
+| 9 黑 | CAN1 H | 9 |  |  |  |
+| 10 橙 | CAN1 L | 6 |  |  |  |
+| 11 紫 | B+ |  |  | 2 |  |
+| 12 浅绿 | B+ |  |  | 2 |  |
+
+> 注：同图转写（原归属 1.1 APOLLO 7 PRO；原表：图4.1.1.2 PROT1线束定义图）；图内标题为「接线表」。第9-10行 DB9公头(A) 列旁标注「对绞」（CAN1 H/L 对绞）。M12 3P(POWER) 列第11、12行在 B+ 处为合并单元格「2」，已分别填写到两行。第4行（ACC）该单元格显示为「1」后带一条细竖线，疑为截图光标残留，按「1」转写。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/apollo7%20pro/7pro%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 线束定义｜4.1.2 PROT2
+*图4.1.2.2 PROT2线束定义图*
+
+| 安费诺10PIN | 信号定义 | M12 4P(CAMERA A) | M12 4P(CAMERA B) | DB9公头(485) |
+| --- | --- | --- | --- | --- |
+| 1 棕 | CAN2 H |  |  | 9 |
+| 2 蓝 | CAN2 L |  |  | 6 |
+| 3 白 | GND | 2 |  |  |
+| 4 绿 | CVBS-12V | 1 |  |  |
+| 5 黄 | GND |  | 2 | 5 |
+| 6 灰 | CVBS-IN2 | 4 |  |  |
+| 7 粉 | CVBS-IN1 |  | 4 |  |
+| 8 红 | 12V OUT |  | 1 |  |
+| 9 黑 | RS485 A |  |  | 1 |
+| 10 橙 | RS485 B |  |  | 7 |
+
+> 注：同图转写（原归属 1.1 APOLLO 7 PRO；原表：图4.1.2.2 PROT2线束定义图）；第1-2行、第9-10行 DB9公头(485) 列旁标注「对绞」。该列第1/2行为 CAN2 H/L（9/6），第5行为 5，第9/10行为 RS485 A/B（1/7），均按图原样保留。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
+
+### 线束定义｜4.2.1 PROT1
+*图4.2.1.2 PROT1线束定义图*
+
+| 安费诺12PIN | 信号定义 | DB9公头 (A) | INPUT IO | M12 3P(POWER) | AUDIO LINEOUT |
+| --- | --- | --- | --- | --- | --- |
+| 1 棕 | INPUT IO1 |  | INPUT 1 |  |  |
+| 2 蓝 | INPUT IO2 |  | INPUT 2 |  |  |
+| 3 白 | B- |  | GND | 3 | GND |
+| 4 绿 | ACC |  |  | 1 |  |
+| 5 黄 | B- | 5 |  | 3 |  |
+| 6 灰 | TX1 | 3 |  |  |  |
+| 7 粉 | RX1 | 2 |  |  |  |
+| 8 红 | AUDIO-LINEOUT |  |  |  | AUDIO-LINEOUT |
+| 9 黑 | CAN1 H | 9 |  |  |  |
+| 10 橙 | CAN1 L | 6 |  |  |  |
+| 11 紫 | B+ |  |  | 2 |  |
+| 12 浅绿 | B+ |  |  | 2 |  |
+
+> 注：同图转写（原归属 1.1 APOLLO 7 PRO；原表：图4.2.1.2 PROT1线束定义图）；图内标题为「接线表」。第9-10行 DB9公头 (A) 列旁标注「对绞」。M12 3P(POWER) 列第11、12行 B+ 处为合并单元格「2」，已分别填写到两行。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/apollo7%20pro/7bpro%20%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
+### 线束定义｜4.2.2 PROT2
+*图4.2.2.2 PROT2线束定义图*
+
+| 安费诺10PIN | 信号定义 | RJ45 | OUTPUT_IO | DB9公头 (RS485) |
+| --- | --- | --- | --- | --- |
+| 1 棕 | RJ45_TX+ | 1 |  |  |
+| 2 蓝 | RJ45_TX- | 2 |  |  |
+| 3 白 | GND |  | GND |  |
+| 4 绿 | OUTPUT_IO1 |  | OUTPUT_IO1 |  |
+| 5 黄 | GND |  |  | 5 |
+| 6 灰 | RJ45_RX+ | 3 |  |  |
+| 7 粉 | RJ45_RX- | 6 |  |  |
+| 8 红 | OUTPUT_IO2 |  | OUTPUT_IO2 |  |
+| 9 黑 | RS485 A |  |  | 1 |
+| 10 橙 | RS485 B |  |  | 7 |
+
+> 注：同图转写（原归属 1.1 APOLLO 7 PRO；原表：图4.2.2.2 PROT2线束定义图）；第1-2行、第6-7行 RJ45 列旁标注「对绞」（TX、RX 差分对），第9-10行 DB9公头 (RS485) 列旁标注「对绞」。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
+
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 SPRING 7接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E5%9B%BE%E7%A4%BA.png
+
+### 数据提示
+
+- 补齐共用表 6 张（同图转写，原归属见各表注）

@@ -59,6 +59,50 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/%E5%8F%82%E6%95%B0%E8%A1%A8/APOLLO%207PRO.png
 
+### 接口定义｜3.2 接口定义
+*图3.2.2 APOLLO 7PRO接口定义表*
+
+| PORT1-12P | PIN脚定义 | PORT2-10P | PIN脚定义 |
+| --- | --- | --- | --- |
+| 1 | TX2 | 1 | CAN2-H |
+| 2 | RX2 | 2 | CAN2-L |
+| 3 | B- | 3 | GND |
+| 4 | ACC+12V | 4 | CVBS+12V |
+| 5 | B- | 5 | GND |
+| 6 | TX1 | 6 | CVBS1 |
+| 7 | RX1 | 7 | CVBS0 |
+| 8 | 12VOUT1 | 8 | 12out |
+| 9 | CAN1-H | 9 | RS485-A |
+| 10 | CAN1-L | 10 | RS485-B |
+| 11 | B+12V |  |  |
+| 12 | B+12V |  |  |
+
+> 注：原图为 4 列并排（PORT1-12P 左栏 / PORT2-10P 右栏），按阅读顺序保留原表头与列顺序；PORT2 第 11、12 行为空。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
+### 接口定义｜3.2 接口定义
+*图3.2.4 APOLLO 7BPRO接口定义表*
+
+| PORT1-12P | PIN脚定义 | PORT2-10P | PIN脚定义 |
+| --- | --- | --- | --- |
+| 1 | MCUIN1 | 1 | RJ45_TX+ |
+| 2 | MCUIN2 | 2 | RJ45_TX- |
+| 3 | B- | 3 | GND |
+| 4 | ACC+12V | 4 | CVBS+12V |
+| 5 | B- | 5 | GND |
+| 6 | TX1 | 6 | RJ45_RX+ |
+| 7 | RX1 | 7 | RJ45_RX- |
+| 8 | audio-out | 8 | 12out |
+| 9 | CAN1-H | 9 | RS485-A |
+| 10 | CAN1-L | 10 | RS485-B |
+| 11 | B+12V |  |  |
+| 12 | B+12V |  |  |
+
+> 注：原图为 4 列并排（PORT1-12P 左栏 / PORT2-10P 右栏），按阅读顺序保留原表头与列顺序；PORT2 第 11、12 行为空。（7PRO 版见另一张同版式表）
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7B%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+
 ### 线束定义｜4.1.1 PROT1
 *图4.1.1.2 PROT1线束定义图*
 
@@ -143,7 +187,19 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%AE%9A%E4%B9%89%E5%9B%BE.png
 
+### 未转写的图片（照片/示意图，见原图）
+
+- 外观图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E6%AD%A3%E9%9D%A2%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E8%83%8C%E9%9D%A2%E5%9B%BE.png
+- 接口实物图｜图3.2.1 APOLLO 7PRO接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/7A.png
+- 线束外观图｜图4.1.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.1.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.1.1 PROT1线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port1%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 线束外观图｜图4.2.2.1 PROT2线束外观图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/spring7B_port2%E7%BA%BF%E6%9D%9F%E5%A4%96%E8%A7%82%E5%9B%BE.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_7/%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC%E5%9B%BE%E7%A4%BA.png
+
 ### 数据提示
 
 - intro 写「支持2路720p或者2路1080pAHD摄像头输入」，参数表「影音和传感」仅写「AHD 摄像头 720p*2」，以图为准。
 - 尺寸/重量：参数表「规格」为 194*127*29mm / 0.70kg，与任务字段 194*127*29mm / 0.7 kg 一致。
+- 补齐共用表 2 张（同图转写，原归属见各表注）

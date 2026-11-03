@@ -134,6 +134,60 @@
 
 > 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12%20PRO%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
 
+### 接口定义｜3.2 接口定义
+*图3.2.3 M12以太网接口定义表*
+
+| PIN 脚 | 定义 |
+| --- | --- |
+| 1 | PHY_MDI_0+ |
+| 2 | PHY_MDI_0- |
+| 3 | PHY_MDI_1+ |
+| 4 | PHY_MDI_1- |
+| 5 | PHY_MDI_3+ |
+| 6 | PHY_MDI_3- |
+| 7 | PHY_MDI_2- |
+| 8 | PHY_MDI_2+ |
+
+> 注：同图转写（原归属 1.6 APOLLO 7 二代；原表：图3.2.3 M12以太网接口定义表）
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%8E%A5%E5%8F%A3%E5%AE%9A%E4%B9%89.png
+
+### 线束定义｜4.1.1
+*图4.1.2 PORT1接线表*
+
+| TE-26P | PIN定义 | 线径 | 线贴纸 | 线颜色 | M1_2P(AUDIO_OUT) | M2_4P(CAMERA_0) | M3_4P(CAMERA_1) | 网口（RJ45） | M4_4P(IO INPUT) | M5_3P(POWER) | DB9A （公头） | DB9B （公头） | DB9C(公头) | M6_4P (DC OUTPUT) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | B+ | 18# | B+ | 黑白色 |  |  |  |  |  | 2 |  |  |  |  |
+| 2 | B− | 18# | B− | 黑灰色 |  |  |  |  |  | 3 |  |  |  |  |
+| 3 | ACC | 18# | ACC | 黑紫色 |  |  |  |  |  | 1 |  |  |  |  |
+| 4 | CAN1_H | 24# | CAN1_H | 黑蓝色 |  |  |  |  |  |  |  |  | 9/6 对绞线 |  |
+| 5 | CAN1_L | 24# | CAN1_L | 黑绿色 |  |  |  |  |  |  |  |  |  |  |
+| 6 | OUTPUT1 | 18# | OUTPUT1 | 黑色 |  |  |  |  |  |  |  |  |  | 2 |
+| 7 | OUTPUT2 | 18# | OUTPUT2 | 黄色 | 1 |  |  |  |  |  |  |  |  | 3 |
+| 8 | GND | 18# | GND | 白色 | 2 | 2 | 2 |  | 1-2 |  | 5 | 5 | 5 | 1 |
+| 9 | RS485_A | 24# | RS485_A | 灰色 |  |  |  |  |  |  |  |  | 3/2 对绞线 |  |
+| 10 | RS485_B | 24# | RS485_B | 紫色 |  |  |  |  |  |  |  |  |  |  |
+| 11 | CAN2-H | 24# | CAN2-H | 蓝色 |  |  |  |  |  |  |  |  | 7/1 对绞线 |  |
+| 12 | CAN2-L | 24# | CAN2-L | 绿色 |  |  |  |  |  |  |  |  |  |  |
+| 13 | OUTPUT3 | 18# | OUTPUT3 | 红色 |  |  |  |  |  |  |  |  |  | 4 |
+| 14 | RS232_TX1 | 24# | RS232_TX1 | 棕色 |  |  |  |  |  |  | 3（2/3对绞） |  |  |  |
+| 15 | INPUT2 | 24# | INPUT2 | 粉红色 |  |  |  |  | 4 |  |  |  |  |  |
+| 16 | CAMERA_1 | 24# | CAMERA_1 | 黑黄色 |  |  | 4 |  |  |  |  |  |  |  |
+| 17 | RS232_RX2 | 24# | RS232_RX2 | 黑粉红色 |  |  |  |  |  |  |  | 2（2/3对绞） |  |  |
+| 18 | RJ45 TX- | 24# | RJ45 TX- | 浅白色 |  |  |  | 2(1和2对绞) |  |  |  |  |  |  |
+| 19 | RJ45_RX- | 24# | RJ45_RX- | 浅白色 |  |  |  | 6（3和6对绞） |  |  |  |  |  |  |
+| 20 | RS232_RX1 | 24# | RS232_RX1 | 黑棕色 |  |  |  |  |  |  | 2（2/3对绞） |  |  |  |
+| 21 | INPUT1 | 24# | INPUT1 | 黑色 |  |  |  |  | 3 |  |  |  |  |  |
+| 22 | CAMERA_0 | 24# | CAMERA_0 | 浅白色 |  | 4 |  |  |  |  |  |  |  |  |
+| 23 | CAMERA_PWR | 24# | CAMERA_PWR | 浅白色 |  | 1 | 1 |  |  |  |  |  |  |  |
+| 24 | RS232_TX2 | 24# | RS232_TX2 | 浅白色 |  |  |  |  |  |  |  | 3（2/3对绞） |  |  |
+| 25 | RJ45_TX+ | 24# | RJ45_TX+ | 黑色 |  |  |  | 1(1和2对绞) |  |  |  |  |  |  |
+| 26 | RJ45_RX+ | 24# | RJ45_RX+ | 浅白色 |  |  |  | 3（3和6对绞） |  |  |  |  |  |  |
+
+> 注：同图转写（原归属 1.7 APOLLO 7A 二代；原表：图4.1.2 接线表）；表中「x/y 对绞线」为纵向合并单元格：DB9C 列「9/6 对绞线」跨 PIN4-5、「3/2 对绞线」跨 PIN9-10、「7/1 对绞线」跨 PIN11-12；转写时记在合并区首行，续行留空。
+
+> 原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E6%8E%A5%E7%BA%BF%E8%A1%A8.png
+
 ### 线束定义｜4.1.1
 *图4.1.4 PORT2接线表*
 
@@ -172,10 +226,17 @@
 
 ### 未转写的图片（照片/示意图，见原图）
 
+- 外观图｜2.1 APOLLO 12 PRO外观介绍：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E6%AD%A3%E8%A7%86%E5%9B%BE.png
+- 外观图｜图2.1.2 背面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12pro%20%E8%83%8C%E8%A7%86%E5%9B%BE.png
+- 接口实物图｜图3.2.1 接口图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012PRO/%E6%8E%A5%E5%8F%A3%E5%9B%BE.png
+- 线束外观图｜图4.1.1 PORT1线束定义：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/spring_10/spring2/%E7%BA%BF%E6%9D%9F.png
 - PORT2 线束外观/走线示意图（线束外观图），非表格：图中为连接器线束走线与端子编号标注，无表格行列结构；仅有的文字为「注意：线序按此图纸标注的定义接线，无需参考实物上的丝印标号」及各连接器针脚标注。：
+- 线束外观图｜图4.1.3 M12以太网线束：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/APOLLO2%20M12%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%BA%BF%E6%9D%9F.png
+- 安装图｜图2.1.1 正面图：非表格，见原图：https://mdmobs.cpuniverse.cn/gitbook/01-%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D/APOLLO2%2012/12PRO%20%E5%AE%89%E8%A3%85%E6%8C%87%E5%AF%BC.png
 
 ### 数据提示
 
 - 重量：参数表「规格」写 1.73kg，任务/页面文字为 1.75 kg，两者不一致；size_mm/weight_kg 已按图取 1.73。
 - 尺寸：参数表「尺寸(W*H*D)：317.8*219.6*34.5mm」与任务文字 317.8*219.6*34.5mm 一致。
 - 同一张 sha256=cd7af383… 的接口定义图内含 PORT 1、PORT 2 两张 26P 表，已分别转写为两条 tables 记录（sha256 集合仍与 candidates 一致）。
+- 补齐共用表 2 张（同图转写，原归属见各表注）
